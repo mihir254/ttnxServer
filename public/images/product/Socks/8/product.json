@@ -1,0 +1,47 @@
+{
+    "_id": "7092",
+    "name": "7092 Calf Length  ",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00b0 Elastane body\n StayFresh technology",
+    "size": [
+        "ONE SIZE"
+    ],
+    "colors": [
+        "Available",
+        "in",
+        "Assorted",
+        "Colours",
+        "Black",
+        "&",
+        "(Charcoal",
+        "Mel.",
+        "&",
+        "Charcoal",
+        "Mal.",
+        "Black",
+        "White",
+        "&",
+        "Navy",
+        "Mel.",
+        "&",
+        "Grey",
+        "Mel.",
+        "Blue",
+        "Mal,",
+        "\u2018Grey",
+        "Mel.",
+        "&",
+        "\u2018Charcoal",
+        "Mel",
+        "Khali",
+        "&",
+        "Brown",
+        "Mel."
+    ],
+    "images": [
+        "public/images/product/Socks/10/product.png",
+        "public/images/product/Socks/10/colors.png"
+    ]
+}

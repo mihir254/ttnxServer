@@ -1,0 +1,27 @@
+{
+    "_id": "UM16",
+    "name": "UM 16 TANK TOP  USA ORIGINALS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich fabric\n* Comfort Fit\n* Deep neck line and armhole for extra comfort\n\u00ab Authentic Jockey\u201d logo label detailling",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "RED",
+        "GRINDLE",
+        "BLACK",
+        "NAVY",
+        "GRINDLE",
+        "GRINDLE"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/45/product.png",
+        "public/images/product/MEN_OUTER/45/colors.png",
+        "public/images/product/MEN_OUTER/45/size.png"
+    ]
+}

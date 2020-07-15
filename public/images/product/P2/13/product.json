@@ -1,0 +1,31 @@
+{
+    "_id": "US49",
+    "name": "US49 BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "\u00a2 100% Super Combed Cotton fabric\n\u00a2 Durable and Ultra Soft waistband\n* Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "RED",
+        "MEL.",
+        "INK",
+        "BLUE",
+        "MEL.",
+        "GREY",
+        "MEL.",
+        "LT.DENIM",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/P2/13/product.png",
+        "public/images/product/P2/13/colors.png",
+        "public/images/product/P2/13/size.png"
+    ]
+}

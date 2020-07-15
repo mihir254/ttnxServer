@@ -1,0 +1,29 @@
+{
+    "_id": "FG01",
+    "name": "FG01 PANTY",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton fabric\n* Concealed waistband",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Bright",
+        "Violet",
+        "Ruby",
+        "Ruby",
+        "Teal",
+        "Bright",
+        "Violet"
+    ],
+    "images": [
+        "public/images/product/KIDS/76/product.png",
+        "public/images/product/KIDS/76/colors.png",
+        "public/images/product/KIDS/76/size.png"
+    ]
+}

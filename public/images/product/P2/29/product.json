@@ -1,0 +1,31 @@
+{
+    "_id": "IC24",
+    "name": "IC24 BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "\u00a2 MicroModal\u00ae Cotton Elastane Stretch fabric\n\u00a2 Durable and soft waistband\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "WU",
+        "WHITE",
+        "BLACK",
+        "BRIGHT",
+        "LIGHT",
+        "GREY",
+        "TRUE",
+        "NAVY",
+        "OCEAN",
+        "DEPTH"
+    ],
+    "images": [
+        "public/images/product/P2/29/product.png",
+        "public/images/product/P2/29/colors.png",
+        "public/images/product/P2/29/size.png"
+    ]
+}

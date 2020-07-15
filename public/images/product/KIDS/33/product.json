@@ -1,0 +1,30 @@
+{
+    "_id": "ABO07",
+    "name": "ABO07 SWEATSHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "*\u00ab Super Combed Cotton Rich fabric\n\u00ab Authentic JOCKEY branding with athletic inspired prints",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Neon",
+        "Blue",
+        "Team",
+        "Red",
+        "Golden",
+        "Poppy",
+        "Greenery",
+        "Navy"
+    ],
+    "images": [
+        "public/images/product/KIDS/33/product.png",
+        "public/images/product/KIDS/33/colors.png",
+        "public/images/product/KIDS/33/size.png"
+    ]
+}

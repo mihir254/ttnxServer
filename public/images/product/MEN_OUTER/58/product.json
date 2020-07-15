@@ -1,0 +1,27 @@
+{
+    "_id": "US94",
+    "name": "US 94 LOUNGE PANTS  USA ORIGINALS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich fabric\n* Elasticated waistband with drawstring\n* Front patch pockets\n\u00ab Authentic Jockey\u00ae USA Originalspatch label on back pocket",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "NAVY",
+        "CHARCOAL",
+        "GREY",
+        "MEL.",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/58/product.png",
+        "public/images/product/MEN_OUTER/58/colors.png",
+        "public/images/product/MEN_OUTER/58/size.png"
+    ]
+}

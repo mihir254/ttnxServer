@@ -1,0 +1,45 @@
+{
+    "_id": "",
+    "name": "",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich Fabric\n+ Embroidered Chest Emblem\n* Contrast Placket & Neck Tape Detailing",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "WHITE",
+        "NAVY",
+        "BLACK",
+        "SHANGHAI",
+        "CHARCOAL",
+        "RED",
+        "MEL.",
+        "DEEP",
+        "DEEP",
+        "TANGO",
+        "ALASKAN",
+        "BURNT",
+        "EDEN",
+        "ATLANTIS",
+        "BLUE",
+        "GOLD",
+        "GREEN",
+        "GRAPHITE",
+        "GREY",
+        "MEL.",
+        "PLUM",
+        "PERFORMANCE",
+        "PERFECT",
+        "GREY"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/19/product.png",
+        "public/images/product/MEN_OUTER/19/colors.png",
+        "public/images/product/MEN_OUTER/19/size.png"
+    ]
+}

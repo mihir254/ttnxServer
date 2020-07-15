@@ -1,0 +1,40 @@
+{
+    "_id": "RGO03",
+    "name": "RGO03 SHORTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Relaxed fit",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "ie",
+        "Coe:",
+        "a",
+        "o",
+        "Wild",
+        "Orchid",
+        "Lavender",
+        "Coral",
+        "Reef",
+        "Pale",
+        "Banana",
+        "+",
+        "Super",
+        "Combed",
+        "Cotton",
+        "Elastane",
+        "Stretch",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/110/product.png",
+        "public/images/product/KIDS/110/colors.png",
+        "public/images/product/KIDS/110/size.png"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "_id": "US69",
+    "name": "US69 BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "\u00a2 Pima Cotton Modal Elastane Stretch fabric\n\u00a2 Durable and soft waistband\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLUE",
+        "JASPE",
+        "INK",
+        "BLUE",
+        "RED",
+        "JASPE",
+        "BLACK"
+    ],
+    "images": [
+        "public/images/product/P2/17/product.png",
+        "public/images/product/P2/17/colors.png",
+        "public/images/product/P2/17/size.png"
+    ]
+}

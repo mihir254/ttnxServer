@@ -1,0 +1,31 @@
+{
+    "_id": "1015",
+    "name": "1015 TRUNK",
+    "brand": "Jockey",
+    "category": 20,
+    "price": 0,
+    "description": "\u00a2 100% Super Combed Cotton Rib fabric\n\u00a2 Durable and ultra soft waistband\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "White",
+        "Charcoal",
+        "Mel.",
+        "Mid",
+        "Blue",
+        "Estate",
+        "Blue",
+        "Black",
+        "Black",
+        "Mel."
+    ],
+    "images": [
+        "public/images/product/P2/9/product.png",
+        "public/images/product/P2/9/colors.png",
+        "public/images/product/P2/9/size.png"
+    ]
+}

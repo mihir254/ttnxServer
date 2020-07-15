@@ -1,0 +1,29 @@
+{
+    "_id": "ELO1",
+    "name": "ELO1 Y FRONT\u00ae TRUNK",
+    "brand": "Jockey",
+    "category": 20,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton Rib fabric\n\u00a2 Jockey Y-Front Pouch Opening\n\u00a2 Durable and ultra soft waistband\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "White",
+        "\u2018Brey!",
+        "MeL",
+        "Charcoal",
+        "Mel.",
+        "Black",
+        "Mid",
+        "Blue"
+    ],
+    "images": [
+        "public/images/product/P2/8/product.png",
+        "public/images/product/P2/8/colors.png",
+        "public/images/product/P2/8/size.png"
+    ]
+}

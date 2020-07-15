@@ -1,0 +1,29 @@
+{
+    "_id": "US07",
+    "name": "US07 BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "* Super Combed Cotton Elastane stretch fabric\n* Durable and Ultra Soft waistband\n* Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "an",
+        "ZONE",
+        "RED",
+        "GREY",
+        "MEL.",
+        "CHARCOAL",
+        "MEL.",
+        "WHITE"
+    ],
+    "images": [
+        "public/images/product/Premium 1/4/product.png",
+        "public/images/product/Premium 1/4/colors.png",
+        "public/images/product/Premium 1/4/size.png"
+    ]
+}

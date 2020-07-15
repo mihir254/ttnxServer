@@ -1,0 +1,35 @@
+{
+    "_id": "2714P",
+    "name": "2714P CREW-NECK T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich fabric\n* Comfort Fit\n\u00a2 Ribbed crew-neck prevents sagging\n\u00ab Authentic Jockey\u00ae logo label",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "Mm",
+        "tt",
+        "ini",
+        "2.",
+        "aS",
+        "PACIFIC",
+        "GREEN",
+        "INSIGNIA",
+        "BLUE",
+        "LIGHT",
+        "GREY",
+        "MEL",
+        "J.GRAPHITE",
+        "BURGUNDY"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/15/product.png",
+        "public/images/product/MEN_OUTER/15/colors.png",
+        "public/images/product/MEN_OUTER/15/size.png"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "_id": "AG04",
+    "name": "AG04 SHORTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Convenient front pockets",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Ruby",
+        "Snow",
+        "Mel",
+        "Blue",
+        "Snow",
+        "Mel",
+        "Black",
+        "Snow",
+        "Mel.",
+        ":",
+        "LT.",
+        "Grey",
+        "Snow",
+        "Mel.",
+        "*",
+        "100%",
+        "Super",
+        "Combed",
+        "Cotton",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/91/product.png",
+        "public/images/product/KIDS/91/colors.png",
+        "public/images/product/KIDS/91/size.png"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "_id": "FP21",
+    "name": "FP21 TRUNK",
+    "brand": "Jockey",
+    "category": 20,
+    "price": 0,
+    "description": "* Super Combed Cotton Elastane Stretch fabric\n* Durable and Ultra Soft neon waistband\n* Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [],
+    "images": [
+        "public/images/product/Premium 1/22/product.png",
+        "public/images/product/Premium 1/22/colors.png",
+        "public/images/product/Premium 1/22/size.png"
+    ]
+}

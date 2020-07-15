@@ -1,0 +1,38 @@
+{
+    "_id": "AG15",
+    "name": "AG15 ",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Ruby/",
+        "Poseidon/",
+        "Dubarry/",
+        "Paradise",
+        "Teal/",
+        "Poseidon",
+        "Ruby",
+        "Poseidon",
+        "Poseidon",
+        "*",
+        "Super",
+        "Combed",
+        "Cotton",
+        "Elastane",
+        "Stretch",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/94/product.png",
+        "public/images/product/KIDS/94/colors.png",
+        "public/images/product/KIDS/94/size.png"
+    ]
+}

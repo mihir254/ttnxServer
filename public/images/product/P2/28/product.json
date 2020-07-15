@@ -1,0 +1,20 @@
+{
+    "_id": "IC13",
+    "name": "IC13 VEST",
+    "brand": "Jockey",
+    "category": 5,
+    "price": 0,
+    "description": "\u00a2 Micro Modal\u00ae Combed Cotton Rib fabric\n\u00a2 Extended length to ease \u2018tucking in'\n* Double reinforced shoulder strap seams",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [],
+    "images": [
+        "public/images/product/P2/28/product.png",
+        "public/images/product/P2/28/colors.png",
+        "public/images/product/P2/28/size.png"
+    ]
+}

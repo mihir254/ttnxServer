@@ -1,0 +1,30 @@
+{
+    "_id": "IC32",
+    "name": "IC32 TRUNK",
+    "brand": "Jockey",
+    "category": 20,
+    "price": 0,
+    "description": "\u00a2 Pima Cotton Elastane fabric\n\u00a2 Durable and Ultra Soft waistband\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "WHITE",
+        "BLACK",
+        "TRUE",
+        "NAVY",
+        "GUNMETAL",
+        "POTENT",
+        "PURPLE",
+        "OCEAN",
+        "DEPTH"
+    ],
+    "images": [
+        "public/images/product/P2/36/product.png",
+        "public/images/product/P2/36/colors.png",
+        "public/images/product/P2/36/size.png"
+    ]
+}

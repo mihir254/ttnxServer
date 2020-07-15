@@ -1,0 +1,29 @@
+{
+    "_id": "UB51",
+    "name": "UB51 ",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton fabric\n\u00ab Americana inspired print on front body",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "WHITE",
+        "TEAM",
+        "RED",
+        "BLUE",
+        "CORAL",
+        "CORN",
+        "SILK"
+    ],
+    "images": [
+        "public/images/product/KIDS/49/product.png",
+        "public/images/product/KIDS/49/colors.png",
+        "public/images/product/KIDS/49/size.png"
+    ]
+}

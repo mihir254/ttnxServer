@@ -1,0 +1,30 @@
+{
+    "_id": "UB53",
+    "name": "UB53 SHORTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "*\u00ab Super Combed Cotton fabric\n*\u00ab Americana inspired print",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Ink",
+        "Blue",
+        "Mel.",
+        "Steel",
+        "Grey",
+        "Mel.",
+        "Black",
+        "Mel."
+    ],
+    "images": [
+        "public/images/product/KIDS/56/product.png",
+        "public/images/product/KIDS/56/colors.png",
+        "public/images/product/KIDS/56/size.png"
+    ]
+}

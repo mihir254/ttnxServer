@@ -1,0 +1,32 @@
+{
+    "_id": "IC25",
+    "name": "IC25 TRUNK",
+    "brand": "Jockey",
+    "category": 20,
+    "price": 0,
+    "description": "\u00a2 MicroModal\u00ae Cotton Elastane Stretch fabric\n\u00a2 Durable and soft waistband\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "SS",
+        "SS",
+        "BLACK",
+        "BRIGHT",
+        "LIGHT",
+        "GREY",
+        "WHITE",
+        "OCEAN",
+        "DEPTH",
+        "TRUE",
+        "NAVY"
+    ],
+    "images": [
+        "public/images/product/P2/33/product.png",
+        "public/images/product/P2/33/colors.png",
+        "public/images/product/P2/33/size.png"
+    ]
+}

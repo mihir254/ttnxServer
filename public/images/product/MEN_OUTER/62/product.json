@@ -1,0 +1,32 @@
+{
+    "_id": "IMO1",
+    "name": "IM O1 V-NECK T-SHIRT               NOILOATIOO IYNOILYNGALNI",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Supima Cotton fabric\n* Straight Fit\n* Ribbed V-neck prevents sagging\n\u00a2 Authentic Jockey branding",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "GUNMETAL",
+        "TRUE",
+        "NAVY",
+        "WHITE",
+        "WINETASTING",
+        "BLUE",
+        "CORAL",
+        "CINNABAR",
+        "SHANGHAI",
+        "RED"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/62/product.png",
+        "public/images/product/MEN_OUTER/62/colors.png",
+        "public/images/product/MEN_OUTER/62/size.png"
+    ]
+}

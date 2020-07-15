@@ -1,0 +1,29 @@
+{
+    "_id": "1020",
+    "name": "1020 BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "\u00a2 100% Super Combed Cotton Rib fabric\n\u00a2 Durable and ultra soft waistband\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "VU.",
+        "Black",
+        "Grey",
+        "Mel.",
+        "Estate",
+        "Blue",
+        "Black",
+        "Mel."
+    ],
+    "images": [
+        "public/images/product/P2/7/product.png",
+        "public/images/product/P2/7/colors.png",
+        "public/images/product/P2/7/size.png"
+    ]
+}

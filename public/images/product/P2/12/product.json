@@ -1,0 +1,35 @@
+{
+    "_id": "US54",
+    "name": "US54 GYM VEST",
+    "brand": "Jockey",
+    "category": 5,
+    "price": 0,
+    "description": "\u00a2 100% Super Combed Cotton Rib fabric\n\u00a2 USA Originals back panel print\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "i",
+        "WHITE",
+        "BLACK",
+        "RED",
+        "MEL.",
+        "i",
+        "INK",
+        "BLUE",
+        "MEL.",
+        "LIGHT",
+        "DENIM",
+        "MEL.",
+        "GREY",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/P2/12/product.png",
+        "public/images/product/P2/12/colors.png",
+        "public/images/product/P2/12/size.png"
+    ]
+}

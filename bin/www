@@ -1,0 +1,144 @@
+#!/usr/bin/env node
+
+/**
+ * Module dependencies.
+ */
+
+var app = require("../app");
+var debug = require("debug")("backend:server");
+var http = require("http");
+var https = require("https");
+var fs = require("fs");
+
+const Category = require("../models/category");
+const Counter = require("../models/counter");
+
+/**
+ * Get port from environment and store in Express.
+ */
+
+var port = normalizePort(process.env.PORT || "5000");
+app.set("port", port);
+app.set("secPort", port + 443);
+/**
+ * Create HTTP server.
+ */
+
+var server = http.createServer(app);
+
+/**
+ * Listen on provided port, on all network interfaces.
+ */
+
+//  HTTP Server
+server.listen(port, () => {
+  // Adding a root category if not existing
+  Category.findOne({ name: "root" })
+    .then((cat) => {
+      if (cat == null) {
+        Category.create({ _id: 1, name: "root" })
+          .then((cat) => console.log("Root created!"))
+          .catch((err) => console.log(err));
+      } else {
+        console.log("Catgory root already existing!");
+      }
+    })
+    .catch((err) => console.log(err));
+  Counter.findOne({ name: "orderId" })
+    .then((counter) => {
+      if(counter == null){
+        Counter.create({ name:"orderId", count:1000 })
+          .then((newCounter) => console.log("OrderId Counter Created"))
+          .catch((err) => console.log(err));
+      }
+      else{
+        console.log("OrderId Counter Existing");
+      }
+    })
+    .catch((err) => console.log(err));
+});
+server.on("error", onError);
+server.on("listening", onListening);
+
+// HTTPS Server
+// var options = {
+//   key: fs.readFileSync(__dirname + '/key.pem'),
+//   cert: fs.readFileSync(__dirname + '/cert.pem')
+// }
+
+// var sercureServer = https.createServer(options, app);
+
+// sercureServer.listen(app.get('secPort'), () => {
+//   console.log("Secure server started");
+//   // Adding a root category if not existing
+//   Category.findOne({ name: "root" })
+//     .then((cat) => {
+//       if (cat == null) {
+//         Category.create({ _id: 1, name: "root" })
+//           .then((cat) => console.log("Root created!"))
+//           .catch((err) => console.log(err));
+//       }
+//       else {
+//         console.log("Catgory root already existing!");
+//       }
+//     })
+//     .catch((err) => console.log(err));
+// });
+// sercureServer.on('error', onError);
+// sercureServer.on('listening', onListening);
+
+/**
+ * Normalize a port into a number, string, or false.
+ */
+
+function normalizePort(val) {
+  var port = parseInt(val, 10);
+
+  if (isNaN(port)) {
+    // named pipe
+    return val;
+  }
+
+  if (port >= 0) {
+    // port number
+    return port;
+  }
+
+  return false;
+}
+
+/**
+ * Event listener for HTTP server "error" event.
+ */
+
+function onError(error) {
+  if (error.syscall !== "listen") {
+    throw error;
+  }
+
+  var bind = typeof port === "string" ? "Pipe " + port : "Port " + port;
+
+  // handle specific listen errors with friendly messages
+  switch (error.code) {
+    case "EACCES":
+      console.error(bind + " requires elevated privileges");
+      process.exit(1);
+      break;
+    case "EADDRINUSE":
+      console.error(bind + " is already in use");
+      process.exit(1);
+      break;
+    default:
+      throw error;
+  }
+}
+
+/**
+ * Event listener for HTTP server "listening" event.
+ */
+
+function onListening() {
+  var addr = server.address();
+  var bind = typeof addr === "string" ? "pipe " + addr : "port " + addr.port;
+  debug("Listening on " + bind);
+}

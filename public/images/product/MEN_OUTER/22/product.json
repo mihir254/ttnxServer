@@ -1,0 +1,38 @@
+{
+    "_id": "AM80",
+    "name": "AM 80 LONG SLEEVE T-SHIRT  ATHLEISURE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Combed Cotton Blend fabric\n* Ribbed v-neck prevents sagging\n\u00ab Authentic Jockey\u00ae branding",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "NAVY",
+        "/",
+        "BLACK",
+        "/",
+        "MAUVE",
+        "WINE",
+        "/",
+        "GREEN",
+        "GABLES",
+        "/",
+        "BIJOU",
+        "BLUE",
+        "PEWTER",
+        "TWILIGHT",
+        "SILVER",
+        "PINE",
+        "MAUVE"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/22/product.png",
+        "public/images/product/MEN_OUTER/22/colors.png",
+        "public/images/product/MEN_OUTER/22/size.png"
+    ]
+}

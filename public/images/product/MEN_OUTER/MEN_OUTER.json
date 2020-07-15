@@ -1,0 +1,1804 @@
+[
+    {
+        "_id": "9928",
+        "name": "9928 TANK TOP",
+        "brand": "Jockey",
+        "category": 31,
+        "price": 429,
+        "description": "* Super Combed Cotton Rich Fabric\n* Graphic Print\n Authentic Jockey\u00ae Logo Label Detailling",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "NAVY",
+            "TEAM RED",
+            "WHITE",
+            "BLACK.",
+            "NEON BLUE",
+            "PACIFIC GREEN"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/10/product.png",
+            "public/images/product/MEN_OUTER/10/colors.png"
+        ]
+    },
+    {
+        "_id": "9928N",
+        "name": "9928 N TANK TOP",
+        "brand": "Jockey",
+        "category": 31,
+        "price": 429,
+        "description": "* Super Combed Cotton Rich fabric\n* Deep neck line and armhole for extra comfort\n* Sporty placement print\n Authentic Jockey\u201d logo label detailling",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "NAVY",
+            "WHITE",
+            "ORANGE RUST",
+            "GRAPHITE",
+            "PERFORMANCE GREY"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/11/product.png",
+            "public/images/product/MEN_OUTER/11/colors.png"
+        ]
+    },
+    {
+        "_id": "9928P",
+        "name": "9928 P TANK TOP",
+        "brand": "Jockey",
+        "category": 31,
+        "price": 499,
+        "description": "* Super Combed Cotton Rich fabric\n* Deep neck line and armhole for extra comfort\n* All over tonal graphic\n Authentic Jockey\u201d logo label detailling",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "NEON BLUE",
+            "NAVY",
+            "LIGHT GREY MEL."
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/12/product.png",
+            "public/images/product/MEN_OUTER/12/colors.png"
+        ]
+    },
+    {
+        "_id": "2714",
+        "name": "2714 CREW-NECK T-SHIRT",
+        "brand": "Jockey",
+        "category": 11,
+        "price": 459,
+        "description": "* Super Combed Cotton Rich Fabric\n Authentic Jockey\u00ae Logo Label",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "WHITE",
+            "NAVY",
+            "BLACK",
+            "SHANGHAI RED",
+            "CHARCOAL MEL.",
+            "DEEP ATLANTIS",
+            "AZURE BLUE",
+            "SEAPORT TEAL",
+            "BURNT GOLD",
+            "EDEN GREEN",
+            "ORANGE RUST",
+            "GREY MEL.",
+            "PLUM PERFECT",
+            "PACIFIC GREEN",
+            "PERFORMANCE GREY",
+            "DESERT SUN"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/13/product.png",
+            "public/images/product/MEN_OUTER/13/colors.png"
+        ]
+    },
+    {
+        "_id": "2715",
+        "name": "2715 STRIPED CREW-NECK T-SHIRT",
+        "brand": "Jockey",
+        "category": 11,
+        "price": 499,
+        "description": "* Super Combed Cotton Rich Fabric\n Authentic Jockey\u00ae Logo Label",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "NAVY/CHARCOAL MEL.",
+            "NAVY/EDEN GREEN",
+            "NAVY/GREY MEL.",
+            "BURNT GOLD/GREY MEL.",
+            "NAVY/WHITE",
+            "CHARCOAL MEL./DEEP TANGO",
+            "NAVY/CEDAR GREEN",
+            "NAVY/SHANGHAI RED",
+            "MAUVE WINE/NAVY"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/14/product.png",
+            "public/images/product/MEN_OUTER/14/colors.png"
+        ]
+    },
+    {
+        "_id": "2714P",
+        "name": "2714P CREW-NECK T-SHIRT",
+        "brand": "Jockey",
+        "category": 11,
+        "price": 599,
+        "description": "* Super Combed Cotton Rich fabric\n* Comfort Fit\n* Ribbed crew-neck prevents sagging\n Authentic Jockey\u00ae logo label",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "PACIFIC GREEN",
+            "INSIGNIA BLUE",
+            "LIGHT GREY MEL",
+            "J.GRAPHITE",
+            "BURGUNDY"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/15/product.png",
+            "public/images/product/MEN_OUTER/15/colors.png"
+        ]
+    },
+    {
+        "_id": "AM50",
+        "name": "AM 50 T-SHIRT",
+        "brand": "Jockey",
+        "category": 10,
+        "price": 499,
+        "description": "* Combed Cotton Blend fabric\n* Comfort Fit\n* Ribbed V-neck prevents sagging\n Authentic Jockey\u00ae logo label",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "NAVY",
+            "MAUVE WINE",
+            "SEAPORT TEAL",
+            "BURNT GOLD",
+            "PACIFIC GREEN"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/16/product.png",
+            "public/images/product/MEN_OUTER/16/colors.png"
+        ]
+    },
+    {
+        "_id": "AM51",
+        "name": "AM 51 STRIPED V-NECK T-SHIRT",
+        "brand": "Jockey",
+        "category": 12,
+        "price": 499,
+        "description": "* Premium Super Combed Cotton Rich single jersey fabric\n* Regular fit\n* Ribbed V-neck to prevent sagging\n Authentic Jockey\u00ae branding\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "GRAPHITE/BLACK",
+            "DEEP TANGO/CHARCOAL",
+            "NAVY/SHANGHAI RED",
+            "BURNT GOLD/MID GREY MEL.",
+            "MID GREY MEL./NAVY",
+            "CEDARGREEN/NAVY",
+            "INSIGNIA BLUE/BURNT GOLD"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/17/product.png",
+            "public/images/product/MEN_OUTER/17/colors.png"
+        ]
+    },
+    {
+        "_id": "2726",
+        "name": "2726 V-NECK T-SHIRT",
+        "brand": "Jockey",
+        "category": 12,
+        "price": 459,
+        "description": "* Super Combed Cotton Rich Fabric\n Authentic Jockey\u00ae Logo Label",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "WHITE",
+            "NAVY",
+            "BLACK",
+            "SHANGHAI RED",
+            "CHARCOAL MEL.",
+            "DEEP ATLANTIS",
+            "AZURE BLUE",
+            "SEAPORT TEAL",
+            "BURNT GOLD",
+            "EDEN GREEN",
+            "ORANGE RUST",
+            "GREY MEL.",
+            "PLUM PERFECT",
+            "PACIFIC GREEN",
+            "PERFORMANCE GREY",
+            "DESERT SUN"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/18/product.png",
+            "public/images/product/MEN_OUTER/18/colors.png"
+        ]
+    },
+    {
+        "_id": "3911",
+        "name": "3911 POLO",
+        "brand": "Jockey",
+        "category": 14,
+        "price": 899,
+        "description": "* Super Combed Cotton Rich Fabric\n+ Embroidered Chest Emblem\n* Contrast Placket & Neck Tape Detailing",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "WHITE",
+            "NAVY",
+            "BLACK",
+            "SHANGHAI RED",
+            "CHARCOAL MEL",
+            "DEEP ATLANTIS",
+            "DEEP TANGO",
+            "ALASKAN BLUE",
+            "BURNT GOLD",
+            "EDEN GREEN",
+            "GRAPHITE",
+            "GREY MEL.",
+            "PLUM PERFECT",
+            "PERFORMANCE GREY"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/19/product.png",
+            "public/images/product/MEN_OUTER/19/colors.png"
+        ]
+    },
+    {
+        "_id": "3912",
+        "name": "3912 CLASSIC POLO",
+        "brand": "Jockey",
+        "category": 14,
+        "price": 849,
+        "description": "* Super Combed Cotton Rich Fabric\n* Embroidered Authentic Jockey\u00ae Logo on Chest",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "WHITE",
+            "NAVY",
+            "BLACK",
+            "SHANGHAI RED",
+            "CHARCOAL MEL",
+            "TEAL BLUE",
+            "GREY MEL.",
+            "IRIS BLUE",
+            "BURNT GOLD",
+            "EDEN GREEN"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/20/product.png",
+            "public/images/product/MEN_OUTER/20/colors.png"
+        ]
+    },
+    {
+        "_id": "AM53",
+        "name": "AM 53 LONG SLEEVE T-SHIRT",
+        "brand": "Jockey",
+        "category": 10,
+        "price": 599,
+        "description": "* Combed Cotton Blend fabric\n* Ribbed v-neck prevents sagging\n Authentic Jockey\u00ae branding",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "NAVY",
+            "MAUVE WINE",
+            "SEAPORT TEAL",
+            "BURNT GOLD",
+            "PACIFIC GREEN"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/21/product.png",
+            "public/images/product/MEN_OUTER/21/colors.png"
+        ]
+    },
+    {
+        "_id": "AM80",
+        "name": "AM 80 LONG SLEEVE T-SHIRT  ATHLEISURE",
+        "brand": "Jockey",
+        "category": 10,
+        "price": 799,
+        "description": "* Combed Cotton Blend fabric\n* Ribbed v-neck prevents sagging\n Authentic Jockey\u00ae branding",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "NAVY/BIJOU BLUE",
+            "BLACK/PEWTER",
+            "MAUVE WINE/TWILIGHT MAUVE",
+            "GREEN GABLES/SILVER PINE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/22/product.png",
+            "public/images/product/MEN_OUTER/22/colors.png"
+        ]
+    },
+    {
+        "_id": "AM81",
+        "name": "AM 81 LONG SLEEVE HENLEY",
+        "brand": "Jockey",
+        "category": 13,
+        "price": 799,
+        "description": "* Super Combed Cotton Rich fabric\n* Henley style button placket\n* Long sleeve Raglan styling\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "TRUE BLACK MEL/BLACK",
+            "SHANGAI RED MEL/SHANGAI RED",
+            "INSIGNIA BLUE MEL/INSIGNIA BLUE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/23/product.png",
+            "public/images/product/MEN_OUTER/23/colors.png"
+        ]
+    },
+    {
+        "_id": "AM95",
+        "name": "AM 95 LONG SLEEVE T-SHIRT",
+        "brand": "Jockey",
+        "category": 10,
+        "price": 529,
+        "description": "* Super Combed Cotton Rich fabric\n* Ribbed neck prevents sagging\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "NAVY",
+            "SHANGHAI RED",
+            "SEAPORT TEAL",
+            "BLACK.",
+            "GREEN GABLES"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/24/product.png",
+            "public/images/product/MEN_OUTER/24/colors.png"
+        ]
+    },
+    {
+        "_id": "2716",
+        "name": "2716 SWEATSHIRT",
+        "brand": "Jockey",
+        "category": 33,
+        "price": 999,
+        "description": "* 100% Super Combed Cotton Terry fabric\n* Authentic Jockey\u00ae logo embroidery",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK SNOW MEL",
+            "BLUE SNOW",
+            "GREY SNOW MEL",
+            "BURGUNDY",
+            "PINE",
+            "BLACK",
+            "NAVY"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/25/product.png",
+            "public/images/product/MEN_OUTER/25/colors.png"
+        ]
+    },
+    {
+        "_id": "2730",
+        "name": "2730 JACKET",
+        "brand": "Jockey",
+        "category": 32,
+        "price": 1699,
+        "description": "* Super Combed Cotton Rich Fabric\n* Embroidered Authentic Jockey\u00ae Logo on Chest",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "BLACK SNOW",
+            "BLUE SNOW",
+            "GREY SNOW",
+            "NAVY",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/26/product.png",
+            "public/images/product/MEN_OUTER/26/colors.png"
+        ]
+    },
+    {
+        "_id": "9411",
+        "name": "9411 SHORTS",
+        "brand": "Jockey",
+        "category": 34,
+        "price": 699,
+        "description": "* Super Combed Cotton Rich Fabric\n* Contrast Front Panels\n* Broad Waistband with Drawstring\n* Side Pockets\n Authentic Jockey\u00ae Logo Contrast Embroidery",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "NAVY/NEON BLUE",
+            "NAVY/CHARCOAL MEL.",
+            "BLACK/CHARCOAL MEL."
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/27/product.png",
+            "public/images/product/MEN_OUTER/27/colors.png"
+        ]
+    },
+    {
+        "_id": "9427",
+        "name": "9427 SHORTS",
+        "brand": "Jockey",
+        "category": 34,
+        "price": 599,
+        "description": "* Super Combed Cotton Rich Fabric\n* Broad Waistband with Drawstring\n* Side Pockets\n Authentic Jockey\u00ae Logo",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "NAVY",
+            "CHARCOAL MEL.",
+            "GREY MEL.",
+            "BLACK.",
+            "GRAPHITE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/28/product.png",
+            "public/images/product/MEN_OUTER/28/colors.png"
+        ]
+    },
+    {
+        "_id": "AM14",
+        "name": "AM 14 STRAIGHT FIT SHORTS",
+        "brand": "Jockey",
+        "category": 34,
+        "price": 899,
+        "description": "* Super Combed Cotton rich fabric\n* Straight Fit\n* Broad waistband with flat drawstring\n* Front Zipper pocket added functionality",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "NAVY",
+            "BLACK",
+            "BLUE SNOW",
+            "GRAPHITE",
+            "BLACK SNOW"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/29/product.png",
+            "public/images/product/MEN_OUTER/29/colors.png"
+        ]
+    },
+    {
+        "_id": "AM12",
+        "name": "AM12 STRAIGHT FIT SHORTS",
+        "brand": "Jockey",
+        "category": 34,
+        "price": 699,
+        "description": "* Super Combed Cotton rich fabric\n* Straight Fit\n* Broad waistband with flat drawstring\n* Front Zipper pocket added functionality",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "NAVY",
+            "BLACK",
+            "CHARCOAL",
+            "GRAPHITE",
+            "GREY"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/30/product.png",
+            "public/images/product/MEN_OUTER/30/colors.png"
+        ]
+    },
+    {
+        "_id": "9426",
+        "name": "9426 SHORTS",
+        "brand": "Jockey",
+        "category": 34,
+        "price": 599,
+        "description": "* 100% Supper combed Cotton fabric\n* Stright Fit\n* Durable broad waistband with external shoe string\n Jockeysport large print at front",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "NAVY/SEA PORT TEAL",
+            "BLACK/CHARCOAL MEL.",
+            "MID GREY MEL/CHARCOAL MEL.",
+            "GRAPHITE/BLACK",
+            "CHARCOAL MEL./SHANGHAI RED"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/31/product.png",
+            "public/images/product/MEN_OUTER/31/colors.png"
+        ]
+    },
+    {
+        "_id": "AM73",
+        "name": "AM 73 SHORTS",
+        "brand": "Jockey",
+        "category": 34,
+        "price": 799,
+        "description": "* Super Combed Cotton Rib Fabric\n* Durable broad waistband with flat drawstring\n* Side pockets for added functionality",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "TRUE BLACK",
+            "INSIGNIA BLUE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/32/product.png",
+            "public/images/product/MEN_OUTER/32/colors.png"
+        ]
+    },
+    {
+        "_id": "AM12P",
+        "name": "AM 12P",
+        "brand": "Jockey",
+        "category": 34,
+        "price": 799,
+        "description": "* 100% Supper combed Cotton fabric\n* Durable broad waistband with external drawcord\n* Authentic Jockey branding",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "INSIGNIA BLUE",
+            "MID GREY MEL.",
+            "GRAPHITE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/33/product.png",
+            "public/images/product/MEN_OUTER/33/colors.png"
+        ]
+    },
+    {
+        "_id": "AM14P",
+        "name": "AM 14P STRAIGHT FIT SHORTS",
+        "brand": "Jockey",
+        "category": 34,
+        "price": 999,
+        "description": "* Super Combed Cotton rich fabric\n* Straight Fit\n* Broad waistband with flat drawstring\n* Front Zipper pocket added functionality",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "INSIGNIA BLUE",
+            "GRAPHITE",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/34/product.png",
+            "public/images/product/MEN_OUTER/34/colors.png"
+        ]
+    },
+    {
+        "_id": "9500",
+        "name": "9500 TRACK PANT",
+        "brand": "Jockey",
+        "category": 36,
+        "price": 859,
+        "description": "* Super Combed Cotton Rich Fabric\n* Regular Fit\n* Broad Waistband with Drawstring\n* Side Pockets\n* Contrast Side Seam Taping",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "NAVY",
+            "CHARCOAL MEL.",
+            "GREY MEL.",
+            "BLACK.",
+            "GRAPHITE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/35/product.png",
+            "public/images/product/MEN_OUTER/35/colors.png"
+        ]
+    },
+    {
+        "_id": "9501",
+        "name": "9501 TRACK PANT",
+        "brand": "Jockey",
+        "category": 36,
+        "price": 879,
+        "description": "* Super Combed Cotton Rich Fabric\n* Slim Fit\n* Contrast Side Double Piping\n* Side Pockets\n* Button-fastening Back Pocket\n* Broad Waistband with Drawstring\n Authentic Jockey\u00ae Sport High Density Print",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "NAVY",
+            "CHARCOAL MEL.",
+            "GREY MEL.",
+            "BLACK",
+            "GRAPHITE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/36/product.png",
+            "public/images/product/MEN_OUTER/36/colors.png"
+        ]
+    },
+    {
+        "_id": "9508",
+        "name": "9508 TRACK PANT",
+        "brand": "Jockey",
+        "category": 36,
+        "price": 949,
+        "description": "* Super Combed Cotton Rich Fabric\n* Straight Fit\n* Contrast Side Panelling\n* Side Pockets\n* Fastening Back Pocket\n* Broad Waistband with Drawstring\n Authentic Jockey\u201d",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "NAVY",
+            "CHARCOAL MEL.",
+            "GREY MEL.",
+            "BLACK.",
+            "GRAPHITE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/37/product.png",
+            "public/images/product/MEN_OUTER/37/colors.png"
+        ]
+    },
+    {
+        "_id": "9510",
+        "name": "9510 TRACK PANT",
+        "brand": "Jockey",
+        "category": 36,
+        "price": 1049,
+        "description": "* Super Combed Cotton Rich Fabric\n* Slim Fit\n* Side Panel With Jockey\u00ae Sport Print\n* Side Pocket With Zip\n* Contrast Waistband with Drawstring",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "NAVY",
+            "CHARCOAL",
+            "MEL.",
+            "GREY",
+            "MEL.",
+            "BLACK."
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/38/product.png",
+            "public/images/product/MEN_OUTER/38/colors.png"
+        ]
+    },
+    {
+        "_id": "AM02",
+        "name": "AM 02 TRACK",
+        "brand": "Jockey",
+        "category": 36,
+        "price": 1299,
+        "description": "* 100% Super Combed cotton fabric\n* Broad waistband with flat drawstring\n*Front pocket Zipper for added functionalty",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "NAVY",
+            "BLACK",
+            "BLUE SNOW",
+            "CHARCOAL",
+            "BLACK SNOW"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/39/product.png",
+            "public/images/product/MEN_OUTER/39/colors.png"
+        ]
+    },
+    {
+        "_id": "AM05",
+        "name": "AM05 SLIM FIT TRACKS",
+        "brand": "Jockey",
+        "category": 36,
+        "price": 1399,
+        "description": "* Super Combed Cotton Rich fabric\n* Slim fit\n* Durable broad waistband with external drawcord\n* Front pockets for added functionality\n Authentic Jockey\u00ae branding",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "NAVY",
+            "BLACK",
+            "GREY",
+            "GRAPHITE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/40/product.png",
+            "public/images/product/MEN_OUTER/40/colors.png"
+        ]
+    },
+    {
+        "_id": "AM04",
+        "name": "AM 04 SLIM FIT TRACKS",
+        "brand": "Jockey",
+        "category": 36,
+        "price": 899,
+        "description": "* Super Combed Cotton Rich fabric\n* Slim fit\n* Side pockets for added functionality\n* Durable board waistband with external drawcord",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "NAVY",
+            "BLACK",
+            "MID GREY MEL.",
+            "GRAPHITE",
+            "CHARCOAL MEL."
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/41/product.png",
+            "public/images/product/MEN_OUTER/41/colors.png"
+        ]
+    },
+    {
+        "_id": "AM71",
+        "name": "AM 71 SLIM FIT TRACKS",
+        "brand": "Jockey",
+        "category": 36,
+        "price": 1399,
+        "description": "* Super Combed Cotton Rich fabric\n* Slim fit\n* Durable broad waistband with external drawcord\n* Front pockets for added functionality\n Authentic Jockey\u00ae branding",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "INSIGNIA BLUE",
+            "BLACK/TRUE BLACK MEL.",
+            "TRUE BLACK MEL/BLACK",
+            "GREEN GABELS/J NAVY"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/42/product.png",
+            "public/images/product/MEN_OUTER/42/colors.png"
+        ]
+    },
+    {
+        "_id": "AM70",
+        "name": "AM70 SLIM FIT TRACKS",
+        "brand": "Jockey",
+        "category": 36,
+        "price": 1299,
+        "description": "* Super Combed Cotton Rich fabric\n* Slim fit\n* Durable broad waistband with external drawcord\n* Front pockets for added functionality\n Authentic Jockey\u00ae branding",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "INSIGNIA BLUE",
+            "BLACK",
+            "TRUE BLACK",
+            "MID GREY"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/43/product.png",
+            "public/images/product/MEN_OUTER/43/colors.png"
+        ]
+    },
+    {
+        "_id": "UM16",
+        "name": "UM 16 TANK TOP  USA ORIGINALS",
+        "brand": "Jockey",
+        "category": 31,
+        "price": 449,
+        "description": "* Super Combed Cotton Rich fabric\n* Comfort Fit\n* Deep neck line and armhole for extra comfort\n Authentic Jockey\u201d logo label detailling",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "RED GRINDLE",
+            "BLACK GRINDLE",
+            "NAVY GRINDLE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/45/product.png",
+            "public/images/product/MEN_OUTER/45/colors.png"
+        ]
+    },
+    {
+        "_id": "US81",
+        "name": "US 81 CREW-NECK GRAPHIC TEE",
+        "brand": "Jockey",
+        "category": 11,
+        "price": 599,
+        "description": "* Super Combed Cotton Rich Fabric\n* USA Originals Inspired Graphic Print\n* USA Originals Signature Label on Sleeve Hem",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "MID GREY MEL.",
+            "BLACK",
+            "NAVY",
+            "STELLAR",
+            "GREEN SPRUCE",
+            "CORNSILK",
+            "ECRU",
+            "CINNABAR"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/46/product.png",
+            "public/images/product/MEN_OUTER/46/colors.png"
+        ]
+    },
+    {
+        "_id": "US82",
+        "name": "US 82 LONG SLEEVE T-SHIRT ",
+        "brand": "Jockey",
+        "category": 10,
+        "price": 699,
+        "description": "* Super Combed Cotton Rich fabric\n* USA Originals signature flag label on chest\n* Printed patch label at the back",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK MEL.",
+            "RED MEL.",
+            "INK BLUE MEL.",
+            "NAVY GRINDLE",
+            "LIGHT DENIM MEL.",
+            "CREAM MEL.",
+            "GREY MEL.",
+            "BLACK GRINDLE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/47/product.png",
+            "public/images/product/MEN_OUTER/47/colors.png"
+        ]
+    },
+    {
+        "_id": "US93",
+        "name": "US93 STRIPED SHORT SLEEVE POLO",
+        "brand": "Jockey",
+        "category": 14,
+        "price": 999,
+        "description": "* Super Combed Cotton Rich fabric\n Authentic Jockey\u00ae logo embroidery on chest",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "NAVY/DEEP RED",
+            "NAVY/WHITE",
+            "WORDLY RED/WHITE",
+            "NAVY/GREY"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/48/product.png",
+            "public/images/product/MEN_OUTER/48/colors.png"
+        ]
+    },
+    {
+        "_id": "UM02",
+        "name": "UM02 LONG SLEEVE POLO",
+        "brand": "Jockey",
+        "category": 14,
+        "price": 1199,
+        "description": "* 100% Super Combed Cotton fabric\n* USA originals signature embroidery on chest.",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "NAVY/DEEP RED",
+            "NAVY/WHITE",
+            "WORDLY RED/WHITE",
+            "NAVY/GREY",
+            "DEEP RED/GREY MEL."
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/49/product.png",
+            "public/images/product/MEN_OUTER/49/colors.png"
+        ]
+    },
+    {
+        "_id": "US86",
+        "name": "US 86 SHORT SLEEVE HENLEY",
+        "brand": "Jockey",
+        "category": 13,
+        "price": 749,
+        "description": "* Super combed Cotton Rich fabric\n* USA Originals signature label on chest\n* Graphic print at the back",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK MEL.",
+            "RED MEL.",
+            "INK BLUE MEL.",
+            "CREAM MEL.",
+            "LIGHT DENIM MEL.",
+            "GREY MEL.",
+            "CINNABAR"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/50/product.png",
+            "public/images/product/MEN_OUTER/50/colors.png"
+        ]
+    },
+    {
+        "_id": "US87",
+        "name": "US 87 LONG SLEEVE HENLEY",
+        "brand": "Jockey",
+        "category": 13,
+        "price": 799,
+        "description": "* Super combed Cotton Rich fabric\n* USA Originals signature label on chest\n* Graphic print at the back",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK MEL.",
+            "RED",
+            "INK BLUE MEL.",
+            "CREAM MEL.",
+            "LIGHT DENIM MEL.",
+            "GREY",
+            "BLACK GRINDLE",
+            "NAVY GRINDLE",
+            "RED GRINDLE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/51/product.png",
+            "public/images/product/MEN_OUTER/51/colors.png"
+        ]
+    },
+    {
+        "_id": "US92",
+        "name": "US92 SWEATSHIRT",
+        "brand": "Jockey",
+        "category": 33,
+        "price": 1399,
+        "description": "* Super Combed Cotton soft terry fabric\n* Comfort fit\n Authentic Jockey branding",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "RED MEL.",
+            "INK BLUE MEL.",
+            "CREAM MEL.",
+            "MID GREY MEL."
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/52/product.png",
+            "public/images/product/MEN_OUTER/52/colors.png"
+        ]
+    },
+    {
+        "_id": "US91",
+        "name": "US91 ZIP THRU HOODIE",
+        "brand": "Jockey",
+        "category": 32,
+        "price": 1799,
+        "description": "* 100% Super Combed Cotton Terry fabric\n* Ribbed sleeve cuff and bottom hem\n* Cross pockets\n Authentic Jockey\u00ae metal tab at chest",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK MEL.",
+            "INK BLUE MEL.",
+            "CREAM MEL.",
+            "GREY MEL."
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/53/product.png",
+            "public/images/product/MEN_OUTER/53/colors.png"
+        ]
+    },
+    {
+        "_id": "UM05",
+        "name": "UM 05 ZIP THRU HOODIE",
+        "brand": "Jockey",
+        "category": 32,
+        "price": 1899,
+        "description": "* 100% Super Combed Cotton soft terry fabric\n* Slim fit\n* Ribbed board waistband and tricolor\nshoestring with metal tipping\n* Pockets for added functionality\n* Suitable for all purpose use",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "TRUE BLACK",
+            "NAVY GRINDLE",
+            "BLACK GRINDLE",
+            "BLACK",
+            "NAVY."
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/54/product.png",
+            "public/images/product/MEN_OUTER/54/colors.png"
+        ]
+    },
+    {
+        "_id": "US88",
+        "name": "US88 BERMUDA",
+        "brand": "Jockey",
+        "category": 35,
+        "price": 859,
+        "description": "*100% Super Combed Cotton Fabric\n* Soft Elasticated Inner Waist Band\n* Cross Side Pockets\n Authentic Jockey\u00ae USA Originals Branding",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "NAVY/NEON BLUE",
+            "RED/NAVY",
+            "CHARCOAL/NAVY",
+            "NAVY/NEON/BLUE/GREEN",
+            "BRICK RED/CHARCOAL",
+            "WHITE/BLUE",
+            "STELLAR/NAVY"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/55/product.png",
+            "public/images/product/MEN_OUTER/55/colors.png"
+        ]
+    },
+    {
+        "_id": "UM03",
+        "name": "UM 03 STRAIGHT FIT SHORTS",
+        "brand": "Jockey",
+        "category": 34,
+        "price": 899,
+        "description": "* 100% Super Combed Cotton soft terry fabric\n* Straight Fit\n* Contrast ribbed broad waistband with tricolor drawcord\n* Cross side pockets for added functionality",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "NAVY",
+            "TRUE BLACK",
+            "NAVY GRINDLE",
+            "BLACK GRINDLE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/56/product.png",
+            "public/images/product/MEN_OUTER/56/colors.png"
+        ]
+    },
+    {
+        "_id": "US90",
+        "name": "US90 TRACK PANTS",
+        "brand": "Jockey",
+        "category": 36,
+        "price": 1299,
+        "description": "* 100% Super Combed Cotton Terry fabric\n* Broad waistband with drawstring\n* Ribbed cuff bottom for better grip and comfort\n* Cross side pockets\n Authentic Jockey\u00ae metal tab at back pocket",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK MEL.",
+            "INK BLUE",
+            "CREAM",
+            "GREY"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/57/product.png",
+            "public/images/product/MEN_OUTER/57/colors.png"
+        ]
+    },
+    {
+        "_id": "US94",
+        "name": "US 94 LOUNGE PANTS",
+        "brand": "Jockey",
+        "category": 36,
+        "price": 999,
+        "description": "* Super Combed Cotton Rich fabric\n* Elasticated waistband with drawstring\n* Front patch pockets\n Authentic Jockey\u00ae USA Originalspatch label on back pocket",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "NAVY",
+            "CHARCOAL",
+            "GREY"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/58/product.png",
+            "public/images/product/MEN_OUTER/58/colors.png"
+        ]
+    },
+    {
+        "_id": "UM01",
+        "name": "UM01 JOGGER PANT",
+        "brand": "Jockey",
+        "category": 36,
+        "price": 1399,
+        "description": "* Super Combed Cotton Rich fabric\n* Broad waistband with Drawstring\n* Side pockets\n* Back pocket with Zip\n* Snap Button with Zip fly",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "NAVY",
+            "CHARCOAL",
+            "GREY",
+            "BLACK GRINDLE",
+            "NAVY GRINDLE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/59/product.png",
+            "public/images/product/MEN_OUTER/59/colors.png"
+        ]
+    },
+    {
+        "_id": "UM04",
+        "name": "UM 04 SLIM FIT TRACKS",
+        "brand": "Jockey",
+        "category": 36,
+        "price": 1399,
+        "description": "100% Super Combed Cotton soft terry fabric\nSlim fit\nRibbed board waistband and tricolor\nshoestring with metal tipping\nPockets for added functionality\nSuitable for all purpose use",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "TRUE BLACK",
+            "NAVY GRINDLE",
+            "BLACK GRINDLE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/60/product.png",
+            "public/images/product/MEN_OUTER/60/colors.png"
+        ]
+    },
+    {
+        "_id": "IMO1",
+        "name": "IM O1 V-NECK T-SHIRT",
+        "brand": "Jockey",
+        "category": 12,
+        "price": 649,
+        "description": "* 100% Super Combed Supima Cotton fabric\n* Straight Fit\n* Ribbed V-neck prevents sagging\n* Authentic Jockey branding",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "GUNMETAL",
+            "TRUE NAVY",
+            "WHITE",
+            "WINETASTING",
+            "BLUE CORAL",
+            "CINNABAR",
+            "SHANGHAI RED"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/62/product.png",
+            "public/images/product/MEN_OUTER/62/colors.png"
+        ]
+    },
+    {
+        "_id": "IM04",
+        "name": "IM 04 LONG SLEEVE T-SHIRT",
+        "brand": "Jockey",
+        "category": 10,
+        "price": 749,
+        "description": "* 100% Super Combed Supima Cotton fabric\n* Straight Fit\n* Ribbed V-neck prevents sagging\n* Authentic Jockey branding",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "GUNMETAL",
+            "TRUE NAVY",
+            "BLUE CORAL",
+            "WINETASTING"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/63/product.png",
+            "public/images/product/MEN_OUTER/63/colors.png"
+        ]
+    },
+    {
+        "_id": "IM02",
+        "name": "IM 02 SHORTS",
+        "brand": "Jockey",
+        "category": 34,
+        "price": 749,
+        "description": "* Super Combed Cotton rich fabric\n* Regular Fit\n* Side Pocket for ease of acces and comfort\n* Fashionable all over print\n* Authentic Jockey branding\n* To be worn as loungewear, leisurewear,and sleepwear",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "MDGY1",
+            "MDBU1",
+            "LTBUI",
+            "MDGY2",
+            "MDBU2",
+            "LTBU2"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/64/product.png",
+            "public/images/product/MEN_OUTER/64/colors.png"
+        ]
+    },
+    {
+        "_id": "1203",
+        "name": "1203 WOVEN SHORTS",
+        "brand": "Jockey",
+        "category": 34,
+        "price": 899,
+        "description": "* 100% Super Combed cotton fabric\n* Durable broad waistband\n* Functional front pocket\n* Zip placket with front fly opening\n Authentic Jockey\u00ae logo",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "GRAPHITE",
+            "NAVY",
+            "FOREST GREEN",
+            "KHAKI",
+            "BLACK",
+            "DARKER KHAKI",
+            "WHITE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/65/product.png",
+            "public/images/product/MEN_OUTER/65/colors.png"
+        ]
+    },
+    {
+        "_id": "IM03",
+        "name": "IM 03 PYJAMA",
+        "brand": "Jockey",
+        "category": 37,
+        "price": 979,
+        "description": "* Super Combed Cotton rich fabric.\n* Regular Fit\n* Side Pocket for ease of acces and comfort\n* Fashionable all over print.\n* Authentic Jockey branding\n* To be worn as loungewear, leisurewear,and sleepwear",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "MDGY1",
+            "MDBU1",
+            "LTBUI",
+            "MDGY2",
+            "MDBU2",
+            "LTBU2"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/66/product.png",
+            "public/images/product/MEN_OUTER/66/colors.png"
+        ]
+    },
+    {
+        "_id": "SP26",
+        "name": "SP 26 SHORTS",
+        "brand": "Jockey",
+        "category": 34,
+        "price": 899,
+        "description": "* Cotton Plated Performance Fabric\n+ Moisture Control\n* Stay Dry Technology\n Stay Fresh Technology\n* Cross Pocket / back Pocket with Flap Closure\n* Broad Waistband with Drawstring\n Authentic Jockey\u00ae Branding with Reflective Sport Print",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "GRAPHITE",
+            "PERFORMANCE GREY",
+            "NAVY",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/69/product.png",
+            "public/images/product/MEN_OUTER/69/colors.png"
+        ]
+    },
+    {
+        "_id": "SP32",
+        "name": "SP 32 SHORTS",
+        "brand": "Jockey",
+        "category": 34,
+        "price": 849,
+        "description": "* Plated performance fabric\n* Straight fit\n* Wallet / Phone pocket with secure flap closure\n* Durable broad waistband with external shoe string\n* Label free for all day comfort\n* Reinforced seams\n Authentic Jockey\u201d branding with reflective spot print",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "GRAPHITE",
+            "PERFORMANCE GREY",
+            "NAVY",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/70/product.png",
+            "public/images/product/MEN_OUTER/70/colors.png"
+        ]
+    },
+    {
+        "_id": "SP27",
+        "name": "SP 27 TRACK PANT",
+        "brand": "Jockey",
+        "category": 36,
+        "price": 1299,
+        "description": "* Cotton Plated Performance Fabric\n+ Moisture Control\n* Stay Dry Technology\n Stay Fresh Technology\n* Cross Pocket / back Pocket with Flap Closure\n* Broad Waistband with Drawstring\n Authentic Jockey\u00ae Branding With Reflective Sport Print",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "GRAPHITE",
+            "PERFORMANCE GREY",
+            "NAVY",
+            "BLACK",
+            "NAVY SNOW",
+            "FOREST DARK",
+            "COOL GREY"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/71/product.png",
+            "public/images/product/MEN_OUTER/71/colors.png"
+        ]
+    },
+    {
+        "_id": "SP31",
+        "name": "SP 31 SLIM FIT TRACK",
+        "brand": "Jockey",
+        "category": 36,
+        "price": 1049,
+        "description": "* Treated with technology, with antimicrobial properties\n* Durable broad waistband with external shoestring\n Authentic Jockey\u201d branding with reflective sport print\n* Label free for all day comfortt",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "GRAPHITE",
+            "PERFORMANCE GREY",
+            "NAVY",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/72/product.png",
+            "public/images/product/MEN_OUTER/72/colors.png"
+        ]
+    },
+    {
+        "_id": "MVO1",
+        "name": "MV O1 T-SHIRT",
+        "brand": "Jockey",
+        "category": 10,
+        "price": 799,
+        "description": "* Straight Fit Raglan Sleeve\n* Side Mesh Panels for enhanced air circulation\n* Back Yoke Styling\n* Polyester Cotton Blend",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BRICK RED",
+            "NAVY MEL.",
+            "MOVE BLUE",
+            "WHITE",
+            "BLACK",
+            "QUITE SHADE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/73/product.png",
+            "public/images/product/MEN_OUTER/73/colors.png"
+        ]
+    },
+    {
+        "_id": "MV02",
+        "name": "MV 02 T-SHIRT",
+        "brand": "Jockey",
+        "category": 10,
+        "price": 799,
+        "description": "* Straight Fit Raglan Sleeve\n* Graphic Print\n* Back Yoke Styling with Reflective Tape at centre back\n* Polyester Cotton Blend",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "GREEN GLOW",
+            "WHITE",
+            "TEAM RED",
+            "NAVY",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/74/product.png",
+            "public/images/product/MEN_OUTER/74/colors.png"
+        ]
+    },
+    {
+        "_id": "MV03",
+        "name": "MV 03 T-SHIRT",
+        "brand": "Jockey",
+        "category": 10,
+        "price": 599,
+        "description": "* Straight Fit Tee\n* Polyester Fabric",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BRICK RED",
+            "NAVY MEL."
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/75/product.png",
+            "public/images/product/MEN_OUTER/75/colors.png"
+        ]
+    },
+    {
+        "_id": "MVO5",
+        "name": "MV O5 T-SHIRT",
+        "brand": "Jockey",
+        "category": 10,
+        "price": 699,
+        "description": "* Straight Fit Raglan Sleeve\n* Graphic Print\n* Polyester Fabric",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BRICK RED",
+            "NAVY MEL."
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/76/product.png",
+            "public/images/product/MEN_OUTER/76/colors.png"
+        ]
+    },
+    {
+        "_id": "MV09",
+        "name": "MV 09 SHORTS",
+        "brand": "Jockey",
+        "category": 34,
+        "price": 1049,
+        "description": "* Elasticized waist band with external reflective draw cord\n* Side Pockets with an added Media Pocket\n* Back Pocket with Zipper\n* Polyester Elastane Blended Fabric",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "LIGHT STEEL",
+            "NAVY",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/77/product.png",
+            "public/images/product/MEN_OUTER/77/colors.png"
+        ]
+    },
+    {
+        "_id": "MV10",
+        "name": "MV 10 SHORTS",
+        "brand": "Jockey",
+        "category": 34,
+        "price": 1049,
+        "description": "* Elasticized waist band with external reflective draw cord\n* Side Pockets with an added Zipper Media Pocket\n* Polyester Elastane Blended Fabric",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "LIGHT STEEL",
+            "NAVY",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/78/product.png",
+            "public/images/product/MEN_OUTER/78/colors.png"
+        ]
+    },
+    {
+        "_id": "MV11",
+        "name": "MV 11 TRACK PANT",
+        "brand": "Jockey",
+        "category": 36,
+        "price": 1399,
+        "description": "* Elasticized waist band with external reflective draw cord\n* Side Pockets with an added Media Pocket\n* Back Pocket with Zipper\n* Polyester Elastane Blended Fabric",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "NAVY",
+            "BLACK GRINDLE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/79/product.png",
+            "public/images/product/MEN_OUTER/79/colors.png"
+        ]
+    },
+    {
+        "_id": "MV12",
+        "name": "MV 12 JOGGER",
+        "brand": "Jockey",
+        "category": 36,
+        "price": 1499,
+        "description": "* Slim Fit Jogger\n* Side Pockets with Zipper\n* Back Yoke styling\n* Elasticized waist band with external reflective draw cord\n* Polyester Elastane Blended Fabric",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "NAVY",
+            "BLACK GRINDLE"
+        ],
+        "images": [
+            "public/images/product/MEN_OUTER/80/product.png",
+            "public/images/product/MEN_OUTER/80/colors.png"
+        ]
+    },
+    {
+        "_id": "9005",
+        "name": "9005 BERMUDA",
+        "brand": "Jockey",
+        "category": 35,
+        "price": 599,
+        "description": "* 100% Mercerized Combed Cotton Woven Fabric\n* Side Pockets\n* Concealed Button Placket with Front Fly Opening\n Authentic Jockey\u00ae Logo Label",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [],
+        "images": [
+            "public/images/product/MEN_OUTER/85/product.png",
+            "public/images/product/MEN_OUTER/85/colors.png"
+        ]
+    },
+    {
+        "_id": "9005P",
+        "name": "9005 P PRINTED BERMUDA",
+        "brand": "Jockey",
+        "category": 35,
+        "price": 629,
+        "description": "* 100% Mercerized Super Combed Cotton Woven fabric\n* Side pockets\n* Concealed button placket with front fly opening\n Authentic Jockey\u00ae logo label",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [],
+        "images": [
+            "public/images/product/MEN_OUTER/83/product.png",
+            "public/images/product/MEN_OUTER/83/colors.png"
+        ]
+    },
+    {
+        "_id": "9009",
+        "name": "9009 PYJAMA PANT",
+        "brand": "Jockey",
+        "category": 37,
+        "price": 799,
+        "description": "* 100% Mercerized Combed Cotton Woven Fabric\n* Side Pockets\n* Concealed Button Placket With Front Fly Opening\n Authentic Jockey\u00ae Logo Label",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [],
+        "images": [
+            "public/images/product/MEN_OUTER/84/product.png",
+            "public/images/product/MEN_OUTER/84/colors.png"
+        ]
+    },
+    {
+        "_id": "9009P",
+        "name": "9009 P PRINTED PYJAMA PANT",
+        "brand": "Jockey",
+        "category": 37,
+        "price": 849,
+        "description": "* 100% Mercerized Combed Cotton Woven Fabric\n* Side Pockets\n* Concealed Button Placket with Front Fly Opening\n Authentic Jockey\u00ae Logo Label",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [],
+        "images": [
+            "public/images/product/MEN_OUTER/85/product.png",
+            "public/images/product/MEN_OUTER/85/colors.png"
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+{
+    "_id": "PBO1",
+    "name": "PBO1 BRIEF",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Genuine Jockey comfort, fit and quality\n* 100% Super Combed Cotton fabric\n\u00a2 Authentic JOCKEY Original Yarn dyed design\n* Double layered crotch panel\n* Durable and soft waist band",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [],
+    "images": [
+        "public/images/product/KIDS/15/product.png",
+        "public/images/product/KIDS/15/colors.png",
+        "public/images/product/KIDS/15/size.png"
+    ]
+}

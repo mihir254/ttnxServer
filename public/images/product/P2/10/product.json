@@ -1,0 +1,34 @@
+{
+    "_id": "1017",
+    "name": "1017 BOXER BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "\u00a2 100% Super Combed Cotton Rib fabric\n* Contrast pouch fly opening and contrast\nleg binding\n\u00a2 Durable and ultra soft waistband\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "Black",
+        "Black",
+        "Mel.",
+        "Grey",
+        "Mel.",
+        "Navy",
+        "Estate",
+        "Blue",
+        "1's",
+        "&",
+        "2's",
+        "pack",
+        "available."
+    ],
+    "images": [
+        "public/images/product/P2/10/product.png",
+        "public/images/product/P2/10/colors.png",
+        "public/images/product/P2/10/size.png"
+    ]
+}

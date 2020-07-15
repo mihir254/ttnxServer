@@ -1,0 +1,23 @@
+{
+    "_id": "3321",
+    "name": "3321 ",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Made from 100% premium Combed Cotton Rib fabric\n* Contoured armhole",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "White"
+    ],
+    "images": [
+        "public/images/product/KIDS/3/product.png",
+        "public/images/product/KIDS/3/colors.png",
+        "public/images/product/KIDS/3/size.png"
+    ]
+}

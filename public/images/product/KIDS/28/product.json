@@ -1,0 +1,42 @@
+{
+    "_id": "AB19",
+    "name": "AB19 RAGLAN",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton\n\u00a2 Athletic inspired prints",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Golden",
+        "Poppy",
+        "Spring",
+        "Bouquet",
+        "Blue",
+        "Depth",
+        "/",
+        "Team",
+        "Red",
+        "/",
+        "/",
+        "Blue",
+        "Depth",
+        "/",
+        "Blue",
+        "Depth",
+        "Scuba",
+        "Blue",
+        "Blue",
+        "Depth"
+    ],
+    "images": [
+        "public/images/product/KIDS/28/product.png",
+        "public/images/product/KIDS/28/colors.png",
+        "public/images/product/KIDS/28/size.png"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "_id": "IC30",
+    "name": "IC30 TRUNK",
+    "brand": "Jockey",
+    "category": 20,
+    "price": 0,
+    "description": "* Tactel\u00ae Nylon Elastane fabric\n*\u00a2 Ultrasoft and metallic-look waistband\n\u00a2 Moisture control\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "POTENT",
+        "PURPLE",
+        "OCEAN",
+        "DEPTH",
+        "SUNSET",
+        "ORANGE",
+        "STRING",
+        "EBONY",
+        "GREY",
+        "This",
+        "product",
+        "is",
+        "sold",
+        "by",
+        "base",
+        "colour",
+        "and",
+        "the",
+        "prints",
+        "rotate",
+        "every",
+        "season"
+    ],
+    "images": [
+        "public/images/product/P2/35/product.png",
+        "public/images/product/P2/35/colors.png",
+        "public/images/product/P2/35/size.png"
+    ]
+}

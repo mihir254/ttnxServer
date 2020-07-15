@@ -1,0 +1,39 @@
+{
+    "_id": "AG19",
+    "name": "AG19 ",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "2m",
+        "25\u00b0,",
+        "CR",
+        "AR",
+        "Pink",
+        "Lady",
+        "White",
+        "Dubarry",
+        "Imperial",
+        "Blue",
+        "*",
+        "Super",
+        "Combed",
+        "Cotton",
+        "Elastane",
+        "Stretch",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/88/product.png",
+        "public/images/product/KIDS/88/colors.png",
+        "public/images/product/KIDS/88/size.png"
+    ]
+}

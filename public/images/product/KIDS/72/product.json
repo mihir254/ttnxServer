@@ -1,0 +1,48 @@
+{
+    "_id": "SGO6P",
+    "name": "SGO6P BLOOMER",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Concealed on elastic waist & leg for better comfort",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Ruby",
+        "/",
+        "Acai",
+        "Blush",
+        "Pink",
+        "/",
+        "Royal",
+        "Cobalt",
+        "/",
+        "Lavender",
+        "Scent",
+        "Acai",
+        "/",
+        "Royal",
+        "Lavender",
+        "Scent",
+        "Blush",
+        "Pink",
+        "/",
+        "Ruby",
+        "Cobalt",
+        "*\u00ab",
+        "Super",
+        "Combed",
+        "Cotton",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/72/product.png",
+        "public/images/product/KIDS/72/colors.png",
+        "public/images/product/KIDS/72/size.png"
+    ]
+}

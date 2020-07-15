@@ -1,0 +1,881 @@
+[
+    {
+        "_id": "8823",
+        "name": "8823 MODERN UNDERSHIRT",
+        "brand": "Jockey",
+        "category": 30,
+        "price": 219,
+        "description": "* 100% Super Combed Cotton Rib fabric\n* Double reinforced shoulder strap seams\n* Extended length to ease tucking in\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "White"
+        ],
+        "images": [
+            "public/images/product/P2/1/product.png",
+            "public/images/product/P2/1/colors.png",
+            "public/images/product/P2/1/size.png"
+        ]
+    },
+    {
+        "_id": "8824",
+        "name": "8824 SLEEVEVED V-NECK UNDERSHIRT",
+        "brand": "Jockey",
+        "category": 30,
+        "price": 269,
+        "description": "* 100% Super Combed Cotton fabric\n* Extended length to ease tucking in\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "White"
+        ],
+        "images": [
+            "public/images/product/P2/2/product.png",
+            "public/images/product/P2/2/colors.png",
+            "public/images/product/P2/2/size.png"
+        ]
+    },
+    {
+        "_id": "8826",
+        "name": "8826 SLEEVED UNDERSHIRT",
+        "brand": "Jockey",
+        "category": 30,
+        "price": 259,
+        "description": "*100% Super Combed Cotton fabric\n* Extended length to ease tucking in\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "White"
+        ],
+        "images": [
+            "public/images/product/P2/3/product.png",
+            "public/images/product/P2/3/colors.png",
+            "public/images/product/P2/3/size.png"
+        ]
+    },
+    {
+        "_id": "1009",
+        "name": "1009 BRIEF",
+        "brand": "Jockey",
+        "category": 15,
+        "price": 179,
+        "description": "* 100% Super Combed Cotton Rib fabric\n* Durable and soft, concealed tri-seam waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "White",
+            "Black",
+            "Navy",
+            "Estate Blue",
+            "Grey Mel.",
+            "Black Mel."
+        ],
+        "images": [
+            "public/images/product/P2/4/product.png",
+            "public/images/product/P2/4/colors.png",
+            "public/images/product/P2/4/size.png"
+        ]
+    },
+    {
+        "_id": "1010",
+        "name": "1010 BRIEF",
+        "brand": "Jockey",
+        "category": 15,
+        "price": 169,
+        "description": "* 100% Super Combed Cotton fabric\n* Durable and ultra soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "White",
+            "Black",
+            "Navy",
+            "Grey Mel.",
+            "Estate Blue",
+            "Black Mel."
+        ],
+        "images": [
+            "public/images/product/P2/5/product.png",
+            "public/images/product/P2/5/colors.png",
+            "public/images/product/P2/5/size.png"
+        ]
+    },
+    {
+        "_id": "1011",
+        "name": "1011 BRIEF",
+        "brand": "Jockey",
+        "category": 15,
+        "price": 179,
+        "description": "* 100% Super Combed Cotton fabric\n* Contrast front panel\n* Durable and ultra soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Black/Black Mel.",
+            "Black Mel./Black Fly",
+            "Navy/Black Mel.",
+            "Black Mel./Navy",
+            "Navy/Grey Mel.",
+            "GreyMel/Navy",
+            "Estate Blue/Grey Mel.",
+            "Grey Mel./Esatate Blue",
+            "Grey Mel./Charcoal Mel.",
+            "Charcoal Mel./Grey Mel."
+        ],
+        "images": [
+            "public/images/product/P2/6/product.png",
+            "public/images/product/P2/6/colors.png",
+            "public/images/product/P2/6/size.png"
+        ]
+    },
+    {
+        "_id": "1020",
+        "name": "1020 BRIEF",
+        "brand": "Jockey",
+        "category": 15,
+        "price": 189,
+        "description": "* 100% Super Combed Cotton Rib fabric\n* Durable and ultra soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Black",
+            "Navy",
+            "Grey Mel.",
+            "Estate Blue",
+            "Black Mel."
+        ],
+        "images": [
+            "public/images/product/P2/7/product.png",
+            "public/images/product/P2/7/colors.png",
+            "public/images/product/P2/7/size.png"
+        ]
+    },
+    {
+        "_id": "ELO1",
+        "name": "ELO1 Y FRONT TRUNK",
+        "brand": "Jockey",
+        "category": 20,
+        "price": 239,
+        "description": "* 100% Super Combed Cotton Rib fabric\n* Jockey Y-Front Pouch Opening\n* Durable and ultra soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "White",
+            "Grey MeL",
+            "Charcoal Mel.",
+            "Black",
+            "Mid Blue"
+        ],
+        "images": [
+            "public/images/product/P2/8/product.png",
+            "public/images/product/P2/8/colors.png",
+            "public/images/product/P2/8/size.png"
+        ]
+    },
+    {
+        "_id": "1015",
+        "name": "1015 TRUNK",
+        "brand": "Jockey",
+        "category": 20,
+        "price": 219,
+        "description": "* 100% Super Combed Cotton Rib fabric\n* Durable and ultra soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "White",
+            "Charcoal Mel.",
+            "Mid Blue",
+            "Estate Blue",
+            "Black",
+            "Black Mel."
+        ],
+        "images": [
+            "public/images/product/P2/9/product.png",
+            "public/images/product/P2/9/colors.png",
+            "public/images/product/P2/9/size.png"
+        ]
+    },
+    {
+        "_id": "1017",
+        "name": "1017 BOXER BRIEF",
+        "brand": "Jockey",
+        "category": 15,
+        "price": 229,
+        "description": "* 100% Super Combed Cotton Rib fabric\n* Contrast pouch fly opening and contrast\nleg binding\n* Durable and ultra soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Black",
+            "Black Mel.",
+            "Grey Mel.",
+            "Navy",
+            "Estate Blue"
+        ],
+        "images": [
+            "public/images/product/P2/10/product.png",
+            "public/images/product/P2/10/colors.png",
+            "public/images/product/P2/10/size.png"
+        ]
+    },
+    {
+        "_id": "US54",
+        "name": "US54 GYM VEST",
+        "brand": "Jockey",
+        "category": 5,
+        "price": 299,
+        "description": "* 100% Super Combed Cotton Rib fabric\n* USA Originals back panel print\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "RED MEL.",
+            "INK BLUE MEL.",
+            "LIGHT DENIM MEL.",
+            "GREY MEL."
+        ],
+        "images": [
+            "public/images/product/P2/12/product.png",
+            "public/images/product/P2/12/colors.png",
+            "public/images/product/P2/12/size.png"
+        ]
+    },
+    {
+        "_id": "US49",
+        "name": "US49 BRIEF",
+        "brand": "Jockey",
+        "category": 15,
+        "price": 165,
+        "description": "* 100% Super Combed Cotton fabric\n* Durable and Ultra Soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "RED MEL.",
+            "INK BLUE MEL.",
+            "GREY MEL.",
+            "LT.DENIM MEL."
+        ],
+        "images": [
+            "public/images/product/P2/13/product.png",
+            "public/images/product/P2/13/colors.png",
+            "public/images/product/P2/13/size.png"
+        ]
+    },
+    {
+        "_id": "US52",
+        "name": "US52 BRIEF",
+        "brand": "Jockey",
+        "category": 15,
+        "price": 209,
+        "description": "* 100% Super Combed Cotton fabric\n* Durable and Ultra Soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "Navy",
+            "White",
+            "Red",
+            "Grey MeL",
+            "INK BLUE MEL."
+        ],
+        "images": [
+            "public/images/product/P2/14/product.png",
+            "public/images/product/P2/14/colors.png",
+            "public/images/product/P2/14/size.png"
+        ]
+    },
+    {
+        "_id": "US59",
+        "name": "US59 BRIEF",
+        "brand": "Jockey",
+        "category": 15,
+        "price": 249,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n* Durable and Ultra Soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "GREY MEL.",
+            "INK BLUE MEL.",
+            "LIGHT DENIM MEL."
+        ],
+        "images": [
+            "public/images/product/P2/15/product.png",
+            "public/images/product/P2/15/colors.png",
+            "public/images/product/P2/15/size.png"
+        ]
+    },
+    {
+        "_id": "US67",
+        "name": "US67 STRIPE BRIEF",
+        "brand": "Jockey",
+        "category": 15,
+        "price": 299,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n* Durable and Ultra Soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "WHITE",
+            "ZONE RED",
+            "GREY",
+            "RED",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/P2/16/product.png",
+            "public/images/product/P2/16/colors.png",
+            "public/images/product/P2/16/size.png"
+        ]
+    },
+    {
+        "_id": "US69",
+        "name": "US69 BRIEF",
+        "brand": "Jockey",
+        "category": 15,
+        "price": 369,
+        "description": "* Pima Cotton Modal Elastane Stretch fabric\n* Durable and soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLUE JASPE",
+            "INK BLUE",
+            "RED JASPE",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/P2/17/product.png",
+            "public/images/product/P2/17/colors.png",
+            "public/images/product/P2/17/size.png"
+        ]
+    },
+    {
+        "_id": "US69P",
+        "name": "US69P BRIEF",
+        "brand": "Jockey",
+        "category": 15,
+        "price": 399,
+        "description": "* Pima Cotton Modal Elastane Stretch fabric\n* Durable and soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLUE JASPE",
+            "INK BLUE",
+            "RED JASPE",
+            "BLACK",
+            "BLACK JASPE"
+        ],
+        "images": [
+            "public/images/product/P2/18/product.png",
+            "public/images/product/P2/18/colors.png",
+            "public/images/product/P2/18/size.png"
+        ]
+    },
+    {
+        "_id": "US51",
+        "name": "US51 TRUNK",
+        "brand": "Jockey",
+        "category": 20,
+        "price": 249,
+        "description": "* 100% Super Combed Cotton Rib fabric\n* Durable and Ultra Soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "RED MEL.",
+            "GREY MEL.",
+            "INK BLUE MEL.",
+            "LIGHT DENIM MEL."
+        ],
+        "images": [
+            "public/images/product/P2/19/product.png",
+            "public/images/product/P2/19/colors.png",
+            "public/images/product/P2/19/size.png"
+        ]
+    },
+    {
+        "_id": "US60",
+        "name": "US60 TRUNK",
+        "brand": "Jockey",
+        "category": 20,
+        "price": 269,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n* Durable and Ultra Soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "GREY MEL.",
+            "INK BLUE MEL.",
+            "LIGHT DENIM MEL."
+        ],
+        "images": [
+            "public/images/product/P2/20/product.png",
+            "public/images/product/P2/20/colors.png",
+            "public/images/product/P2/20/size.png"
+        ]
+    },
+    {
+        "_id": "US63",
+        "name": "US63 TRUNK",
+        "brand": "Jockey",
+        "category": 20,
+        "price": 299,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n* Durable and Ultra Soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "NAVY",
+            "WHITE",
+            "WHITE RED",
+            "GREY",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/P2/21/product.png",
+            "public/images/product/P2/21/colors.png",
+            "public/images/product/P2/21/size.png"
+        ]
+    },
+    {
+        "_id": "US68",
+        "name": "US68 STRIPE TRUNK",
+        "brand": "Jockey",
+        "category": 20,
+        "price": 325,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n* Durable and Ultra Soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "WHITE",
+            "ZONE RED",
+            "NAVY WHITE",
+            "RED MEL.",
+            "GREY MEL."
+        ],
+        "images": [
+            "public/images/product/P2/22/product.png",
+            "public/images/product/P2/22/colors.png",
+            "public/images/product/P2/22/size.png"
+        ]
+    },
+    {
+        "_id": "US70",
+        "name": "US70 TRUNK",
+        "brand": "Jockey",
+        "category": 20,
+        "price": 399,
+        "description": "* Pima Cotton Modal Elastane Stretch fabric\n* Durable and soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLUE JASPE",
+            "INK BLUE",
+            "RED JASPE",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/P2/23/product.png",
+            "public/images/product/P2/23/colors.png",
+            "public/images/product/P2/23/size.png"
+        ]
+    },
+    {
+        "_id": "US70P",
+        "name": "US70P TRUNK",
+        "brand": "Jockey",
+        "category": 20,
+        "price": 429,
+        "description": "* Pima Cotton Modal Elastane Stretch fabric\n* Durable and soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLUE JASPE",
+            "INK BLUE",
+            "RED JASPE",
+            "BLACK",
+            "BLACK JASPE"
+        ],
+        "images": [
+            "public/images/product/P2/24/product.png",
+            "public/images/product/P2/24/colors.png",
+            "public/images/product/P2/24/size.png"
+        ]
+    },
+    {
+        "_id": "US56",
+        "name": "US56 BOXER SHORTS",
+        "brand": "Jockey",
+        "category": 25,
+        "price": 429,
+        "description": "* 100% Mercerized Combed Cotton woven fabric\n* Concealed button placket with front fly opening\n* Durable and Ultra Soft inner waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "INK BLUE",
+            "RED JASPE",
+            "RED",
+            "WHITE",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/P2/25/product.png",
+            "public/images/product/P2/25/colors.png",
+            "public/images/product/P2/25/size.png"
+        ]
+    },
+    {
+        "_id": "US57",
+        "name": "US57 BOXER SHORTS",
+        "brand": "Jockey",
+        "category": 25,
+        "price": 459,
+        "description": "* 100% Mercerized Combed Cotton woven fabric\n* Side pockets\n* Concealed button placket with front fly opening\n* Durable and Ultra Soft inner waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "GREY MEL.",
+            "WHITE",
+            "RED",
+            "BLUE JASPE",
+            "INK BLUE"
+        ],
+        "images": [
+            "public/images/product/P2/26/product.png",
+            "public/images/product/P2/26/colors.png",
+            "public/images/product/P2/26/size.png"
+        ]
+    },
+    {
+        "_id": "IC13",
+        "name": "IC13 VEST",
+        "brand": "Jockey",
+        "category": 5,
+        "price": 269,
+        "description": "* Micro Modal Combed Cotton Rib fabric\n* Extended length to ease tucking in\n* Double reinforced shoulder strap seams",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "WHITE"
+        ],
+        "images": [
+            "public/images/product/P2/28/product.png",
+            "public/images/product/P2/28/colors.png",
+            "public/images/product/P2/28/size.png"
+        ]
+    },
+    {
+        "_id": "IC24",
+        "name": "IC24 BRIEF",
+        "brand": "Jockey",
+        "category": 15,
+        "price": 319,
+        "description": "* MicroModal\u00ae Cotton Elastane Stretch fabric\n* Durable and soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "BRIGHT LIGHT GREY",
+            "TRUE NAVY",
+            "OCEAN DEPTH"
+        ],
+        "images": [
+            "public/images/product/P2/29/product.png",
+            "public/images/product/P2/29/colors.png",
+            "public/images/product/P2/29/size.png"
+        ]
+    },
+    {
+        "_id": "IC27",
+        "name": "IC27 BRIEF",
+        "brand": "Jockey",
+        "category": 15,
+        "price": 399,
+        "description": "* Tactel Nylon Elastane fabric\n* Ultrasoft and metallic-look waistband\n* Moisture control\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "POTENT PURPLE",
+            "OCEAN DEPTH",
+            "EBONY GREY",
+            "BLACK",
+            "TRUE NAVY",
+            "SUNSET ORANGE"
+        ],
+        "images": [
+            "public/images/product/P2/30/product.png",
+            "public/images/product/P2/30/colors.png",
+            "public/images/product/P2/30/size.png"
+        ]
+    },
+    {
+        "_id": "IC29",
+        "name": "IC29 BRIEF",
+        "brand": "Jockey",
+        "category": 15,
+        "price": 499,
+        "description": "* Tactel Nylon Elastane fabric\n* Ultrasoft and metallic-look waistband\n* Moisture control\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "OCEAN DEPTH",
+            "EBONY",
+            "POTENT PURPLE",
+            "STRING",
+            "SUNSET ORANGE"
+        ],
+        "images": [
+            "public/images/product/P2/31/product.png",
+            "public/images/product/P2/31/colors.png",
+            "public/images/product/P2/31/size.png"
+        ]
+    },
+    {
+        "_id": "IC31",
+        "name": "IC31 BRIEF",
+        "brand": "Jockey",
+        "category": 15,
+        "price": 349,
+        "description": "* Pima Cotton Elastane fabric\n* Durable and Ultra Soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "TRUE NAVY",
+            "GUNMETAL",
+            "POTENT PURPLE",
+            "OCEAN DEPTH"
+        ],
+        "images": [
+            "public/images/product/P2/32/product.png",
+            "public/images/product/P2/32/colors.png",
+            "public/images/product/P2/32/size.png"
+        ]
+    },
+    {
+        "_id": "IC25",
+        "name": "IC25 TRUNK",
+        "brand": "Jockey",
+        "category": 20,
+        "price": 349,
+        "description": "* MicroModal Cotton Elastane Stretch fabric\n* Durable and soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "BRIGHT LIGHT GREY",
+            "OCEAN DEPTH",
+            "TRUE NAVY"
+        ],
+        "images": [
+            "public/images/product/P2/33/product.png",
+            "public/images/product/P2/33/colors.png",
+            "public/images/product/P2/33/size.png"
+        ]
+    },
+    {
+        "_id": "IC28",
+        "name": "IC28 TRUNK",
+        "brand": "Jockey",
+        "category": 20,
+        "price": 449,
+        "description": "* Tactel Nylon Elastane fabric\n* Ultrasoft and metallic-look waistband\n* Moisture control label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "POTENT PURPLE",
+            "OCEAN DEPTH",
+            "EBONY GREY",
+            "IC BLACK",
+            "TRUE NAVY",
+            "SUNSET ORANGE"
+        ],
+        "images": [
+            "public/images/product/P2/34/product.png",
+            "public/images/product/P2/34/colors.png",
+            "public/images/product/P2/34/size.png"
+        ]
+    },
+    {
+        "_id": "IC30",
+        "name": "IC30 TRUNK",
+        "brand": "Jockey",
+        "category": 20,
+        "price": 549,
+        "description": "* Tactel Nylon Elastane fabric\n** Ultrasoft and metallic-look waistband\n* Moisture control\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "POTENT PURPLE",
+            "OCEAN DEPTH",
+            "SUNSET ORANGE",
+            "STRING",
+            "EBONY GREY"
+        ],
+        "images": [
+            "public/images/product/P2/35/product.png",
+            "public/images/product/P2/35/colors.png",
+            "public/images/product/P2/35/size.png"
+        ]
+    },
+    {
+        "_id": "IC32",
+        "name": "IC32 TRUNK",
+        "brand": "Jockey",
+        "category": 20,
+        "price": 379,
+        "description": "* Pima Cotton Elastane fabric\n* Durable and Ultra Soft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "TRUE NAVY",
+            "GUNMETAL",
+            "POTENT PURPLE",
+            "OCEAN DEPTH"
+        ],
+        "images": [
+            "public/images/product/P2/36/product.png",
+            "public/images/product/P2/36/colors.png",
+            "public/images/product/P2/36/size.png"
+        ]
+    }
+]

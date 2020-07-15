@@ -1,0 +1,740 @@
+[
+    {
+        "_id": "7390",
+        "name": "7390 Solid Calf Length",
+        "brand": "Jockey",
+        "category": 52,
+        "price": 179,
+        "description": "Ultra soft Modal\u00ae\n\u00a2 StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "White",
+            "Black",
+            "Navy",
+            "Gun Metal",
+            "Dark Brown" 
+        ],
+        "images": [
+            "public/images/product/Socks/2/product.png",
+            "public/images/product/Socks/2/colors.png"
+        ]
+    },
+    {
+        "_id": "7392",
+        "name": "7392 Gradation Calf Length",
+        "brand": "Jockey",
+        "category": 52,
+        "price": 189,
+        "description": "Ultra soft Modal\u00ae\n\u00a2 StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Charcoal Mel.",
+            "Navy",
+            "Grey Mel.",
+            "Chocolate with Khaki"
+        ],
+        "images": [
+            "public/images/product/Socks/3/product.png",
+            "public/images/product/Socks/3/colors.png"
+        ]
+    },
+    {
+        "_id": "7393",
+        "name": "7393 Jacquard Calf Length",
+        "brand": "Jockey",
+        "category": 52,
+        "price": 189,
+        "description": "Ultra soft Modal\u00ae\n\u00a2 StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Black",
+            "Navy",
+            "Gun Metal"
+        ],
+        "images": [
+            "public/images/product/Socks/4/product.png",
+            "public/images/product/Socks/4/colors.png"
+        ]
+    },
+    {
+        "_id": "7192",
+        "name": "7192 Solid Calf Length",
+        "brand": "Jockey",
+        "category": 52,
+        "price": 139,
+        "description": "Mercerized Cotton\n\u00a9 StayFresh technology\n\nPe",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Black",
+            "Beige",
+            "Ochre Brown",
+            "Navy",
+            "Light Grey",
+            "Coal Grey"
+        ],
+        "images": [
+            "public/images/product/Socks/6/product.png",
+            "public/images/product/Socks/6/colors.png"
+        ]
+    },
+    {
+        "_id": "7193",
+        "name": "7193 Argyle Calf Length",
+        "brand": "Jockey",
+        "category": 52,
+        "price": 139,
+        "description": "* Mercerized Catton\n\u00a2 StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Black",
+            "Coal Grey",
+            "Beige",
+            "Ochre Brown",
+            "Light Grey"
+        ],
+        "images": [
+            "public/images/product/Socks/7/product.png",
+            "public/images/product/Socks/7/colors.png"
+        ]
+    },
+    {
+        "_id": "7092",
+        "name": "7092 Calf Length  ",
+        "brand": "Jockey",
+        "category": 52,
+        "price": 139,
+        "description": "\u00b0 Elastane body\n StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "White"
+        ],
+        "images": [
+            "public/images/product/Socks/8/product.png",
+            "public/images/product/Socks/8/colors.png"
+        ]
+    },
+    {
+        "_id": "7097",
+        "name": "7097 Low Show ",
+        "brand": "Jockey",
+        "category": 54,
+        "price": 109,
+        "description": " Elastane body\n StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Black & Charcoal Mel.",
+            "Charcoal Mel. & Black",
+            "Grey Mel. & Charcoal Mel.",
+            "White & Grey Mel.",
+            "Navy Mel. & Blue Mel.",
+            "Khali & Brown Mel."
+        ],
+        "images": [
+            "public/images/product/Socks/10/product.png",
+            "public/images/product/Socks/10/colors.png"
+        ]
+    },
+    {
+        "_id": "7091",
+        "name": "7091 Solid Ankle Length",
+        "brand": "Jockey",
+        "category": 53,
+        "price": 119,
+        "description": "* Elastane body\n\u00b0 StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Black & Grey Mel.",
+            "Navy Mel. & Grey Mel.",
+            "Green Mel. & Kakhi Mel.",
+            "Grey Mel. & Black",
+            "Kakhi Mel. & Brown Mel."
+        ],
+        "images": [
+            "public/images/product/Socks/11/product.png",
+            "public/images/product/Socks/11/colors.png"
+        ]
+    },
+    {
+        "_id": "7093",
+        "name": "7093 Rib Calf Length",
+        "brand": "Jockey",
+        "category": 52,
+        "price": 139,
+        "description": "* Elastane body\n\u00b0 StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Black",
+            "Charcoal Mel.",
+            "Brown Mel.",
+            "Blue Mel.",
+            "Grey Mel."
+        ],
+        "images": [
+            "public/images/product/Socks/12/product.png",
+            "public/images/product/Socks/12/colors.png"
+        ]
+    },
+    {
+        "_id": "7094",
+        "name": "7094 Argyle Calf Length",
+        "brand": "Jockey",
+        "category": 52,
+        "price": 149,
+        "description": "Elastane body\n\u00a9 StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Mid Grey Mel",
+            "Green Mel.",
+            "Brown Mel.",
+            "Blue Mel.",
+            "Black Mel."
+        ],
+        "images": [
+            "public/images/product/Socks/13/product.png",
+            "public/images/product/Socks/13/colors.png"
+        ]
+    },
+    {
+        "_id": "7095",
+        "name": "7095 Striped Calf Length  ",
+        "brand": "Jockey",
+        "category": 52,
+        "price": 149,
+        "description": "\u00b0 Elastane body\n StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Black & Charcoal Mel.",
+            "Navy Mel. & Blue Mel.",
+            "Khali & Brown Mel.",
+            "Charcoal Mel. & Mid Grey Mel.",
+            "Navy & Charcoal Mel.",
+            "Navy & Mid Grey Mel."
+        ],
+        "images": [
+            "public/images/product/Socks/14/product.png",
+            "public/images/product/Socks/14/colors.png"
+        ]
+    },
+    {
+        "_id": "7098",
+        "name": "7098 Self Design Calf Length",
+        "brand": "Jockey",
+        "category": 52,
+        "price": 139,
+        "description": "e Elastane body\n\u00a9 StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Black",
+            "Charcoal Mel.",
+            "Brown Mel.",
+            "Blue Mel.",
+            "Grey Mel."
+        ],
+        "images": [
+            "public/images/product/Socks/15/product.png",
+            "public/images/product/Socks/15/colors.png"
+        ]
+    },
+    {
+        "_id": "7480",
+        "name": "7480 Low Show",
+        "brand": "Jockey",
+        "category": 55,
+        "price": 199,
+        "description": "\u00ae Elastane body\n\u00a9 StayFresh technology\n\neT\n\n  \n\nBee",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Dunbary/Imperial Blue",
+            "Sky Mel./Imperial Blue",
+            "Ruby/Imperial Blue",
+            "Grey Mel. & Black",
+            "Cosmic Pink & Grey Mel.",
+            "Raspberry Mel. & Black",
+            "Cosmic Pink & Blue Radiance",
+            "Raspberry Mel. & Dark Iris Mel.",
+            "Heather Mel. & Lilac Mel.",
+            "Honey Suckle Mel./ Dubarry" 
+        ],
+        "images": [
+            "public/images/product/Socks/17/product.png",
+            "public/images/product/Socks/17/colors.png"
+        ]
+    },
+    {
+        "_id": "7481",
+        "name": "7481 Low Show",
+        "brand": "Jockey",
+        "category": 55,
+        "price": 99,
+        "description": "\u00ae Elastane body\n\u00a9 StayFresh technology\n\na ea",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Heather Mel.",
+            "Raspbery Mel.",
+            "Papaya Mel.",
+            "Mint Sorbert Mel.",
+            "Charcoal Mel.",
+            "Lilac Mel.",
+            "Dunbary",
+            "Imperial Blue",
+            "Black",
+            "Grey Mel."
+        ],
+        "images": [
+            "public/images/product/Socks/18/product.png",
+            "public/images/product/Socks/18/colors.png"
+        ]
+    },
+    {
+        "_id": "7482",
+        "name": "7482 Low Show",
+        "brand": "Jockey",
+        "category": 55,
+        "price": 99,
+        "description": "Elastane body\n\u00a2 StayFresh technology\n\n\u2018Peake be teem reuse ae",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Creme Mel & Black Grey",
+            "Creme Mel & Imperial Blue",
+            "Creme Mel & Red Love",
+            "Lilac Mel. & Blue",
+            "Deep Periwinkle & Aruba Blue"
+        ],
+        "images": [
+            "public/images/product/Socks/19/product.png",
+            "public/images/product/Socks/19/colors.png"
+        ]
+    },
+    {
+        "_id": "7491",
+        "name": "7491 Low Show",
+        "brand": "Jockey",
+        "category": 55,
+        "price": 199,
+        "description": "\u00ae Elastane body\n\u00a9 StayFresh technology\n\n\u2014T\n\n  \n\nWi eile ieee iE ee",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "White/Black",
+            "Dunbary/Periwinkle",
+            "Dunbary/Imperial Blue",
+            "Blue Radiance/Apricot Blush",
+            "Acai/Cosmic Pink",
+            "Pink Mel./Sky Mel.",
+            "Charcoal Mel. & Red Love",
+            "Raspberry Mel. & Lilac Mel.",
+            "Mint Sorbert Mel./Peach Sorbert Mel.",
+            "Raspberry Mel. & Dark Iris Mel."
+        ],
+        "images": [
+            "public/images/product/Socks/20/product.png",
+            "public/images/product/Socks/20/colors.png"
+        ]
+    },
+    {
+        "_id": "7001",
+        "name": "7001 Ankle Length",
+        "brand": "Jockey",
+        "category": 53,
+        "price": 149,
+        "description": "* Elastane body\n\u00ae StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Navy/White",
+            "Worldly Red",
+            "White Base Navy",
+            "Mid Grey Mel"
+        ],
+        "images": [
+            "public/images/product/Socks/22/product.png",
+            "public/images/product/Socks/22/colors.png"
+        ]
+    },
+    {
+        "_id": "7002",
+        "name": "7002 Ankle Length",
+        "brand": "Jockey",
+        "category": 53,
+        "price": 129,
+        "description": "\u00a9 Elastane body\n StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Navy Mel",
+            "Cream Mel.",
+            "White",
+            "Grey Mel.",
+            "Black"
+        ],
+        "images": [
+            "public/images/product/Socks/23/product.png",
+            "public/images/product/Socks/23/colors.png"
+        ]
+    },
+    {
+        "_id": "7004",
+        "name": "7004 Ankle Length",
+        "brand": "Jockey",
+        "category": 53,
+        "price": 139,
+        "description": "\u00a2 Flastane body\n\u00a2 StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Navy Grindle",
+            "Mid Grey Grindle",
+            "Red Crindle",
+            "Denim Blue Grindle",
+            "Ink Blue Grindle"
+        ],
+        "images": [
+            "public/images/product/Socks/24/product.png",
+            "public/images/product/Socks/24/colors.png"
+        ]
+    },
+    {
+        "_id": "7052",
+        "name": "7052 Low Show",
+        "brand": "Jockey",
+        "category": 54,
+        "price": 109,
+        "description": "\u00a9 Elastane body\n\u00a9 StayFresh technology\n\n\u2018Piieebles inte obras:",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Black/Fluorescent Orange",
+            "Black/Rich Royal Blue",
+            "Navy/Teal Green",
+            "Navy/Fluorescent Yellow",
+            "Charcoal Mel. Base/Fluoroscent Yellow",
+            "Charcoal Mel. Base/Rich Royal Blue",
+            "Grey Mel. Base/Fluorescent Orange",
+            "Grey Mel. Base/Fluorescent Yellow",
+            "White Base/Teal Green",
+            "White Base/Rich Royal Blue"
+        ],
+        "images": [
+            "public/images/product/Socks/26/product.png",
+            "public/images/product/Socks/26/colors.png"
+        ]
+    },
+    {
+        "_id": "7054",
+        "name": "7054 Low Show",
+        "brand": "Jockey",
+        "category": 54,
+        "price": 119,
+        "description": "* Elastane body\n\n StayFresh technology\nAvallabhia in Aeanrtad Colin ire",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Charcoal Mel. & Yellow",
+            "Charcoal Mel. & Teal Blue",
+            "Charcoal Mel. & Orange",
+            "Charcoal Mel. & Rich Royal Blue"
+        ],
+        "images": [
+            "public/images/product/Socks/27/product.png",
+            "public/images/product/Socks/27/colors.png"
+        ]
+    },
+    {
+        "_id": "7051",
+        "name": "7051 Ankle Length",
+        "brand": "Jockey",
+        "category": 53,
+        "price": 119,
+        "description": "Flastane body\n StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Black/Fluorescent Orange",
+            "Navy/Teal Green",
+            "Charcoal Mel. & Rich Royal Blue",
+            "Grey Mel. Base/Fluorescent Orange",
+            "Charcoal Mel. Base/Fluoroscent Yellow",
+            "White Base/Rich Royal Blue"
+        ],
+        "images": [
+            "public/images/product/Socks/28/product.png",
+            "public/images/product/Socks/28/colors.png"
+        ]
+    },
+    {
+        "_id": "7053",
+        "name": "7053 Ankle Length",
+        "brand": "Jockey",
+        "category": 53,
+        "price": 129,
+        "description": "\u00a2 Elastane body\n\u00a2 StayFresh technology\n\nAundahie mn Aeenrted Cain re",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Charcoal Mel. Base/Fluoroscent Yellow",
+            "Charcoal Mel. & Teal Blue",
+            "Charcoal Mel. & Orange",
+            "Charcoal Mel. & Rich Royal Blue"
+        ],
+        "images": [
+            "public/images/product/Socks/29/product.png",
+            "public/images/product/Socks/29/colors.png"
+        ]
+    },
+    {
+        "_id": "7450",
+        "name": "7450 Low Show",
+        "brand": "Jockey",
+        "category": 54,
+        "price": 239,
+        "description": "* Elastane body\n\u00a2 StayFresh technology\n\na\n\n  \n\nOle Dek Anesth! Ped see",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "White",
+            "Grey Mel",
+            "Black",
+            "Charcoal Mel.",
+            "Imperial Blue"
+        ],
+        "images": [
+            "public/images/product/Socks/31/product.png",
+            "public/images/product/Socks/31/colors.png"
+        ]
+    },
+    {
+        "_id": "7034",
+        "name": "7034 Patterned Ankle Length",
+        "brand": "Jockey",
+        "category": 53,
+        "price": 149,
+        "description": "\u00b0 Terry inside for cushioning and absorbency\n\u00a9 StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Black",
+            "White",
+            "Navy",
+            "Mid Grey Mel"
+        ],
+        "images": [
+            "public/images/product/Socks/33/product.png",
+            "public/images/product/Socks/33/colors.png"
+        ]
+    },
+    {
+        "_id": "7036",
+        "name": "7036 Ankle Length",
+        "brand": "Jockey",
+        "category": 53,
+        "price": 139,
+        "description": "\u00a9 Terry inside for cushioning and absorbency\n StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "White",
+            "Navy",
+            "Mid Grey Mel",
+            "Black",
+            "Charcoal Mel.",
+            "Khaki"
+        ],
+        "images": [
+            "public/images/product/Socks/34/product.png",
+            "public/images/product/Socks/34/colors.png"
+        ]
+    },
+    {
+        "_id": "7030",
+        "name": "7030 Calf Length",
+        "brand": "Jockey",
+        "category": 52,
+        "price": 149,
+        "description": "* Terry inside for cushioning and absorbency\n\u00a2 StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "White"
+        ],
+        "images": [
+            "public/images/product/Socks/35/product.png",
+            "public/images/product/Socks/35/colors.png"
+        ]
+    },
+    {
+        "_id": "7035",
+        "name": "7035 Calf Length",
+        "brand": "Jockey",
+        "category": 52,
+        "price": 149,
+        "description": "* Terry inside for cushioning and absorbency\n StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Navy",
+            "Black",
+            "Charcoal Mel.",
+            "Mid Grey Mel",
+            "Khaki"
+        ],
+        "images": [
+            "public/images/product/Socks/36/product.png",
+            "public/images/product/Socks/36/colors.png"
+        ]
+    },
+    {
+        "_id": "7042",
+        "name": "7042 Low Show",
+        "brand": "Jockey",
+        "category": 54,
+        "price": 129,
+        "description": "Flastane body\n StayDRY and StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Black & Performance Green",
+            "Black & Caribbean Turq.",
+            "Grey Mel",
+            "Charcoal Mel. & Performance Green"
+        ],
+        "images": [
+            "public/images/product/Socks/38/product.png",
+            "public/images/product/Socks/38/colors.png"
+        ]
+    },
+    {
+        "_id": "7472",
+        "name": "7472 Low Show",
+        "brand": "Jockey",
+        "category": 55,
+        "price": 109,
+        "description": "Flastane body\n StayDRY and StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "White Ruby",
+            "Ruby Black",
+            "Purple Glory",
+            "Teal Black",
+            "Grey Ruby",
+            "Teal Grey",
+            "Purple Grey"
+        ],
+        "images": [
+            "public/images/product/Socks/39/product.png",
+            "public/images/product/Socks/39/colors.png"
+        ]
+    },
+    {
+        "_id": "7474",
+        "name": "7474 Low Snow",
+        "brand": "Jockey",
+        "category": 55,
+        "price": 119,
+        "description": "\u00b0 Elastane body\n StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Ruby Black",
+            "Grey Mel. & Black",
+            "Violet Black",
+            "Sugar Coral Black",
+            "Midnight Blue Black"
+        ],
+        "images": [
+            "public/images/product/Socks/40/product.png",
+            "public/images/product/Socks/40/colors.png"
+        ]
+    },
+    {
+        "_id": "7044",
+        "name": "7044 Ankle Length",
+        "brand": "Jockey",
+        "category": 53,
+        "price": 149,
+        "description": "Flastane body\n StayDRY and StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Black & Performance Green",
+            "Black & Caribbean Turq.",
+            "White & Performance Green",
+            "White & Caribbean Turq.",
+            "Charcoal Mel. & Performance Green",
+            "Grey Mel & Caribbean Turq."
+        ],
+        "images": [
+            "public/images/product/Socks/41/product.png",
+            "public/images/product/Socks/41/colors.png"
+        ]
+    },
+    {
+        "_id": "7047",
+        "name": "7047 Anke Length",
+        "brand": "Jockey",
+        "category": 53,
+        "price": 149,
+        "description": "\u00ae Cushioned heel for added comfort\n\u00a9 StayDRY and StayFresh technology",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Navy & Performance Green",
+            "Navy & Cobalt Blue",
+            "Black & Caribbean Turq.",
+            "Black & Autumn Glory",
+            "Black & Team Red"
+        ],
+        "images": [
+            "public/images/product/Socks/42/product.png",
+            "public/images/product/Socks/42/colors.png"
+        ]
+    }
+]

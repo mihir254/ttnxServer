@@ -1,0 +1,31 @@
+{
+    "_id": "",
+    "name": "",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich fabric\n\u00a2 Broad waistband with Drawstring\n* Side pockets\n\u00a2 Back pocket with Zip\n\u00a2 Snap Button with Zip fly",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "NAVY",
+        "CHARCOAL",
+        "GREY",
+        "MEL.",
+        "BLACK",
+        "MEL.",
+        "GRINDLE",
+        "NAVY",
+        "GRINDLE"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/59/product.png",
+        "public/images/product/MEN_OUTER/59/colors.png",
+        "public/images/product/MEN_OUTER/59/size.png"
+    ]
+}

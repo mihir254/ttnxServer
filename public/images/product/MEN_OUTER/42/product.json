@@ -1,0 +1,36 @@
+{
+    "_id": "AM71",
+    "name": "AM 71 SLIM FIT TRACKS      ATHLEISURE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich fabric\n* Slim fit\n* Durable broad waistband with external drawcord\n\u00a2 Front pockets for added functionality\n\u00ab Authentic Jockey\u00ae branding",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "INSIGNIA",
+        "BLUE",
+        "BLACK",
+        "/",
+        "TRUE",
+        "BLACK",
+        "GREEN",
+        "GABELS/",
+        "TRUE",
+        "BLACK",
+        "MEL/",
+        "J",
+        "NAVY",
+        "MEL",
+        "BLACK"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/42/product.png",
+        "public/images/product/MEN_OUTER/42/colors.png",
+        "public/images/product/MEN_OUTER/42/size.png"
+    ]
+}

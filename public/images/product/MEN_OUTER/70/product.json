@@ -1,0 +1,26 @@
+{
+    "_id": "SP32",
+    "name": "SP 32 SHORTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 Plated performance fabric\n* Straight fit\n* Wallet / Phone pocket with secure flap closure\n\u00a2 Durable broad waistband with external shoe string\n\u00a2 Label free for all day comfort\n* Reinforced seams\n\u00ab Authentic Jockey\u201d branding with reflective spot print",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "GRAPHITE",
+        "PERFORMANCE",
+        "NAVY",
+        "BLACK",
+        "GREY"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/70/product.png",
+        "public/images/product/MEN_OUTER/70/colors.png",
+        "public/images/product/MEN_OUTER/70/size.png"
+    ]
+}

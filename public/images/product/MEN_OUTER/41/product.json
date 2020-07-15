@@ -1,0 +1,29 @@
+{
+    "_id": "AM04",
+    "name": "AM 04 SLIM FIT TRACKS  ATHLEISURE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich fabric\n* Slim fit\n\u00a2 Side pockets for added functionality\n* Durable board waistband with external drawcord",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "NAVY",
+        "BLACK",
+        "MID",
+        "GREY",
+        "MEL.",
+        "GRAPHITE",
+        "CHARCOAL",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/41/product.png",
+        "public/images/product/MEN_OUTER/41/colors.png",
+        "public/images/product/MEN_OUTER/41/size.png"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "_id": "US86",
+    "name": "US 86 SHORT SLEEVE HENLEY     USA ORIGINALS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "*\u00ab Super combed Cotton Rich fabric\n\u00a2 USA Originals signature label on chest\n* Graphic print at the back",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "MEL.",
+        "RED",
+        "MEL.",
+        "INK",
+        "BLUE",
+        "MEL.",
+        "CREAM",
+        "MEL.",
+        "LIGHT",
+        "DENIM",
+        "MEL.",
+        "GREY",
+        "MEL.",
+        "CINNABAR"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/50/product.png",
+        "public/images/product/MEN_OUTER/50/colors.png",
+        "public/images/product/MEN_OUTER/50/size.png"
+    ]
+}

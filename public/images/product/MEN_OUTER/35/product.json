@@ -1,0 +1,28 @@
+{
+    "_id": "9500",
+    "name": "9500 TRACK PANT             ATHLEISURE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich Fabric\n\u00a2 Regular Fit\n\u00a2 Broad Waistband with Drawstring\n* Side Pockets\n* Contrast Side Seam Taping",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "NAVY",
+        "CHARCOAL",
+        "MEL.",
+        "GREY",
+        "MEL.",
+        "BLACK.",
+        "GRAPHITE"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/35/product.png",
+        "public/images/product/MEN_OUTER/35/colors.png",
+        "public/images/product/MEN_OUTER/35/size.png"
+    ]
+}

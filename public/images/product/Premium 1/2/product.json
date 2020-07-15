@@ -1,0 +1,33 @@
+{
+    "_id": "US27",
+    "name": "US27 GYM VEST",
+    "brand": "Jockey",
+    "category": 5,
+    "price": 0,
+    "description": "* Super Combed Cotton Rib fabric\n* Racer back styling\n* Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "WHITE",
+        "BLACK",
+        "ZONE",
+        "RED",
+        "\"hs",
+        "GREY",
+        "MEL.",
+        "CHARCOAL",
+        "MEL.",
+        "MID",
+        "GREY",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/Premium 1/2/product.png",
+        "public/images/product/Premium 1/2/colors.png",
+        "public/images/product/Premium 1/2/size.png"
+    ]
+}

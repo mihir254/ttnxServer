@@ -1,0 +1,31 @@
+{
+    "_id": "AM02",
+    "name": "AM 02 TRACK  ATHLEISURE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed cotton fabric\n\u00a2 Broad waistband with flat drawstring\n*Front pocket Zipper for added functionalty",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "NAVY",
+        "BLACK",
+        "BLUE",
+        "SNOW",
+        "CHARCOAL",
+        "BLACK",
+        "SNOW",
+        "MEL.",
+        "MEL.",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/39/product.png",
+        "public/images/product/MEN_OUTER/39/colors.png",
+        "public/images/product/MEN_OUTER/39/size.png"
+    ]
+}

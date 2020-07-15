@@ -1,0 +1,47 @@
+{
+    "_id": "UG04",
+    "name": "UG04 TRACK PANTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Trendy fit for all-day comfort",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Passion",
+        "Red",
+        "Blue",
+        "Mel.",
+        "Cream",
+        "Mel.",
+        "Black",
+        "Mel.",
+        "/",
+        "Lt.",
+        "Grey",
+        "Mel.",
+        "/",
+        "Mel.",
+        "/",
+        "shell",
+        "Hibiscus",
+        "Hibiscus",
+        "*",
+        "Super",
+        "Combed",
+        "Cotton",
+        "Elastane",
+        "Stretch",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/104/product.png",
+        "public/images/product/KIDS/104/colors.png",
+        "public/images/product/KIDS/104/size.png"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "_id": "US22",
+    "name": "US22 BOXER SHORTS",
+    "brand": "Jockey",
+    "category": 25,
+    "price": 0,
+    "description": "* 100% Mercerized Combed Cotton woven fabric\n* Durable and Ultra Soft inner waistband\n* Concealed button placket with front fly opening",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "This",
+        "product",
+        "is",
+        "sold",
+        "as",
+        "assorted",
+        "and",
+        "the",
+        "checks",
+        "rofate",
+        "every",
+        "season"
+    ],
+    "images": [
+        "public/images/product/Premium 1/10/product.png",
+        "public/images/product/Premium 1/10/colors.png",
+        "public/images/product/Premium 1/10/size.png"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "_id": "MVO5",
+    "name": "MV O5 T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Straight Fit Raglan Sleeve\n\u00a2 Graphic Print\n* Polyester Fabric",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BRICK",
+        "RED",
+        "NAVY",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/76/product.png",
+        "public/images/product/MEN_OUTER/76/colors.png",
+        "public/images/product/MEN_OUTER/76/size.png"
+    ]
+}

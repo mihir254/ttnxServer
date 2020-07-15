@@ -1,0 +1,36 @@
+{
+    "_id": "US14",
+    "name": "US14 BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton fabric\n* Durable and Ultra Soft waistband\n* Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "CHARCOAL",
+        "MEL",
+        "BLACK",
+        "NAVY",
+        "GRAPHITE",
+        "INK",
+        "BLUE",
+        "MEL.",
+        "GREY",
+        "MEL.",
+        "1's",
+        "&",
+        "2's",
+        "pack",
+        "available."
+    ],
+    "images": [
+        "public/images/product/Premium 1/6/product.png",
+        "public/images/product/Premium 1/6/colors.png",
+        "public/images/product/Premium 1/6/size.png"
+    ]
+}

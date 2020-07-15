@@ -1,0 +1,24 @@
+{
+    "_id": "AB18",
+    "name": "AB18 JOGGER",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "*\u00ab Super Combed Cotton Rich fabric\n\u00ab Athletic inspired sporty design",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Black",
+        "Navy"
+    ],
+    "images": [
+        "public/images/product/KIDS/44/product.png",
+        "public/images/product/KIDS/44/colors.png",
+        "public/images/product/KIDS/44/size.png"
+    ]
+}

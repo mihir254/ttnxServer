@@ -1,0 +1,27 @@
+{
+    "_id": "AB16",
+    "name": "AB16 JOGGER",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton fabric\n\u00a2 76 HD Print for sporty look",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Deep",
+        "Gray",
+        "Black",
+        "Navy",
+        "Slub"
+    ],
+    "images": [
+        "public/images/product/KIDS/42/product.png",
+        "public/images/product/KIDS/42/colors.png",
+        "public/images/product/KIDS/42/size.png"
+    ]
+}

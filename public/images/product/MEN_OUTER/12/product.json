@@ -1,0 +1,29 @@
+{
+    "_id": "9928P",
+    "name": "9928 P TANK TOP",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich fabric\n* Deep neck line and armhole for extra comfort\n\u00a2 All over tonal graphic\n\u00ab Authentic Jockey\u201d logo label detailling",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "WHITE",
+        "BLACK",
+        "NEON",
+        "BLUE",
+        "NAVY",
+        "LIGHT",
+        "GREY",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/12/product.png",
+        "public/images/product/MEN_OUTER/12/colors.png",
+        "public/images/product/MEN_OUTER/12/size.png"
+    ]
+}

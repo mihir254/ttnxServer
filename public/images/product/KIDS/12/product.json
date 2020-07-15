@@ -1,0 +1,51 @@
+{
+    "_id": "UB03",
+    "name": "UB03 TRUNK",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "*\u00ab Super Combed Cotton Elastane stretch fabric\n\u00ab Authentic Jockey\u00ae USA Originals printed design",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "White",
+        "&",
+        "Navy",
+        "&",
+        "Navy",
+        "&",
+        "Nevy",
+        "base",
+        "/",
+        "Grey",
+        "Mel.",
+        "base",
+        "/",
+        "Grey",
+        "Mel.",
+        "base",
+        "/",
+        "White",
+        "base",
+        "/",
+        "White",
+        "Print",
+        "Navy",
+        "Print",
+        "Navy",
+        "Print",
+        "Grey",
+        "Mel.",
+        "Print"
+    ],
+    "images": [
+        "public/images/product/KIDS/12/product.png",
+        "public/images/product/KIDS/12/colors.png",
+        "public/images/product/KIDS/12/size.png"
+    ]
+}

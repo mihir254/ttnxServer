@@ -1,0 +1,34 @@
+{
+    "_id": "RGO5",
+    "name": "RGO5 SHORTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Soft elasticated waistband",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Poseidon",
+        "Cherry",
+        "Jubliee",
+        "Coral",
+        "Reef",
+        "*",
+        "100%",
+        "Super",
+        "Combed",
+        "Cotton",
+        "printed",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/111/product.png",
+        "public/images/product/KIDS/111/colors.png",
+        "public/images/product/KIDS/111/size.png"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "_id": "US63",
+    "name": "US63 TRUNK",
+    "brand": "Jockey",
+    "category": 20,
+    "price": 0,
+    "description": "\u00a2 Super Combed Cotton Elastane Stretch fabric\n\u00a2 Durable and Ultra Soft waistband\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "This",
+        "product",
+        "is",
+        "sold",
+        "as",
+        "assorted",
+        "and",
+        "the",
+        "prints",
+        "rotate",
+        "every",
+        "season"
+    ],
+    "images": [
+        "public/images/product/P2/21/product.png",
+        "public/images/product/P2/21/colors.png",
+        "public/images/product/P2/21/size.png"
+    ]
+}

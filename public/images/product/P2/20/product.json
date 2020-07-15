@@ -1,0 +1,30 @@
+{
+    "_id": "US60",
+    "name": "US60 TRUNK",
+    "brand": "Jockey",
+    "category": 20,
+    "price": 0,
+    "description": "\u00a2 Super Combed Cotton Elastane Stretch fabric\n* Durable and Ultra Soft waistband\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "GREY",
+        "MEL.",
+        "INK",
+        "BLUE",
+        "MEL.",
+        "LIGHT",
+        "DENIM",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/P2/20/product.png",
+        "public/images/product/P2/20/colors.png",
+        "public/images/product/P2/20/size.png"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "_id": "2730",
+    "name": "2730 JACKET  EISURE         ATH",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich Fabric\n*\u00ab Embroidered Authentic Jockey\u00ae Logo on Chest",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "SNOW",
+        "MEL.",
+        "BLUE",
+        "SNOW",
+        "MEL.",
+        "GREY",
+        "SNOW",
+        "MEL.",
+        "NAVY",
+        "BLACK"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/26/product.png",
+        "public/images/product/MEN_OUTER/26/colors.png",
+        "public/images/product/MEN_OUTER/26/size.png"
+    ]
+}

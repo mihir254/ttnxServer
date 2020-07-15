@@ -1,0 +1,31 @@
+{
+    "_id": "AB09",
+    "name": "AB09 T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton\n\u00a2 Yarn dyed design",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Water",
+        "Fall",
+        "Wordly",
+        "Red",
+        "Neon",
+        "Blue",
+        "Orange",
+        "Neon",
+        "Blue"
+    ],
+    "images": [
+        "public/images/product/KIDS/27/product.png",
+        "public/images/product/KIDS/27/colors.png",
+        "public/images/product/KIDS/27/size.png"
+    ]
+}

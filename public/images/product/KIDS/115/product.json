@@ -1,0 +1,31 @@
+{
+    "_id": "CG06",
+    "name": "CG06 T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "fi",
+        "7",
+        "*",
+        "Super",
+        "Combed",
+        "Cotton",
+        "Elastane",
+        "Stretch",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/115/product.png",
+        "public/images/product/KIDS/115/colors.png",
+        "public/images/product/KIDS/115/size.png"
+    ]
+}

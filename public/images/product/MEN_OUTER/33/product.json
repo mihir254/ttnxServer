@@ -1,0 +1,27 @@
+{
+    "_id": "AM12P",
+    "name": "AM 12P SHORTS  ATHLEISURE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Supper combed Cotton fabric\n* Durable broad waistband with external drawcord\n\u00a2 Authentic Jockey branding",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "INSIGNIA",
+        "BLUE",
+        "MID",
+        "GREY",
+        "MEL.",
+        "GRAPHITE"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/33/product.png",
+        "public/images/product/MEN_OUTER/33/colors.png",
+        "public/images/product/MEN_OUTER/33/size.png"
+    ]
+}

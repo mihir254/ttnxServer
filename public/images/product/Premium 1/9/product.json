@@ -1,0 +1,30 @@
+{
+    "_id": "US21",
+    "name": "US21 TRUNK",
+    "brand": "Jockey",
+    "category": 20,
+    "price": 0,
+    "description": "* Super Combed Cotton Elastane Stretch fabric\n* Durable and Ultra Soft waistband\n* Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "NAVY",
+        "GREY",
+        "MEL.",
+        "CHARCOAL",
+        "MEL.",
+        "MID",
+        "GREY",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/Premium 1/9/product.png",
+        "public/images/product/Premium 1/9/colors.png",
+        "public/images/product/Premium 1/9/size.png"
+    ]
+}

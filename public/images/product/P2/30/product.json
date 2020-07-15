@@ -1,0 +1,32 @@
+{
+    "_id": "IC27",
+    "name": "IC27 BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "* Tactel\u00ae Nylon Elastane fabric\n\u00a2 Ultrasoft and metallic-look waistband\n\u00a2 Moisture control\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "POTENT",
+        "PURPLE",
+        "OCEAN",
+        "DEPTH",
+        "EBONY",
+        "GREY",
+        "BLACK",
+        "TRUE",
+        "NAVY",
+        "SUNSET",
+        "ORANGE"
+    ],
+    "images": [
+        "public/images/product/P2/30/product.png",
+        "public/images/product/P2/30/colors.png",
+        "public/images/product/P2/30/size.png"
+    ]
+}

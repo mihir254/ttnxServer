@@ -1,0 +1,30 @@
+{
+    "_id": "UM03",
+    "name": "UM 03 STRAIGHT FIT SHORTS  USA ORIGINALS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton soft terry fabric\n* Straight Fit\n* Contrast ribbed broad waistband with tricolor drawcord\n* Cross side pockets for added functionality",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "NAVY",
+        "TRUE",
+        "BLACK",
+        "NAVY",
+        "GRINDLE",
+        "BLACK",
+        "MEL",
+        "GRINDLE"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/56/product.png",
+        "public/images/product/MEN_OUTER/56/colors.png",
+        "public/images/product/MEN_OUTER/56/size.png"
+    ]
+}

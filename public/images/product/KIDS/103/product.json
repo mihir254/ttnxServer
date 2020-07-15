@@ -1,0 +1,46 @@
+{
+    "_id": "UG05",
+    "name": "UG05 JACKET",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Trendy fit for all-day comfort",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Passion",
+        "Red",
+        "Blue",
+        "Mel.",
+        "Cream",
+        "Mel.",
+        "Black",
+        "Mel.",
+        "/",
+        "Lt.",
+        "Grey",
+        "Mel.",
+        "/",
+        "Mel.",
+        "/",
+        "shell",
+        "Hibiscus",
+        "Hibiscus",
+        "*",
+        "100%",
+        "Super",
+        "Combed",
+        "Cotton",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/103/product.png",
+        "public/images/product/KIDS/103/colors.png",
+        "public/images/product/KIDS/103/size.png"
+    ]
+}

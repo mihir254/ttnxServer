@@ -1,0 +1,33 @@
+{
+    "_id": "",
+    "name": "",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton soft terry fabric\n* Comfort fit\n\u00ab Authentic Jockey branding",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "RED",
+        "MEL.",
+        "INK",
+        "BLUE",
+        "MEL.",
+        "CREAM",
+        "MEL.",
+        "MID",
+        "GREY",
+        "GRINDLE",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/52/product.png",
+        "public/images/product/MEN_OUTER/52/colors.png",
+        "public/images/product/MEN_OUTER/52/size.png"
+    ]
+}

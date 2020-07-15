@@ -1,0 +1,35 @@
+{
+    "_id": "US67",
+    "name": "US67 STRIPE BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "\u00a2 Super Combed Cotton Elastane Stretch fabric\n* Durable and Ultra Soft waistband\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "29",
+        "VT",
+        "This",
+        "product",
+        "is",
+        "sold",
+        "as",
+        "assorted",
+        "and",
+        "the",
+        "stripes",
+        "rotate",
+        "every",
+        "season"
+    ],
+    "images": [
+        "public/images/product/P2/16/product.png",
+        "public/images/product/P2/16/colors.png",
+        "public/images/product/P2/16/size.png"
+    ]
+}

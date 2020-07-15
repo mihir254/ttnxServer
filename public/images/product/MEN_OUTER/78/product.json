@@ -1,0 +1,26 @@
+{
+    "_id": "MV10",
+    "name": "MV 10 SHORTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Elasticized waist band with external reflective draw cord\n* Side Pockets with an added Zipper Media Pocket\n\u00a2 Polyester Elastane Blended Fabric",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "LIGHT",
+        "STEEL",
+        "NAVY",
+        "BLACK",
+        "GREY"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/78/product.png",
+        "public/images/product/MEN_OUTER/78/colors.png",
+        "public/images/product/MEN_OUTER/78/size.png"
+    ]
+}

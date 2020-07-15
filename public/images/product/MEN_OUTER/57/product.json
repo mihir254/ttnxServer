@@ -1,0 +1,30 @@
+{
+    "_id": "",
+    "name": "",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton Terry fabric\n\u00a2 Broad waistband with drawstring\n\u00a2 Ribbed cuff bottom for better grip and comfort\n* Cross side pockets\n\u00ab Authentic Jockey\u00ae metal tab at back pocket",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "MEL.",
+        "INK",
+        "BLUE",
+        "MEL.",
+        "CREAM",
+        "MEL.",
+        "GREY",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/57/product.png",
+        "public/images/product/MEN_OUTER/57/colors.png",
+        "public/images/product/MEN_OUTER/57/size.png"
+    ]
+}

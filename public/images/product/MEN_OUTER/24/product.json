@@ -1,0 +1,29 @@
+{
+    "_id": "AM95",
+    "name": "AM 95 LONG SLEEVE T-SHIRT      EISURE     ATH",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich fabric\n* Ribbed neck prevents sagging\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "NAVY",
+        "SHANGHAI",
+        "RED",
+        "SEAPORT",
+        "TEAL",
+        "BLACK.",
+        "GREEN",
+        "GABLES"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/24/product.png",
+        "public/images/product/MEN_OUTER/24/colors.png",
+        "public/images/product/MEN_OUTER/24/size.png"
+    ]
+}

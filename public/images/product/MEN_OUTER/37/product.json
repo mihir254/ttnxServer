@@ -1,0 +1,28 @@
+{
+    "_id": "",
+    "name": "",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich Fabric\n* Straight Fit\n* Contrast Side Panelling\n* Side Pockets\n\u00a2 Fastening Back Pocket\n\u00a2 Broad Waistband with Drawstring\n\u00ab Authentic Jockey\u201d",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "NAVY",
+        "CHARCOAL",
+        "MEL.",
+        "GREY",
+        "MEL.",
+        "BLACK.",
+        "GRAPHITE"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/37/product.png",
+        "public/images/product/MEN_OUTER/37/colors.png",
+        "public/images/product/MEN_OUTER/37/size.png"
+    ]
+}

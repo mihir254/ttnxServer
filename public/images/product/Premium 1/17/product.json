@@ -1,0 +1,37 @@
+{
+    "_id": "FP02",
+    "name": "FP02 BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "* Super Combed Cotton fabric\n* Durable and Ultra Soft neon waistband\n* Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "NAVY",
+        "GREY",
+        "MEL.",
+        "CHARCOAL",
+        "MEL.",
+        "FASHION",
+        "ASSORTED",
+        "COLOURS",
+        "CARIBBEAN",
+        "SMOOTH",
+        "GREY",
+        "INK",
+        "BLUE",
+        "MEL.",
+        "TNiponoice"
+    ],
+    "images": [
+        "public/images/product/Premium 1/17/product.png",
+        "public/images/product/Premium 1/17/colors.png",
+        "public/images/product/Premium 1/17/size.png"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "_id": "RG09",
+    "name": "RG09 SLEEP DRESS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Relaxed fit",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Wild",
+        "Orchid",
+        "Cockatoo",
+        "Marina",
+        "*",
+        "100%",
+        "Super",
+        "Combed",
+        "Cotton",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/113/product.png",
+        "public/images/product/KIDS/113/colors.png",
+        "public/images/product/KIDS/113/size.png"
+    ]
+}

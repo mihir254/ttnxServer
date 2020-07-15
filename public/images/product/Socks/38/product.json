@@ -1,0 +1,39 @@
+{
+    "_id": "7042",
+    "name": "7042 Low Show",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "Flastane body\n StayDRY and StayFresh technology",
+    "size": [
+        "ONE SIZE"
+    ],
+    "colors": [
+        "ee",
+        "a",
+        "a",
+        "rene:",
+        "Black",
+        "&",
+        "Bleck",
+        "&",
+        "Grey",
+        "Mel.",
+        "&",
+        "Performance",
+        "Green",
+        "\u2018Carbbean",
+        "Tug",
+        "Caribbean",
+        "Turq,",
+        "(Chercoal",
+        "Mal.",
+        "&",
+        "Performance",
+        "Green"
+    ],
+    "images": [
+        "public/images/product/Socks/38/product.png",
+        "public/images/product/Socks/38/colors.png"
+    ]
+}

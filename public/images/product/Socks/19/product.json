@@ -1,0 +1,42 @@
+{
+    "_id": "7482",
+    "name": "7482 Low Show",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "Elastane body\n\u00a2 StayFresh technology\n\n\u2018Peake be teem reuse ae",
+    "size": [
+        "ONE SIZE"
+    ],
+    "colors": [
+        "Creme",
+        "Mel.",
+        "/",
+        "Creme",
+        "Mel.",
+        "/",
+        "ABP)",
+        "creme",
+        "Mel.",
+        "/",
+        "Black,",
+        "Grey",
+        "Imperial",
+        "Blue",
+        "Red",
+        "Lova",
+        "Lic",
+        "Mel.",
+        "/",
+        "Deep",
+        "Periwinkle",
+        "/",
+        "Blue",
+        "Aruba",
+        "Blue"
+    ],
+    "images": [
+        "public/images/product/Socks/19/product.png",
+        "public/images/product/Socks/19/colors.png"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "_id": "AG27",
+    "name": "AG27 TANK TOP",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 Flat and extra soft seams guaranteed to make the product last long",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Pink",
+        "Carnation",
+        "Imperial",
+        "Blue",
+        "Coral",
+        "Reef",
+        "*",
+        "Super",
+        "Combed",
+        "Cotton",
+        "Elastane",
+        "Stretch",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/83/product.png",
+        "public/images/product/KIDS/83/colors.png",
+        "public/images/product/KIDS/83/size.png"
+    ]
+}

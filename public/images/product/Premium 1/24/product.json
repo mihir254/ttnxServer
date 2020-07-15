@@ -1,0 +1,48 @@
+{
+    "_id": "FP25",
+    "name": "FP25 TRUNK",
+    "brand": "Jockey",
+    "category": 20,
+    "price": 0,
+    "description": "* Super Combed Cotton Elastane Stretch fabric\n* Unique & youthful combo of Yarn Dyed stripes\n* Low rise fit\n* Double layered contoured pouch\n* Durable and soft waistband\n* Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "NAVY/",
+        "NAVY/",
+        "NAVY/",
+        "BILLIARD",
+        "GREEN",
+        "AUTUMN",
+        "GLORY",
+        "EMPIRE",
+        "YELLOW",
+        "BLACK/",
+        "BLACK/",
+        "SKY",
+        "DRIVER",
+        "WORLDLY",
+        "RED",
+        "This",
+        "product",
+        "is",
+        "sold",
+        "as",
+        "assorted",
+        "and",
+        "the",
+        "prints",
+        "rotate",
+        "every",
+        "season"
+    ],
+    "images": [
+        "public/images/product/Premium 1/24/product.png",
+        "public/images/product/Premium 1/24/colors.png",
+        "public/images/product/Premium 1/24/size.png"
+    ]
+}

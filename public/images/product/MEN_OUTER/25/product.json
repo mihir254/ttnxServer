@@ -1,0 +1,36 @@
+{
+    "_id": "2716",
+    "name": "2716 SWEATSHIRT                EISURE         ATH",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton Terry fabric\n* Authentic Jockey\u00ae logo embroidery",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "SNOW",
+        "BLUE",
+        "SNOW",
+        "GREY",
+        "SNOW",
+        "BURGUNDY",
+        "PINE",
+        "MEL",
+        "MEL.",
+        "MEL.",
+        "MEL.",
+        "MEL.",
+        "BLACK",
+        "NAVY"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/25/product.png",
+        "public/images/product/MEN_OUTER/25/colors.png",
+        "public/images/product/MEN_OUTER/25/size.png"
+    ]
+}

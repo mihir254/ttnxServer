@@ -1,0 +1,31 @@
+{
+    "_id": "MVO1",
+    "name": "MV O1 T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Straight Fit Raglan Sleeve\n* Side Mesh Panels for enhanced air circulation\n* Back Yoke Styling\n* Polyester Cotton Blend",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BRICK",
+        "RED",
+        "NAVY",
+        "MEL.",
+        "MOVE",
+        "BLUE",
+        "WHITE",
+        "BLACK",
+        "QUITE",
+        "SHADE"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/73/product.png",
+        "public/images/product/MEN_OUTER/73/colors.png",
+        "public/images/product/MEN_OUTER/73/size.png"
+    ]
+}

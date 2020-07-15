@@ -1,0 +1,21 @@
+{
+    "_id": "PBO5",
+    "name": "PBO5 BRIEF",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "*\u00ab Super Combed Cotton elastane stretch fabric\n* Genuine Jockey comfort, fit and quality",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [],
+    "images": [
+        "public/images/product/KIDS/16/product.png",
+        "public/images/product/KIDS/16/colors.png",
+        "public/images/product/KIDS/16/size.png"
+    ]
+}

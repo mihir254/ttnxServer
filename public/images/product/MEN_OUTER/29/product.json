@@ -1,0 +1,30 @@
+{
+    "_id": "AM14",
+    "name": "AM 14 STRAIGHT FIT SHORTS  EISURE     ATH",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton rich fabric\n* Straight Fit\n\u00a2 Broad waistband with flat drawstring\n\u00a2 Front Zipper pocket added functionality",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "NAVY",
+        "BLACK",
+        "BLUE",
+        "SNOW",
+        "GRAPHITE",
+        "BLACK",
+        "SNOW",
+        "MEL.",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/29/product.png",
+        "public/images/product/MEN_OUTER/29/colors.png",
+        "public/images/product/MEN_OUTER/29/size.png"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "_id": "AB23",
+    "name": "AB23 T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton soft fabric\n\u00a2 Athletic print on front body",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Scuba",
+        "Blue",
+        "Team",
+        "Red",
+        "Spring",
+        "Snap",
+        "Dragon",
+        "White",
+        "Bouquet",
+        "Blue",
+        "Depth"
+    ],
+    "images": [
+        "public/images/product/KIDS/30/product.png",
+        "public/images/product/KIDS/30/colors.png",
+        "public/images/product/KIDS/30/size.png"
+    ]
+}

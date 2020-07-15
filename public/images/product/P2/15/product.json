@@ -1,0 +1,30 @@
+{
+    "_id": "US59",
+    "name": "US59 BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "\u00a2 Super Combed Cotton Elastane Stretch fabric\n\u00a2 Durable and Ultra Soft waistband\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "GREY",
+        "MEL.",
+        "INK",
+        "BLUE",
+        "MEL.",
+        "LIGHT",
+        "DENIM",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/P2/15/product.png",
+        "public/images/product/P2/15/colors.png",
+        "public/images/product/P2/15/size.png"
+    ]
+}

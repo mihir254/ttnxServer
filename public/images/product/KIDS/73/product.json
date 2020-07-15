@@ -1,0 +1,31 @@
+{
+    "_id": "SG03",
+    "name": "SG03 SHORTIES",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 Label free for all day comfort",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "White",
+        "Skin",
+        "Black",
+        "Classic",
+        "Navy",
+        "*",
+        "Cotton",
+        "Stretch",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/73/product.png",
+        "public/images/product/KIDS/73/colors.png",
+        "public/images/product/KIDS/73/size.png"
+    ]
+}

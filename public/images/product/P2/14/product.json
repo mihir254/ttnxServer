@@ -1,0 +1,33 @@
+{
+    "_id": "US52",
+    "name": "US52 BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "\u00a2 100% Super Combed Cotton fabric\n\u00a2 Durable and Ultra Soft waistband\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "This",
+        "product",
+        "is",
+        "sold",
+        "as",
+        "assorted",
+        "and",
+        "the",
+        "prints",
+        "rotate",
+        "every",
+        "season"
+    ],
+    "images": [
+        "public/images/product/P2/14/product.png",
+        "public/images/product/P2/14/colors.png",
+        "public/images/product/P2/14/size.png"
+    ]
+}

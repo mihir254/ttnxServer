@@ -1,0 +1,46 @@
+{
+    "_id": "9411",
+    "name": "9411 SHORTS     ATHLEISURE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich Fabric\n* Contrast Front Panels\n\u00a2 Broad Waistband with Drawstring\n* Side Pockets\n\u00ab Authentic Jockey\u00ae Logo Contrast Embroidery",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "NAVY",
+        "/",
+        "NAVY",
+        "/",
+        "BLACK",
+        "/",
+        "MID",
+        "GREY",
+        "MEL",
+        "GRAPHITE",
+        "/",
+        "NEON",
+        "BLUE",
+        "CHARCOAL",
+        "MEL.",
+        "CHARCOAL",
+        "MEL.",
+        "/CHARCOAL",
+        "MEL",
+        "BLACK",
+        "CHARCOAL",
+        "MEL.",
+        "/",
+        "SANGHA!",
+        "RED"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/27/product.png",
+        "public/images/product/MEN_OUTER/27/colors.png",
+        "public/images/product/MEN_OUTER/27/size.png"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "_id": "UB10",
+    "name": "UB10 TNAK TOP",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton fabric\n\u00ab Americana inspired print on front body",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "NAVY",
+        "GREY",
+        "MEL.",
+        "TEAM",
+        "RED",
+        "CORN",
+        "SILK"
+    ],
+    "images": [
+        "public/images/product/KIDS/48/product.png",
+        "public/images/product/KIDS/48/colors.png",
+        "public/images/product/KIDS/48/size.png"
+    ]
+}

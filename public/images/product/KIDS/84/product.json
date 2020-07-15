@@ -1,0 +1,37 @@
+{
+    "_id": "AGO1",
+    "name": "AGO1 T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 Ribbed round neck prevents sagging",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Ruby",
+        "Paisley",
+        "Purple",
+        "Pink",
+        "Lady",
+        "Banana",
+        "Cream",
+        "A)",
+        "*",
+        "Super",
+        "Combed",
+        "Cotton",
+        "Elastane",
+        "Stretch",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/84/product.png",
+        "public/images/product/KIDS/84/colors.png",
+        "public/images/product/KIDS/84/size.png"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "_id": "UG08",
+    "name": "UG08 LEGGINGS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Soft elasticized waistband",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "a",
+        "a",
+        "es",
+        "oe",
+        "Aue",
+        "Y",
+        "\u00e9",
+        "Hibiscus",
+        "Black",
+        "Mel.",
+        "Denim",
+        "Blue",
+        "Passion",
+        "Red",
+        "Cream",
+        "Mel.",
+        "Mel.",
+        "Mel.",
+        "*",
+        "Super",
+        "Combed",
+        "Cotton",
+        "Elastane",
+        "Stretch",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/105/product.png",
+        "public/images/product/KIDS/105/colors.png",
+        "public/images/product/KIDS/105/size.png"
+    ]
+}

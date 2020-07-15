@@ -1,0 +1,36 @@
+{
+    "_id": "UG10",
+    "name": "UG10 POLO",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 Ribbed round neck prevent sagging",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Hibiscus",
+        "Wood",
+        "Violet",
+        "Maxi",
+        "Blue",
+        "Indigo",
+        "Crush",
+        "*",
+        "Super",
+        "Combed",
+        "Cotton",
+        "Elastane",
+        "Stretch",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/100/product.png",
+        "public/images/product/KIDS/100/colors.png",
+        "public/images/product/KIDS/100/size.png"
+    ]
+}

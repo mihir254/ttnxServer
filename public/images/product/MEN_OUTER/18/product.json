@@ -1,0 +1,50 @@
+{
+    "_id": "2726",
+    "name": "2726 V-NECK T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich Fabric\n\u00ab Authentic Jockey\u00ae Logo Label",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "WHITE",
+        "NAVY",
+        "BLACK",
+        "SHANGHAI",
+        "CHARCOAL",
+        "RED",
+        "MEL.",
+        "DEEP",
+        "AZURE",
+        "SEAPORT",
+        "BURNT",
+        "EDEN",
+        "ATLANTIS",
+        "BLUE",
+        "TEAL",
+        "GOLD",
+        "GREEN",
+        "ORANGE",
+        "GREY",
+        "MEL.",
+        "PLUM",
+        "PACIFIC",
+        "PERFORMANCE",
+        "RUST",
+        "PERFECT",
+        "GREEN",
+        "GREY",
+        "DESERT",
+        "SUN"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/18/product.png",
+        "public/images/product/MEN_OUTER/18/colors.png",
+        "public/images/product/MEN_OUTER/18/size.png"
+    ]
+}

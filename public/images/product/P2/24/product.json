@@ -1,0 +1,42 @@
+{
+    "_id": "US70P",
+    "name": "US70P TRUNK",
+    "brand": "Jockey",
+    "category": 20,
+    "price": 0,
+    "description": "* Pima Cotton Modal Elastane Stretch fabric\n\u00a2 Durable and soft waistband\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLUE",
+        "JASPE",
+        "INK",
+        "BLUE",
+        "RED",
+        "JASPE",
+        "BLACK",
+        "BLACK",
+        "JASPE",
+        "This",
+        "product",
+        "is",
+        "sold",
+        "by",
+        "print",
+        "and",
+        "the",
+        "prints",
+        "rotate",
+        "every",
+        "season"
+    ],
+    "images": [
+        "public/images/product/P2/24/product.png",
+        "public/images/product/P2/24/colors.png",
+        "public/images/product/P2/24/size.png"
+    ]
+}

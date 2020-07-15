@@ -1,0 +1,26 @@
+{
+    "_id": "HGO6",
+    "name": "HGO6 Y - FRONT\u00ae TRUNK",
+    "brand": "Jockey",
+    "category": 20,
+    "price": 0,
+    "description": "* Tencel\u00ae Cotton Elastane fabric\n* Moisture Control\n* Y - Front pouch opening\n* Label free for all day comfort\n*Durable and ultra soft waistband",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "MID",
+        "NIGHT",
+        "NAVY",
+        "POTENT",
+        "PURPLE"
+    ],
+    "images": [
+        "public/images/product/Premium 1/29/product.png",
+        "public/images/product/Premium 1/29/colors.png",
+        "public/images/product/Premium 1/29/size.png"
+    ]
+}

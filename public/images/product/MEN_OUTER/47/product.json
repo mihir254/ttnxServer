@@ -1,0 +1,40 @@
+{
+    "_id": "US82",
+    "name": "US 82 LONG SLEEVE T-SHIRT      USA ORIGINALS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich fabric\n\u00a2 USA Originals signature flag label on chest\n\u00a2 Printed patch label at the back",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "MEL.",
+        "RED",
+        "MEL.",
+        "INK",
+        "BLUE",
+        "MEL.",
+        "NAVY",
+        "GRINDLE",
+        "LIGHT",
+        "DENIM",
+        "MEL.",
+        "CREAM",
+        "MEL.",
+        "~",
+        "GREY",
+        "MEL.",
+        "BLACK",
+        "GRINDLE"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/47/product.png",
+        "public/images/product/MEN_OUTER/47/colors.png",
+        "public/images/product/MEN_OUTER/47/size.png"
+    ]
+}

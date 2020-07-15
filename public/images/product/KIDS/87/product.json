@@ -1,0 +1,35 @@
+{
+    "_id": "AG17",
+    "name": "AG17 T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00ab Authentic Jockey Branding",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Paisley",
+        "Purple",
+        "Banana",
+        "Cream",
+        "Coral",
+        "Reef",
+        "*",
+        "Super",
+        "Combed",
+        "Cotton",
+        "Elastane",
+        "Stretch",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/87/product.png",
+        "public/images/product/KIDS/87/colors.png",
+        "public/images/product/KIDS/87/size.png"
+    ]
+}

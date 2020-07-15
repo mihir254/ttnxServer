@@ -1,0 +1,26 @@
+{
+    "_id": "SP31",
+    "name": "SP 31 SLIM FIT TRACK",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Treated with technology, with antimicrobial properties\n\u00a2 Durable broad waistband with external shoestring\n\u00ab Authentic Jockey\u201d branding with reflective sport print\n\u00a2 Label free for all day comfortt",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "GRAPHITE",
+        "PERFORMANCE",
+        "NAVY",
+        "BLACK",
+        "GREY"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/72/product.png",
+        "public/images/product/MEN_OUTER/72/colors.png",
+        "public/images/product/MEN_OUTER/72/size.png"
+    ]
+}

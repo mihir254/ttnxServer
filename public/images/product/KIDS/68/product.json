@@ -1,0 +1,35 @@
+{
+    "_id": "SG02",
+    "name": "SG02 TANK TOP",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 Label free for all day comfort",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "White",
+        "Skin",
+        "Black",
+        "Sweet",
+        "Lilac",
+        "Tropical",
+        "Peach",
+        "Violet",
+        "Tulip",
+        "*",
+        "Cotton",
+        "Stretch",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/68/product.png",
+        "public/images/product/KIDS/68/colors.png",
+        "public/images/product/KIDS/68/size.png"
+    ]
+}

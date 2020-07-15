@@ -1,0 +1,20 @@
+{
+    "_id": "SP08",
+    "name": "SP08 BOXER BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "* Super Combed Cotton Stretch fabric\n* StayDRY Technology\n* StayFRESH Technology\n* Mesh inserts for increased moisture management\n* Durable and Ultra Soft waistband",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [],
+    "images": [
+        "public/images/product/Premium 1/36/product.png",
+        "public/images/product/Premium 1/36/colors.png",
+        "public/images/product/Premium 1/36/size.png"
+    ]
+}

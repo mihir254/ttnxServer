@@ -1,0 +1,43 @@
+{
+    "_id": "",
+    "name": "",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Supper combed Cotton fabric\n\u00a2 Stright Fit\n\u00a2 Durable broad waistband with external shoe string\n\u00ab Jockeysport large print at front",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "NAVY",
+        "/",
+        "BLACK",
+        "/",
+        "MID",
+        "GREY",
+        "MEL",
+        "GRAPHITE",
+        "/",
+        "CHARCOAL",
+        "MEL.",
+        "/",
+        "SEA",
+        "PORT",
+        "TEAL",
+        "CHARCOAL",
+        "MEL.",
+        "/CHARCOAL",
+        "MEL",
+        "BLACK",
+        "SANGHA!",
+        "RED"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/31/product.png",
+        "public/images/product/MEN_OUTER/31/colors.png",
+        "public/images/product/MEN_OUTER/31/size.png"
+    ]
+}

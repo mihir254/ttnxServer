@@ -1,0 +1,31 @@
+{
+    "_id": "7004",
+    "name": "7004 Ankle Length",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 Flastane body\n\u00a2 StayFresh technology",
+    "size": [
+        "ONE SIZE"
+    ],
+    "colors": [
+        "Available",
+        "in",
+        "Assorted",
+        "Colours",
+        "aS",
+        "Navy",
+        "Grindie",
+        "Oe",
+        "Mid",
+        "Gray",
+        "Grindle,",
+        "|",
+        "Red",
+        "Grindle"
+    ],
+    "images": [
+        "public/images/product/Socks/24/product.png",
+        "public/images/product/Socks/24/colors.png"
+    ]
+}

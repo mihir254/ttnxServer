@@ -1,0 +1,25 @@
+{
+    "_id": "MV03",
+    "name": "MV 03 T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Straight Fit Tee\n* Polyester Fabric",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BRICK",
+        "RED",
+        "NAVY",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/75/product.png",
+        "public/images/product/MEN_OUTER/75/colors.png",
+        "public/images/product/MEN_OUTER/75/size.png"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "_id": "3912",
+    "name": "3912 CLASSIC POLO |        FISURE               ATH",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich Fabric\n*\u00ab Embroidered Authentic Jockey\u00ae Logo on Chest",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "WHITE",
+        "NAVY",
+        "BLACK",
+        "SHANGHAI",
+        "CHARCOAL",
+        "RED",
+        "MEL.",
+        "TEAL",
+        "BLUE",
+        "~",
+        "GREY",
+        "MEL.",
+        "IRIS",
+        "BLUE",
+        "BURNT",
+        "EDEN",
+        "GOLD",
+        "GREEN"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/20/product.png",
+        "public/images/product/MEN_OUTER/20/colors.png",
+        "public/images/product/MEN_OUTER/20/size.png"
+    ]
+}

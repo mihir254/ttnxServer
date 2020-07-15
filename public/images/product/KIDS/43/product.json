@@ -1,0 +1,30 @@
+{
+    "_id": "AB31",
+    "name": "AB31 JOGGER",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton Soft fabric\n\u00a2 Stylized side taping",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Black",
+        "Cinnabar",
+        "Blue",
+        "Depth",
+        "Palace",
+        "Blue",
+        "Spring",
+        "Bouquet"
+    ],
+    "images": [
+        "public/images/product/KIDS/43/product.png",
+        "public/images/product/KIDS/43/colors.png",
+        "public/images/product/KIDS/43/size.png"
+    ]
+}

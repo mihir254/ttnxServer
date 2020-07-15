@@ -1,0 +1,35 @@
+{
+    "_id": "AB12",
+    "name": "AB12 SHORTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton rich fabric\n\u00a2 Athletic inspired HD print",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Black",
+        "Snow",
+        "Blue",
+        "Snow",
+        "Mel.",
+        "Shanghai",
+        "Red",
+        "Black",
+        "Pine",
+        "Green",
+        "Mel.",
+        "Neon",
+        "Blue"
+    ],
+    "images": [
+        "public/images/product/KIDS/35/product.png",
+        "public/images/product/KIDS/35/colors.png",
+        "public/images/product/KIDS/35/size.png"
+    ]
+}

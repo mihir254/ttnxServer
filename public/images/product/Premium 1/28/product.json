@@ -1,0 +1,36 @@
+{
+    "_id": "HGO2",
+    "name": "HGO2 Y - FRONT\u00ae TRUNK",
+    "brand": "Jockey",
+    "category": 20,
+    "price": 0,
+    "description": "* Tencel\u00ae Cotton Elastane fabric\n* Moisture Control\n* Y - Front pouch opening\n* Durable and ultra soft waistband\n* Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "MIDNIGHT",
+        "NAVY",
+        "POTENT",
+        "PURPLE",
+        "BLACK",
+        "LW\"",
+        "|",
+        "SN",
+        "t",
+        "BRIGHT",
+        "LIGHT",
+        "GREY",
+        "GUNMETAL",
+        "BLUE",
+        "CORAL"
+    ],
+    "images": [
+        "public/images/product/Premium 1/28/product.png",
+        "public/images/product/Premium 1/28/colors.png",
+        "public/images/product/Premium 1/28/size.png"
+    ]
+}

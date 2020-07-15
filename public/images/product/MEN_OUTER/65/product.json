@@ -1,0 +1,30 @@
+{
+    "_id": "1203",
+    "name": "1203 WOVEN SHORTS            NOILOATIOO IYNOILYNGALNI",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed cotton fabric\n* Durable broad waistband\n\u00a2 Functional front pocket\n* Zip placket with front fly opening\n\u00ab Authentic Jockey\u00ae logo",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "GRAPHITE",
+        "NAVY",
+        "FOREST",
+        "GREEN",
+        "KHAKI",
+        "BLACK",
+        "DARKER",
+        "KHAKI",
+        "WHITE"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/65/product.png",
+        "public/images/product/MEN_OUTER/65/colors.png",
+        "public/images/product/MEN_OUTER/65/size.png"
+    ]
+}

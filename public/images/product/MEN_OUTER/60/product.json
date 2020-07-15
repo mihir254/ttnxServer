@@ -1,0 +1,37 @@
+{
+    "_id": "UM04",
+    "name": "UM 04 SLIM FIT TRACKS  USA ORIGINALS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "100% Super Combed Cotton soft terry fabric\nSlim fit\nRibbed board waistband and tricolor\nshoestring with metal tipping\nPockets for added functionality\nSuitable for all purpose use",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "TRUE",
+        "BLACK",
+        "NAVY",
+        "GRINDLE",
+        "BLACK",
+        "MEL",
+        "/",
+        "/",
+        "J.",
+        "NAVY",
+        "GRINDLE",
+        "/",
+        "J.",
+        "BLACK",
+        "J.",
+        "BLACK"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/60/product.png",
+        "public/images/product/MEN_OUTER/60/colors.png",
+        "public/images/product/MEN_OUTER/60/size.png"
+    ]
+}

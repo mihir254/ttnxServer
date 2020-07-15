@@ -1,0 +1,35 @@
+{
+    "_id": "AB11",
+    "name": "AB11 SHORTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "*\u00ab Super Combed Cotton fabric\n* Stylized contrast side piping and drawcord",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "REG",
+        "5h:",
+        "satheate",
+        "i",
+        "HE",
+        "Bat",
+        "abteys",
+        "Black",
+        "Charcoal",
+        "Mel.",
+        "Grey",
+        "Mel.",
+        "Navy"
+    ],
+    "images": [
+        "public/images/product/KIDS/34/product.png",
+        "public/images/product/KIDS/34/colors.png",
+        "public/images/product/KIDS/34/size.png"
+    ]
+}

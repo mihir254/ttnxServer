@@ -1,0 +1,30 @@
+{
+    "_id": "UMO05",
+    "name": "UM O05 ZIP THRU HOODIE  USA ORIGINALS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton soft terry fabric\n* Slim fit\n* Ribbed board waistband and tricolor\nshoestring with metal tipping\n* Pockets for added functionality\n\u00a2 Suitable for all purpose use",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "TRUE",
+        "BLACK",
+        "NAVY",
+        "GRINDLE",
+        "BLACK",
+        "BLACK",
+        "NAVY.",
+        "MEL",
+        "GRINDLE"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/54/product.png",
+        "public/images/product/MEN_OUTER/54/colors.png",
+        "public/images/product/MEN_OUTER/54/size.png"
+    ]
+}

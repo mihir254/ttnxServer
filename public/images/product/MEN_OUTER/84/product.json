@@ -1,0 +1,25 @@
+{
+    "_id": "9009",
+    "name": "9009 PYJAMA PANT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Mercerized Combed Cotton Woven Fabric\n* Side Pockets\n* Concealed Button Placket With Front Fly Opening\n\u00ab Authentic Jockey\u00ae Logo Label",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "SEPT)",
+        "RRR",
+        "EE",
+        "REGEN)"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/84/product.png",
+        "public/images/product/MEN_OUTER/84/colors.png",
+        "public/images/product/MEN_OUTER/84/size.png"
+    ]
+}

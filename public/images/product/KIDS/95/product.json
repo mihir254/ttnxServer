@@ -1,0 +1,33 @@
+{
+    "_id": "AG05",
+    "name": "AG05 JEGGINGS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Trendy fit for all-day comfort",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Cherry",
+        "Denim",
+        "Blue",
+        "Black",
+        "*",
+        "Super",
+        "Combed",
+        "Cotton",
+        "Elastane",
+        "Interlock",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/95/product.png",
+        "public/images/product/KIDS/95/colors.png",
+        "public/images/product/KIDS/95/size.png"
+    ]
+}

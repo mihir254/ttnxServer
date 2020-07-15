@@ -1,0 +1,28 @@
+{
+    "_id": "SP04",
+    "name": "SP04 TRUNK",
+    "brand": "Jockey",
+    "category": 20,
+    "price": 0,
+    "description": "* Super Combed Cotton Stretch fabric\n* StayDRY Technology\n* StayFRESH Technology\n* Mesh inserts for increased moisture management\n* Durable and Ultra Soft waistband",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "PERFORMANCE",
+        "NAVY",
+        "CARIBBEAN",
+        "TURQ",
+        "CHARCOAL",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/Premium 1/34/product.png",
+        "public/images/product/Premium 1/34/colors.png",
+        "public/images/product/Premium 1/34/size.png"
+    ]
+}

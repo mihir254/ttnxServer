@@ -1,0 +1,23 @@
+{
+    "_id": "HGOS5",
+    "name": "HGOS5 BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "* Tencel\u00ae Cotton Elastane fabric\n* Moisture Control\n* Durable and soft waistband\n* Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "POTENT",
+        "PURPLE"
+    ],
+    "images": [
+        "public/images/product/Premium 1/27/product.png",
+        "public/images/product/Premium 1/27/colors.png",
+        "public/images/product/Premium 1/27/size.png"
+    ]
+}

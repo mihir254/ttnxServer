@@ -1,0 +1,2692 @@
+[
+    {
+        "_id": "3320",
+        "name": "3320 Vest",
+        "brand": "Jockey",
+        "category": 103,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton soft absorbent\n* Contoured armhole",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "White"
+        ],
+        "images": [
+            "public/images/product/KIDS/2/product.png",
+            "public/images/product/KIDS/2/colors.png",
+            "public/images/product/KIDS/2/size.png"
+        ]
+    },
+    {
+        "_id": "3321",
+        "name": "3321 Vest",
+        "brand": "Jockey",
+        "category": 103,
+        "price": 0,
+        "description": "* Made from 100% premium Combed Cotton Rib fabric\n* Contoured armhole",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "White"
+        ],
+        "images": [
+            "public/images/product/KIDS/3/product.png",
+            "public/images/product/KIDS/3/colors.png",
+            "public/images/product/KIDS/3/size.png"
+        ]
+    },
+    {
+        "_id": "3035",
+        "name": "3035 BRIEF",
+        "brand": "Jockey",
+        "category": 104,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton soft absorbent fabric\n* Double layer contoured pouch design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Burnt Gold/ Navy",
+            "Directorie Blue/Black",
+            "Directorie Blue/Shanghai Red",
+            "Navy/Shanghai Red",
+            "Navy/Ocean Depthy",
+            "Ocean Rust/Ocean Depth",
+            "Navy/Orange Rust",
+            "Black/Orange Rust",
+            "Ocean Depth/Shanghai Red",
+            "Flint Stone/Directorie Blue"
+        ],
+        "images": [
+            "public/images/product/KIDS/4/product.png",
+            "public/images/product/KIDS/4/colors.png",
+            "public/images/product/KIDS/4/size.png"
+        ]
+    },
+    {
+        "_id": "MBO1",
+        "name": "MBO1 BRIEF",
+        "brand": "Jockey",
+        "category": 104,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton soft absorbent fabric\n* Double layer contoured pouch design\n\u00a2 Stylish and comfortable covered waistband",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "On Availability"
+        ],
+        "images": [
+            "public/images/product/KIDS/5/product.png",
+            "public/images/product/KIDS/5/colors.png",
+            "public/images/product/KIDS/5/size.png"
+        ]
+    },
+    {
+        "_id": "3036",
+        "name": "3036 TRUNK",
+        "brand": "Jockey",
+        "category": 105,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton soft absorbent fabric\n* Double layer contoured pouch design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Burnt Gold/ Navy",
+            "Directorie Blue/Black",
+            "Directorie Blue/Shanghai Red",
+            "Navy/Shanghai Red",
+            "Navy/Ocean Depthy",
+            "Ocean Rust/Ocean Depth",
+            "Navy/Orange Rust",
+            "Black/Orange Rust",
+            "Ocean Depth/Shanghai Red",
+            "Flint Stone/Directorie Blue"
+        ],
+        "images": [
+            "public/images/product/KIDS/6/product.png",
+            "public/images/product/KIDS/6/colors.png",
+            "public/images/product/KIDS/6/size.png"
+        ]
+    },
+    {
+        "_id": "MBO03",
+        "name": "MBO03 TRUNK",
+        "brand": "Jockey",
+        "category": 105,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Elastane stretch fabric\n* Double layer contoured pouch with open fly",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Burnt Gold/ Navy",
+            "Directorie Blue/Black",
+            "Directorie Blue/Shanghai Red",
+            "Navy/Shanghai Red",
+            "Navy/Ocean Depthy",
+            "Ocean Rust/Ocean Depth",
+            "Navy/Orange Rust",
+            "Black/Orange Rust",
+            "Ocean Depth/Shanghai Red",
+            "Flint Stone/Directorie Blue"
+        ],
+        "images": [
+            "public/images/product/KIDS/7/product.png",
+            "public/images/product/KIDS/7/colors.png",
+            "public/images/product/KIDS/7/size.png"
+        ]
+    },
+    {
+        "_id": "UB21",
+        "name": "UB21 VEST",
+        "brand": "Jockey",
+        "category": 103,
+        "price": 0,
+        "description": "* Made from 100% premium Combed Cotton Rib fabric\n* Contoured armhole",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Team Red Binding : Navy/Grey Mel.",
+            "Team Red Binding : Grey Mel./Navy",
+            "Navy Binding : Grey Mel./Team Red",
+            "Navy Binding : Team Red/Grey Mel.",
+            "Grey Mel. Binding : Navy/Team Red"
+        ],
+        "images": [
+            "public/images/product/KIDS/9/product.png",
+            "public/images/product/KIDS/9/colors.png",
+            "public/images/product/KIDS/9/size.png"
+        ]
+    },
+    {
+        "_id": "UBO1",
+        "name": "UBO1 BRIEF",
+        "brand": "Jockey",
+        "category": 104,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n\u00ab Authentic Jockey\u00ae USA Originals printed design\n* Double layered crotch panel\n* Durable and soft waistband",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Grey Mel. & Navy Base/White Print",
+            "White & Grey Mel. Base/Navy Print",
+            "Navy & Grey Mel. Base/Navy Print",
+            "Navy & White Base/Grey Mel. Print"
+        ],
+        "images": [
+            "public/images/product/KIDS/10/product.png",
+            "public/images/product/KIDS/10/colors.png",
+            "public/images/product/KIDS/10/size.png"
+        ]
+    },
+    {
+        "_id": "UB12",
+        "name": "UB12 BRIEF",
+        "brand": "Jockey",
+        "category": 104,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n\u00ab Authentic Jockey\u00ae USA Originals printed design\n* Double layered crotch panel\n* Durable and soft waist band",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "On Availability"
+        ],
+        "images": [
+            "public/images/product/KIDS/11/product.png",
+            "public/images/product/KIDS/11/colors.png",
+            "public/images/product/KIDS/11/size.png"
+        ]
+    },
+    {
+        "_id": "UB03",
+        "name": "UB03 TRUNK",
+        "brand": "Jockey",
+        "category": 105,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Elastane stretch fabric\n\u00ab Authentic Jockey\u00ae USA Originals printed design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Grey Mel. & Navy Base/White Print",
+            "White & Grey Mel. Base/Navy Print",
+            "Navy & Grey Mel. Base/Navy Print",
+            "Navy & White Base/Grey Mel. Print"
+        ],
+        "images": [
+            "public/images/product/KIDS/12/product.png",
+            "public/images/product/KIDS/12/colors.png",
+            "public/images/product/KIDS/12/size.png"
+        ]
+    },
+    {
+        "_id": "UB08",
+        "name": "UB08 BOXER SHORT",
+        "brand": "Jockey",
+        "category": 106,
+        "price": 0,
+        "description": "* 100% Combed Cotton woven fabric\n\u00ab Authentic Jockey\u00ae USA Originals design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "RWB05",
+            "GNR02",
+            "BGR04",
+            "NWT04",
+            "WTG04"
+        ],
+        "images": [
+            "public/images/product/KIDS/13/product.png",
+            "public/images/product/KIDS/13/colors.png",
+            "public/images/product/KIDS/13/size.png"
+        ]
+    },
+    {
+        "_id": "PBO1",
+        "name": "PBO1 BRIEF",
+        "brand": "Jockey",
+        "category": 104,
+        "price": 0,
+        "description": "* Genuine Jockey comfort, fit and quality\n* 100% Super Combed Cotton fabric\n\u00a2 Authentic JOCKEY Original Yarn dyed design\n* Double layered crotch panel\n* Durable and soft waist band",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "On Availability"
+        ],
+        "images": [
+            "public/images/product/KIDS/15/product.png",
+            "public/images/product/KIDS/15/colors.png",
+            "public/images/product/KIDS/15/size.png"
+        ]
+    },
+    {
+        "_id": "PBO5",
+        "name": "PBO5 BRIEF",
+        "brand": "Jockey",
+        "category": 104,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton elastane stretch fabric\n* Genuine Jockey comfort, fit and quality",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "On Availability"
+        ],
+        "images": [
+            "public/images/product/KIDS/16/product.png",
+            "public/images/product/KIDS/16/colors.png",
+            "public/images/product/KIDS/16/size.png"
+        ]
+    },
+    {
+        "_id": "PB04",
+        "name": "PB04 BRIEF",
+        "brand": "Jockey",
+        "category": 104,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n\u00a2 All over print design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "On Availability"
+        ],
+        "images": [
+            "public/images/product/KIDS/17/product.png",
+            "public/images/product/KIDS/17/colors.png",
+            "public/images/product/KIDS/17/size.png"
+        ]
+    },
+    {
+        "_id": "PB06",
+        "name": "PB06 TRUNK",
+        "brand": "Jockey",
+        "category": 105,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton elastane stretch fabric\n* Genuine Jockey comfort, fit and quality",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "On Availability"
+        ],
+        "images": [
+            "public/images/product/KIDS/18/product.png",
+            "public/images/product/KIDS/18/colors.png",
+            "public/images/product/KIDS/18/size.png"
+        ]
+    },
+    {
+        "_id": "PB02",
+        "name": "PB02 BRIEF",
+        "brand": "Jockey",
+        "category": 104,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Elastane stretch fabric\n\u00a2 Yarn-dyed stripe design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "On Availability"
+        ],
+        "images": [
+            "public/images/product/KIDS/19/product.png",
+            "public/images/product/KIDS/19/colors.png",
+            "public/images/product/KIDS/19/size.png"
+        ]
+    },
+    {
+        "_id": "PB03",
+        "name": "PB03 TRUNK",
+        "brand": "Jockey",
+        "category": 105,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n\u00a2 All over print design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "On Availability"
+        ],
+        "images": [
+            "public/images/product/KIDS/20/product.png",
+            "public/images/product/KIDS/20/colors.png",
+            "public/images/product/KIDS/20/size.png"
+        ]
+    },
+    {
+        "_id": "NBO1",
+        "name": "NBO1 BRIEF",
+        "brand": "Jockey",
+        "category": 104,
+        "price": 0,
+        "description": "* Super Combed Cotton elastance stretch fabric\n* NYC inspired print design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "On Availability"
+        ],
+        "images": [
+            "public/images/product/KIDS/22/product.png",
+            "public/images/product/KIDS/22/colors.png",
+            "public/images/product/KIDS/22/size.png"
+        ]
+    },
+    {
+        "_id": "NB02",
+        "name": "NB02 ",
+        "brand": "Jockey",
+        "category": 105,
+        "price": 0,
+        "description": "* Super Combed Cotton elastance stretch fabric\n* NYC inspired print design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "On Availability"
+        ],
+        "images": [
+            "public/images/product/KIDS/23/product.png",
+            "public/images/product/KIDS/23/colors.png",
+            "public/images/product/KIDS/23/size.png"
+        ]
+    },
+    {
+        "_id": "NB03",
+        "name": "NB03 BOXER SHORT",
+        "brand": "Jockey",
+        "category": 106,
+        "price": 0,
+        "description": "* Super Combed Cotton elastance stretch fabric\n* NYC inspired print design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "On Availability"
+        ],
+        "images": [
+            "public/images/product/KIDS/24/product.png",
+            "public/images/product/KIDS/24/colors.png",
+            "public/images/product/KIDS/24/size.png"
+        ]
+    },
+    {
+        "_id": "AB14",
+        "name": "AB14 Tank Top",
+        "brand": "Jockey",
+        "category": 108,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton soft absorbent fabric\n* Double layer contoured pouch design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "SCUBA BLUE",
+            "TEAM RED",
+            "SPRING BOUQUET",
+            "SNAP DRAGON",
+            "WHITE",
+            "BLUE DEPTH"
+        ],
+        "images": [
+            "public/images/product/KIDS/26/product.png",
+            "public/images/product/KIDS/26/colors.png",
+            "public/images/product/KIDS/26/size.png"
+        ]
+    },
+    {
+        "_id": "AB09",
+        "name": "AB09 T-SHIRT",
+        "brand": "Jockey",
+        "category": 108,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton\n\u00a2 Yarn dyed design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Water Fall",
+            "Wordly Red",
+            "Neon Blue",
+            "Orange",
+            "Neon Blue"
+        ],
+        "images": [
+            "public/images/product/KIDS/27/product.png",
+            "public/images/product/KIDS/27/colors.png",
+            "public/images/product/KIDS/27/size.png"
+        ]
+    },
+    {
+        "_id": "AB19",
+        "name": "AB19 RAGLAN SLEEVE",
+        "brand": "Jockey",
+        "category": 108,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton\n\u00a2 Athletic inspired prints",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Golden Poppy/Blue Depth",
+            "Spring Bouquet/Blue Depth",
+            "Blue Depth/Scuba Blue",
+            "Team Red/Blue Depth"
+        ],
+        "images": [
+            "public/images/product/KIDS/28/product.png",
+            "public/images/product/KIDS/28/colors.png",
+            "public/images/product/KIDS/28/size.png"
+        ]
+    },
+    {
+        "_id": "AB20",
+        "name": "AB20 Stripe T-Shirt",
+        "brand": "Jockey",
+        "category": 108,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton soft absorbent fabric\n* Double layer contoured pouch design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Blue Depth/Team Red",
+            "Spring Bouquet/Blue Depth",
+            "Team Red/Blue Depth",
+            "Snapdragon/Blue Depth",
+            "Blue Depth/Scuba Blue"
+        ],
+        "images": [
+            "public/images/product/KIDS/29/product.png",
+            "public/images/product/KIDS/29/colors.png",
+            "public/images/product/KIDS/29/size.png"
+        ]
+    },
+    {
+        "_id": "AB23",
+        "name": "AB23 T-SHIRT",
+        "brand": "Jockey",
+        "category": 108,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton soft fabric\n\u00a2 Athletic print on front body",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Scuba Blue",
+            "Team Red",
+            "Spring Bouquet",
+            "Snap Dragon",
+            "White",
+            "Blue Depth"
+        ],
+        "images": [
+            "public/images/product/KIDS/30/product.png",
+            "public/images/product/KIDS/30/colors.png",
+            "public/images/product/KIDS/30/size.png"
+        ]
+    },
+    {
+        "_id": "AB25",
+        "name": "AB25 LONG SLEEVE T-SHIRT",
+        "brand": "Jockey",
+        "category": 108,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n\u00a2 Athletic inspired prints",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "True Black Melange",
+            "Neon Blue",
+            "Team Red"
+        ],
+        "images": [
+            "public/images/product/KIDS/31/product.png",
+            "public/images/product/KIDS/31/colors.png",
+            "public/images/product/KIDS/31/size.png"
+        ]
+    },
+    {
+        "_id": "AB24",
+        "name": "AB24 POLO",
+        "brand": "Jockey",
+        "category": 108,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton Soft fabric\n\u00ab Athletic inspired design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Scuba Blue",
+            "Team Red",
+            "Spring Bouquet",
+            "Snap Dragon",
+            "Blue Depth"
+        ],
+        "images": [
+            "public/images/product/KIDS/32/product.png",
+            "public/images/product/KIDS/32/colors.png",
+            "public/images/product/KIDS/32/size.png"
+        ]
+    },
+    {
+        "_id": "AB07",
+        "name": "AB07 SWEATSHIRT",
+        "brand": "Jockey",
+        "category": 109,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Rich fabric\n\u00ab Authentic JOCKEY branding with athletic inspired prints",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Neon Blue",
+            "Team Red",
+            "Golden Poppy",
+            "Greenery",
+            "Navy"
+        ],
+        "images": [
+            "public/images/product/KIDS/33/product.png",
+            "public/images/product/KIDS/33/colors.png",
+            "public/images/product/KIDS/33/size.png"
+        ]
+    },
+    {
+        "_id": "AB11",
+        "name": "AB11 SHORTS",
+        "brand": "Jockey",
+        "category": 110,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton fabric\n* Stylized contrast side piping and drawcord",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Black",
+            "Charcoal Mel.",
+            "Grey Mel.",
+            "Navy"
+        ],
+        "images": [
+            "public/images/product/KIDS/34/product.png",
+            "public/images/product/KIDS/34/colors.png",
+            "public/images/product/KIDS/34/size.png"
+        ]
+    },
+    {
+        "_id": "AB12",
+        "name": "AB12 SHORTS",
+        "brand": "Jockey",
+        "category": 110,
+        "price": 0,
+        "description": "* Super Combed Cotton rich fabric\n\u00a2 Athletic inspired HD print",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Black Snow Mel.",
+            "Blue Snow Mel.",
+            "Shanghai Red",
+            "Black",
+            "Pine Green",
+            "Neon Blue"
+        ],
+        "images": [
+            "public/images/product/KIDS/35/product.png",
+            "public/images/product/KIDS/35/colors.png",
+            "public/images/product/KIDS/35/size.png"
+        ]
+    },
+    {
+        "_id": "AB15",
+        "name": "AB15 SHORTS",
+        "brand": "Jockey",
+        "category": 110,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n\u00ab Athletic inspired design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Black",
+            "Deep Grey Slub",
+            "Navy"
+        ],
+        "images": [
+            "public/images/product/KIDS/36/product.png",
+            "public/images/product/KIDS/36/colors.png",
+            "public/images/product/KIDS/36/size.png"
+        ]
+    },
+    {
+        "_id": "AB17",
+        "name": "AB17 SHORTS",
+        "brand": "Jockey",
+        "category": 110,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Rich fabric\n\u00a2 Athletic inspired print",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Black",
+            "Navy"
+        ],
+        "images": [
+            "public/images/product/KIDS/37/product.png",
+            "public/images/product/KIDS/37/colors.png",
+            "public/images/product/KIDS/37/size.png"
+        ]
+    },
+    {
+        "_id": "AB22",
+        "name": "AB22 SHORTS",
+        "brand": "Jockey",
+        "category": 110,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n\u00a2 Jockey inspired HD print",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Black",
+            "Ember Glow",
+            "Palace Blue"
+        ],
+        "images": [
+            "public/images/product/KIDS/38/product.png",
+            "public/images/product/KIDS/38/colors.png",
+            "public/images/product/KIDS/38/size.png"
+        ]
+    },
+    {
+        "_id": "AB30",
+        "name": "AB30 SHORTS",
+        "brand": "Jockey",
+        "category": 110,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton Soft fabric\n\u00a2 Stylized side taping",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Black",
+            "Cinnabar",
+            "Blue Depth",
+            "Palace Blue",
+            "Spring Bouquet"
+        ],
+        "images": [
+            "public/images/product/KIDS/39/product.png",
+            "public/images/product/KIDS/39/colors.png",
+            "public/images/product/KIDS/39/size.png"
+        ]
+    },
+    {
+        "_id": "AB10",
+        "name": "AB10 JOGGER",
+        "brand": "Jockey",
+        "category": 111,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Rich fabric\n\u00ab Athletic inspired sporty print",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Black",
+            "Blue Snow Mel",
+            "Black Snow Mel.",
+            "Navy"
+        ],
+        "images": [
+            "public/images/product/KIDS/40/product.png",
+            "public/images/product/KIDS/40/colors.png",
+            "public/images/product/KIDS/40/size.png"
+        ]
+    },
+    {
+        "_id": "AB13",
+        "name": "AB13 Track Pant",
+        "brand": "Jockey",
+        "category": 111,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton soft absorbent fabric\n* Double layer contoured pouch design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Grey Mel.",
+            "Charcoal Mel.",
+            "Black",
+            "Navy"
+        ],
+        "images": [
+            "public/images/product/KIDS/41/product.png",
+            "public/images/product/KIDS/41/colors.png",
+            "public/images/product/KIDS/41/size.png"
+        ]
+    },
+    {
+        "_id": "AB16",
+        "name": "AB16 JOGGER",
+        "brand": "Jockey",
+        "category": 111,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n\u00a2 76 HD Print for sporty look",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Deep Gray Slub",
+            "Black",
+            "Navy"
+        ],
+        "images": [
+            "public/images/product/KIDS/42/product.png",
+            "public/images/product/KIDS/42/colors.png",
+            "public/images/product/KIDS/42/size.png"
+        ]
+    },
+    {
+        "_id": "AB31",
+        "name": "AB31 JOGGER",
+        "brand": "Jockey",
+        "category": 111,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton Soft fabric\n\u00a2 Stylized side taping",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Black",
+            "Cinnabar",
+            "Blue Depth",
+            "Palace Blue",
+            "Spring Bouquet"
+        ],
+        "images": [
+            "public/images/product/KIDS/43/product.png",
+            "public/images/product/KIDS/43/colors.png",
+            "public/images/product/KIDS/43/size.png"
+        ]
+    },
+    {
+        "_id": "AB18",
+        "name": "AB18 JOGGER",
+        "brand": "Jockey",
+        "category": 111,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Rich fabric\n\u00ab Athletic inspired sporty design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Black",
+            "Navy"
+        ],
+        "images": [
+            "public/images/product/KIDS/44/product.png",
+            "public/images/product/KIDS/44/colors.png",
+            "public/images/product/KIDS/44/size.png"
+        ]
+    },
+    {
+        "_id": "AB21",
+        "name": "AB21 JOGGER",
+        "brand": "Jockey",
+        "category": 111,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Rich fabric\n\u00ab Jockey Inspired print",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Black",
+            "Navy",
+            "Palace Blue"
+        ],
+        "images": [
+            "public/images/product/KIDS/45/product.png",
+            "public/images/product/KIDS/45/colors.png",
+            "public/images/product/KIDS/45/size.png"
+        ]
+    },
+    {
+        "_id": "AB06",
+        "name": "AB06 JOGGER",
+        "brand": "Jockey",
+        "category": 111,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Rich fabric\n\u00ab Athletic inspired sporty print",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Grey Snow Mel.",
+            "Blue Snow Mel.",
+            "Black Snow Mel"
+        ],
+        "images": [
+            "public/images/product/KIDS/46/product.png",
+            "public/images/product/KIDS/46/colors.png",
+            "public/images/product/KIDS/46/size.png"
+        ]
+    },
+    {
+        "_id": "UB10",
+        "name": "UB10 TNAK TOP",
+        "brand": "Jockey",
+        "category": 108,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n\u00ab Americana inspired print on front body",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "WHITE",
+            "NAVY",
+            "GREY MEL.",
+            "TEAM RED",
+            "CORN SILK"
+        ],
+        "images": [
+            "public/images/product/KIDS/48/product.png",
+            "public/images/product/KIDS/48/colors.png",
+            "public/images/product/KIDS/48/size.png"
+        ]
+    },
+    {
+        "_id": "UB51",
+        "name": "UB51 ",
+        "brand": "Jockey",
+        "category": 108,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n\u00ab Americana inspired print on front body",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "WHITE",
+            "TEAM RED",
+            "BLUE CORAL",
+            "CORN SILK"
+        ],
+        "images": [
+            "public/images/product/KIDS/49/product.png",
+            "public/images/product/KIDS/49/colors.png",
+            "public/images/product/KIDS/49/size.png"
+        ]
+    },
+    {
+        "_id": "UB55",
+        "name": "UB55 T-SHIRT",
+        "brand": "Jockey",
+        "category": 108,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n\u00ab Americana Inspired print",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Alaskan Blue",
+            "Team Red",
+            "Spring Bouquet",
+            "Snap Dragon",
+            "White",
+            "Navy"
+        ],
+        "images": [
+            "public/images/product/KIDS/50/product.png",
+            "public/images/product/KIDS/50/colors.png",
+            "public/images/product/KIDS/50/size.png"
+        ]
+    },
+    {
+        "_id": "UB56",
+        "name": "UB56 T-SHIRT",
+        "brand": "Jockey",
+        "category": 108,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n\u00ab Americana Inspired print",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Black",
+            "Team Red",
+            "Blue Coral",
+            "Corn Silk",
+            "White"
+        ],
+        "images": [
+            "public/images/product/KIDS/51/product.png",
+            "public/images/product/KIDS/51/colors.png",
+            "public/images/product/KIDS/51/size.png"
+        ]
+    },
+    {
+        "_id": "UB52",
+        "name": "UB52 POLO",
+        "brand": "Jockey",
+        "category": 108,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n\u00ab Americana Inspired design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Navy/White/Lt. Grey Mel.",
+            "Blue Coral/Navy/Lt. Grey Mel.",
+            "Team Red/Navy/Lt. Grey Mel.",
+            "Alaskan Blue/Navy/Lt. Grey Mel.",
+            "Corn Silk/Navy/Lt. Grey Mel."
+        ],
+        "images": [
+            "public/images/product/KIDS/52/product.png",
+            "public/images/product/KIDS/52/colors.png",
+            "public/images/product/KIDS/52/size.png"
+        ]
+    },
+    {
+        "_id": "UB50",
+        "name": "UB50 HOODIE",
+        "brand": "Jockey",
+        "category": 112,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n* Hooded jacket with USA prints",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Black Grindle",
+            "Navy Grindle",
+            "True Black Melange"
+        ],
+        "images": [
+            "public/images/product/KIDS/53/product.png",
+            "public/images/product/KIDS/53/colors.png",
+            "public/images/product/KIDS/53/size.png"
+        ]
+    },
+    {
+        "_id": "UB58",
+        "name": "UB58 SWEATSHIRT",
+        "brand": "Jockey",
+        "category": 109,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n\u00a2 Flat & extra soft seams guaranteed to make the product last long",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Lt. Denim Mel.",
+            "Navy",
+            "Black",
+            "Cherry Cobbler"
+        ],
+        "images": [
+            "public/images/product/KIDS/54/product.png",
+            "public/images/product/KIDS/54/colors.png",
+            "public/images/product/KIDS/54/size.png"
+        ]
+    },
+    {
+        "_id": "UB54",
+        "name": "UB54 Shorts",
+        "brand": "Jockey",
+        "category": 110,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton soft absorbent fabric\n* Double layer contoured pouch design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Ecru/Olive Print",
+            "Ecru/Navy Print"
+        ],
+        "images": [
+            "public/images/product/KIDS/55/product.png",
+            "public/images/product/KIDS/55/colors.png",
+            "public/images/product/KIDS/55/size.png"
+        ]
+    },
+    {
+        "_id": "UB53",
+        "name": "UB53 SHORTS",
+        "brand": "Jockey",
+        "category": 110,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton fabric\n*\u00ab Americana inspired print",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Ink Blue Mel.",
+            "Steel Grey Mel.",
+            "Black Mel."
+        ],
+        "images": [
+            "public/images/product/KIDS/56/product.png",
+            "public/images/product/KIDS/56/colors.png",
+            "public/images/product/KIDS/56/size.png"
+        ]
+    },
+    {
+        "_id": "UB20",
+        "name": "UB20 Jogger",
+        "brand": "Jockey",
+        "category": 110,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton soft absorbent fabric\n* Double layer contoured pouch design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Grey Mel.",
+            "Ink Blue Mel.",
+            "Black Mel."
+        ],
+        "images": [
+            "public/images/product/KIDS/57/product.png",
+            "public/images/product/KIDS/57/colors.png",
+            "public/images/product/KIDS/57/size.png"
+        ]
+    },
+    {
+        "_id": "CB01",
+        "name": "CB01 TANK TOP",
+        "brand": "Jockey",
+        "category": 108,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n\u00a2 Fun and quirky all over prints",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "White",
+            "Embor Glow",
+            "Corn Silk"
+        ],
+        "images": [
+            "public/images/product/KIDS/59/product.png",
+            "public/images/product/KIDS/59/colors.png",
+            "public/images/product/KIDS/59/size.png"
+        ]
+    },
+    {
+        "_id": "CB02",
+        "name": "CB02 T-SHIRT",
+        "brand": "Jockey",
+        "category": 108,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n\u00a2 Fun and quirky prints",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Palace Blue",
+            "Ember Glow",
+            "Spring Bouquet",
+            "Corn Silk",
+            "White"
+        ],
+        "images": [
+            "public/images/product/KIDS/60/product.png",
+            "public/images/product/KIDS/60/colors.png",
+            "public/images/product/KIDS/60/size.png"
+        ]
+    },
+    {
+        "_id": "CB04",
+        "name": "CB04 LONG SLEEVE",
+        "brand": "Jockey",
+        "category": 108,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n\u00a2 Fun and quirky prints",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Navy",
+            "Spring Bouquet",
+            "Corn Silk",
+            "Cinnabar"
+        ],
+        "images": [
+            "public/images/product/KIDS/61/product.png",
+            "public/images/product/KIDS/61/colors.png",
+            "public/images/product/KIDS/61/size.png"
+        ]
+    },
+    {
+        "_id": "CB07",
+        "name": "CB07 HOODIE",
+        "brand": "Jockey",
+        "category": 112,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Rich fabric\n\u00a2 Fun and quirky prints",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Black",
+            "Cinnabar",
+            "Palace Blue"
+        ],
+        "images": [
+            "public/images/product/KIDS/62/product.png",
+            "public/images/product/KIDS/62/colors.png",
+            "public/images/product/KIDS/62/size.png"
+        ]
+    },
+    {
+        "_id": "CB03",
+        "name": "CB03 SHORTS",
+        "brand": "Jockey",
+        "category": 110,
+        "price": 0,
+        "description": "* Super Combed Cotton Rich soft fabric\n\u00a2 Fun and quirky all over prints",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Black",
+            "Navy",
+            "Palace Blue"
+        ],
+        "images": [
+            "public/images/product/KIDS/63/product.png",
+            "public/images/product/KIDS/63/colors.png",
+            "public/images/product/KIDS/63/size.png"
+        ]
+    },
+    {
+        "_id": "CB05",
+        "name": "CB05 TRACK PANT",
+        "brand": "Jockey",
+        "category": 111,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Rich fabric\n* Cool oversized placement text",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Black",
+            "Cinnabar",
+            "Navy"
+        ],
+        "images": [
+            "public/images/product/KIDS/64/product.png",
+            "public/images/product/KIDS/64/colors.png",
+            "public/images/product/KIDS/64/size.png"
+        ]
+    },
+    {
+        "_id": "SG04",
+        "name": "SG04 CAMISOLE",
+        "brand": "Jockey",
+        "category": 122,
+        "price": 0,
+        "description": "100% Super Combed Cotton Fabric \n\u00a2 Label free for all day comfort",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "SKIN",
+            "WHITE",
+            "Sweet Lilac",
+            "Tropical Peach",
+            "Violet Tulip",
+            "Black"
+        ],
+        "images": [
+            "public/images/product/KIDS/66/product.png",
+            "public/images/product/KIDS/66/colors.png",
+            "public/images/product/KIDS/66/size.png"
+        ]
+    },
+    {
+        "_id": "SG05",
+        "name": "SG05 SHELF",
+        "brand": "Jockey",
+        "category": 122,
+        "price": 0,
+        "description": "Cotton Stretch Fabric \n\u00a2 Label free for all day comfort",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "SKIN",
+            "WHITE",
+            "Black"
+        ],
+        "images": [
+            "public/images/product/KIDS/67/product.png",
+            "public/images/product/KIDS/67/colors.png",
+            "public/images/product/KIDS/67/size.png"
+        ]
+    },
+    {
+        "_id": "SG02",
+        "name": "SG02 TANK TOP",
+        "brand": "Jockey",
+        "category": 123,
+        "price": 0,
+        "description": "\u00a2 Label free for all day comfort",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "White",
+            "Skin",
+            "Black",
+            "Sweet Lilac",
+            "Tropical Peach",
+            "Violet Tulip"
+        ],
+        "images": [
+            "public/images/product/KIDS/68/product.png",
+            "public/images/product/KIDS/68/colors.png",
+            "public/images/product/KIDS/68/size.png"
+        ]
+    },
+    {
+        "_id": "SGO1",
+        "name": "SGO1 PANTY",
+        "brand": "Jockey",
+        "category": 124,
+        "price": 0,
+        "description": "* Concealed waistband",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Teal",
+            "Acai",
+            "Lavender",
+            "Scent",
+            "Ruby",
+            "Black",
+            "Persian Blue",
+            "Blush Pink"
+        ],
+        "images": [
+            "public/images/product/KIDS/69/product.png",
+            "public/images/product/KIDS/69/colors.png",
+            "public/images/product/KIDS/69/size.png"
+        ]
+    },
+    {
+        "_id": "SGO1P",
+        "name": "SGO1P ",
+        "brand": "Jockey",
+        "category": 124,
+        "price": 0,
+        "description": "* Concealed waistband",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "On Availability"
+        ],
+        "images": [
+            "public/images/product/KIDS/70/product.png",
+            "public/images/product/KIDS/70/colors.png",
+            "public/images/product/KIDS/70/size.png"
+        ]
+    },
+    {
+        "_id": "SG06",
+        "name": "SG06 BLOOMER",
+        "brand": "Jockey",
+        "category": 125,
+        "price": 0,
+        "description": "\u00abSuper Combed Cotton fabric \n* Concealed on elastic waist & leg for better comfort",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Teal/Acai",
+            "Ruby/Black",
+            "Lavender Scent/Blush Pink",
+            "Teal/Persian Blue",
+            "Blush Pink/Lavender Scent"
+        ],
+        "images": [
+            "public/images/product/KIDS/71/product.png",
+            "public/images/product/KIDS/71/colors.png",
+            "public/images/product/KIDS/71/size.png"
+        ]
+    },
+    {
+        "_id": "SGO6P",
+        "name": "SGO6P BLOOMER",
+        "brand": "Jockey",
+        "category": 125,
+        "price": 0,
+        "description": "* Concealed on elastic waist & leg for better comfort",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Ruby/Acai",
+            "Blush Pink/Lavender Scent",
+            "Royal Cobalt/Blush Pink",
+            "Lavender Scent/Ruby",
+            "Acai/Royal Cobalt"
+        ],
+        "images": [
+            "public/images/product/KIDS/72/product.png",
+            "public/images/product/KIDS/72/colors.png",
+            "public/images/product/KIDS/72/size.png"
+        ]
+    },
+    {
+        "_id": "SG03",
+        "name": "SG03 SHORTIES",
+        "brand": "Jockey",
+        "category": 126,
+        "price": 0,
+        "description": "\u00a2 Label free for all day comfort",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "White",
+            "Skin",
+            "Black",
+            "Classic Navy"
+        ],
+        "images": [
+            "public/images/product/KIDS/73/product.png",
+            "public/images/product/KIDS/73/colors.png",
+            "public/images/product/KIDS/73/size.png"
+        ]
+    },
+    {
+        "_id": "FG03",
+        "name": "FG03 Camisole",
+        "brand": "Jockey",
+        "category": 122,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton soft absorbent fabric\n* Double layer contoured pouch design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Ruby",
+            "Bright Violet",
+            "Teal"
+        ],
+        "images": [
+            "public/images/product/KIDS/75/product.png",
+            "public/images/product/KIDS/75/colors.png",
+            "public/images/product/KIDS/75/size.png"
+        ]
+    },
+    {
+        "_id": "FG01",
+        "name": "FG01 PANTY",
+        "brand": "Jockey",
+        "category": 124,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton fabric\n* Concealed waistband",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Bright Violet 1",
+            "Ruby 1",
+            "Ruby 2",
+            "Teal",
+            "Bright Violet 2"
+        ],
+        "images": [
+            "public/images/product/KIDS/76/product.png",
+            "public/images/product/KIDS/76/colors.png",
+            "public/images/product/KIDS/76/size.png"
+        ]
+    },
+    {
+        "_id": "FG05",
+        "name": "FG05 Girl Short",
+        "brand": "Jockey",
+        "category": 124,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton soft absorbent fabric\n* Double layer contoured pouch design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Bright Violet 1",
+            "Ruby 1",
+            "Ruby 2",
+            "Teal",
+            "Bright Violet 2"
+        ],
+        "images": [
+            "public/images/product/KIDS/77/product.png",
+            "public/images/product/KIDS/77/colors.png",
+            "public/images/product/KIDS/77/size.png"
+        ]
+    },
+    {
+        "_id": "UG50",
+        "name": "UG50 CAMISOLE",
+        "brand": "Jockey",
+        "category": 122,
+        "price": 0,
+        "description": "\u00a2 Label free for all day comfort",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Indigo Crush",
+            "white",
+            "Hibiscus"
+        ],
+        "images": [
+            "public/images/product/KIDS/79/product.png",
+            "public/images/product/KIDS/79/colors.png",
+            "public/images/product/KIDS/79/size.png"
+        ]
+    },
+    {
+        "_id": "UG51",
+        "name": "UG51 PANTY",
+        "brand": "Jockey",
+        "category": 124,
+        "price": 0,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n* Soft jacquard elastic on waistband",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Hibiscus",
+            "Indigo Crush"
+        ],
+        "images": [
+            "public/images/product/KIDS/80/product.png",
+            "public/images/product/KIDS/80/colors.png",
+            "public/images/product/KIDS/80/size.png"
+        ]
+    },
+    {
+        "_id": "UG52",
+        "name": "UG52 GIRL SHORT",
+        "brand": "Jockey",
+        "category": 124,
+        "price": 0,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n* Soft jacquard elastic on waistband",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Hibiscus",
+            "Indigo Crush"
+        ],
+        "images": [
+            "public/images/product/KIDS/81/product.png",
+            "public/images/product/KIDS/81/colors.png",
+            "public/images/product/KIDS/81/size.png"
+        ]
+    },
+    {
+        "_id": "AG27",
+        "name": "AG27 TANK TOP",
+        "brand": "Jockey",
+        "category": 128,
+        "price": 0,
+        "description": "\u00a2 Flat and extra soft seams guaranteed to make the product last long",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Pink Carnation",
+            "Imperial Blue",
+            "Coral Reef"
+        ],
+        "images": [
+            "public/images/product/KIDS/83/product.png",
+            "public/images/product/KIDS/83/colors.png",
+            "public/images/product/KIDS/83/size.png"
+        ]
+    },
+    {
+        "_id": "AGO1",
+        "name": "AGO1 T-SHIRT",
+        "brand": "Jockey",
+        "category": 128,
+        "price": 0,
+        "description": "\u00a2 Ribbed round neck prevents sagging",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Ruby",
+            "Paisley Purple",
+            "Pink Lady",
+            "Banana Cream"
+        ],
+        "images": [
+            "public/images/product/KIDS/84/product.png",
+            "public/images/product/KIDS/84/colors.png",
+            "public/images/product/KIDS/84/size.png"
+        ]
+    },
+    {
+        "_id": "AG02",
+        "name": "AG02 T-SHIRT",
+        "brand": "Jockey",
+        "category": 128,
+        "price": 0,
+        "description": "\u00a2 Ribbed round neck prevents sagging",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Poseidon/Ruby",
+            "Aster Purple/Pool Blue",
+            "Banana Cream/Dubarry"
+        ],
+        "images": [
+            "public/images/product/KIDS/85/product.png",
+            "public/images/product/KIDS/85/colors.png",
+            "public/images/product/KIDS/85/size.png"
+        ]
+    },
+    {
+        "_id": "AG03",
+        "name": "AG03 T-Shirt",
+        "brand": "Jockey",
+        "category": 128,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton soft absorbent fabric\n* Double layer contoured pouch design",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Dubarry/White",
+            "Arora Pink",
+            "Banana Cream/White",
+            "Paradise Teal/Aqua Splash",
+            "Royal Purplr/Parsley Purple"
+        ],
+        "images": [
+            "public/images/product/KIDS/86/product.png",
+            "public/images/product/KIDS/86/colors.png",
+            "public/images/product/KIDS/86/size.png"
+        ]
+    },
+    {
+        "_id": "AG17",
+        "name": "AG17 T-SHIRT",
+        "brand": "Jockey",
+        "category": 128,
+        "price": 0,
+        "description": "\u00ab Authentic Jockey Branding",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Paisley Purple",
+            "Banana Cream",
+            "Coral Reef",
+            "Ruby"
+        ],
+        "images": [
+            "public/images/product/KIDS/87/product.png",
+            "public/images/product/KIDS/87/colors.png",
+            "public/images/product/KIDS/87/size.png"
+        ]
+    },
+    {
+        "_id": "AG19",
+        "name": "AG19 ",
+        "brand": "Jockey",
+        "category": 128,
+        "price": 0,
+        "description": "",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Pink Lady",
+            "White",
+            "Dubarry",
+            "Imperial Blue"
+        ],
+        "images": [
+            "public/images/product/KIDS/88/product.png",
+            "public/images/product/KIDS/88/colors.png",
+            "public/images/product/KIDS/88/size.png"
+        ]
+    },
+    {
+        "_id": "AG13",
+        "name": "AG13 SWEATSHIRT",
+        "brand": "Jockey",
+        "category": 129,
+        "price": 0,
+        "description": "",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Ruby",
+            "Poseidon",
+            "Dubarry",
+            "Paradise Teal"
+        ],
+        "images": [
+            "public/images/product/KIDS/89/product.png",
+            "public/images/product/KIDS/89/colors.png",
+            "public/images/product/KIDS/89/size.png"
+        ]
+    },
+    {
+        "_id": "AG20",
+        "name": "AG20 JACKET",
+        "brand": "Jockey",
+        "category": 130,
+        "price": 0,
+        "description": "Super Combed Cottotn Elastane Stretch Fabric",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Ruby Snow Mel",
+            "Black Snow Mel",
+            "Imperial Blue",
+            "Paradise Teal"
+        ],
+        "images": [
+            "public/images/product/KIDS/90/product.png",
+            "public/images/product/KIDS/90/colors.png",
+            "public/images/product/KIDS/90/size.png"
+        ]
+    },
+    {
+        "_id": "AG04",
+        "name": "AG04 SHORTS",
+        "brand": "Jockey",
+        "category": 131,
+        "price": 0,
+        "description": "* Convenient front pockets",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Ruby Snow Mel",
+            "Blue Snow Mel",
+            "Black Snow Mel.",
+            "LT. Grey Snow Mel."
+        ],
+        "images": [
+            "public/images/product/KIDS/91/product.png",
+            "public/images/product/KIDS/91/colors.png",
+            "public/images/product/KIDS/91/size.png"
+        ]
+    },
+    {
+        "_id": "AG07",
+        "name": "AG07 SHORTS",
+        "brand": "Jockey",
+        "category": 131,
+        "price": 0,
+        "description": "* Convenient side pocket",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Pink Carnation",
+            "Dubarry",
+            "Blue",
+            "Black"
+        ],
+        "images": [
+            "public/images/product/KIDS/92/product.png",
+            "public/images/product/KIDS/92/colors.png",
+            "public/images/product/KIDS/92/size.png"
+        ]
+    },
+    {
+        "_id": "AG32",
+        "name": "AG32 SHORTS",
+        "brand": "Jockey",
+        "category": 131,
+        "price": 0,
+        "description": "",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Sky Dive/Cosmic Sapphire",
+            "Rio Red/Cosmic Sapphire",
+            "Cosmic Sapphire/Rio Red",
+            "Black/White"
+        ],
+        "images": [
+            "public/images/product/KIDS/93/product.png",
+            "public/images/product/KIDS/93/colors.png",
+            "public/images/product/KIDS/93/size.png"
+        ]
+    },
+    {
+        "_id": "AG15",
+        "name": "AG15 ",
+        "brand": "Jockey",
+        "category": 132,
+        "price": 0,
+        "description": "",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Ruby/Poseidon",
+            "Poseidon/Ruby",
+            "Dubarry/Poseidon",
+            "Paradise Teal/Poseidon"
+        ],
+        "images": [
+            "public/images/product/KIDS/94/product.png",
+            "public/images/product/KIDS/94/colors.png",
+            "public/images/product/KIDS/94/size.png"
+        ]
+    },
+    {
+        "_id": "AG05",
+        "name": "AG05 JEGGINGS",
+        "brand": "Jockey",
+        "category": 133,
+        "price": 0,
+        "description": "* Trendy fit for all-day comfort",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Cherry",
+            "Denim Blue",
+            "Black"
+        ],
+        "images": [
+            "public/images/product/KIDS/95/product.png",
+            "public/images/product/KIDS/95/colors.png",
+            "public/images/product/KIDS/95/size.png"
+        ]
+    },
+    {
+        "_id": "AG34",
+        "name": "AG34 LEGGINGS",
+        "brand": "Jockey",
+        "category": 133,
+        "price": 0,
+        "description": "",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Sky Dive/Cosmic Sapphire",
+            "Cosmic Sapphire/Rio Red",
+            "Black/White"
+        ],
+        "images": [
+            "public/images/product/KIDS/96/product.png",
+            "public/images/product/KIDS/96/colors.png",
+            "public/images/product/KIDS/96/size.png"
+        ]
+    },
+    {
+        "_id": "AG18",
+        "name": "AG18 CAPRI",
+        "brand": "Jockey",
+        "category": 134,
+        "price": 0,
+        "description": "\u00ab Authentic Jockey branding",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Pink Carnation",
+            "Black",
+            "Pink Carnation",
+            "Coral Reef"
+        ],
+        "images": [
+            "public/images/product/KIDS/97/product.png",
+            "public/images/product/KIDS/97/colors.png",
+            "public/images/product/KIDS/97/size.png"
+        ]
+    },
+    {
+        "_id": "UG06",
+        "name": "UG06 TANK TOP",
+        "brand": "Jockey",
+        "category": 128,
+        "price": 0,
+        "description": "\u00a2 Label free for all day comfort.",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Hibiscus",
+            "Sky Blue Mel.",
+            "Maxi Blue",
+            "Indigo Crush",
+            "Cream Mel.",
+            "Wood Violet"
+        ],
+        "images": [
+            "public/images/product/KIDS/99/product.png",
+            "public/images/product/KIDS/99/colors.png",
+            "public/images/product/KIDS/99/size.png"
+        ]
+    },
+    {
+        "_id": "UG10",
+        "name": "UG10 POLO SLEEVELESS TEE",
+        "brand": "Jockey",
+        "category": 128,
+        "price": 0,
+        "description": "\u00a2 Ribbed round neck prevent sagging",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Hibiscus",
+            "Wood Violet",
+            "Maxi Blue",
+            "Indigo Crush"
+        ],
+        "images": [
+            "public/images/product/KIDS/100/product.png",
+            "public/images/product/KIDS/100/colors.png",
+            "public/images/product/KIDS/100/size.png"
+        ]
+    },
+    {
+        "_id": "UGO1",
+        "name": "UGO1 T-SHIRT",
+        "brand": "Jockey",
+        "category": 128,
+        "price": 0,
+        "description": "\u00a2 Ribbed round neck prevents sagging.",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Passion Red Mel.",
+            "Hibiscus",
+            "Sky Blue Mel.",
+            "Indigo Crush",
+            "Cream Mel."
+        ],
+        "images": [
+            "public/images/product/KIDS/101/product.png",
+            "public/images/product/KIDS/101/colors.png",
+            "public/images/product/KIDS/101/size.png"
+        ]
+    },
+    {
+        "_id": "UG11",
+        "name": "UG11 T-SHIRT",
+        "brand": "Jockey",
+        "category": 128,
+        "price": 0,
+        "description": "\u00a2 Ribbed round neck prevents sagging.",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Pink Carnation",
+            "Hibiscus",
+            "Indigo Crush",
+            "Black",
+            "Ballet Pink"
+        ],
+        "images": [
+            "public/images/product/KIDS/102/product.png",
+            "public/images/product/KIDS/102/colors.png",
+            "public/images/product/KIDS/102/size.png"
+        ]
+    },
+    {
+        "_id": "UG05",
+        "name": "UG05 JACKET",
+        "brand": "Jockey",
+        "category": 130,
+        "price": 0,
+        "description": "* Trendy fit for all-day comfort",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Passion Red/Shell",
+            "Blue Mel.",
+            "Cream Mel.",
+            "Black Mel./Hibiscus",
+            "LT. Grey Mel./Hibiscus"
+        ],
+        "images": [
+            "public/images/product/KIDS/103/product.png",
+            "public/images/product/KIDS/103/colors.png",
+            "public/images/product/KIDS/103/size.png"
+        ]
+    },
+    {
+        "_id": "UG04",
+        "name": "UG04 TRACK PANTS",
+        "brand": "Jockey",
+        "category": 132,
+        "price": 0,
+        "description": "* Trendy fit for all-day comfort",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Passion Red Mel.",
+            "Blue Mel.",
+            "Cream Mel.",
+            "Black Mel./Hibiscus",
+            "LT. Grey Mel./Hibiscus"
+        ],
+        "images": [
+            "public/images/product/KIDS/104/product.png",
+            "public/images/product/KIDS/104/colors.png",
+            "public/images/product/KIDS/104/size.png"
+        ]
+    },
+    {
+        "_id": "UG08",
+        "name": "UG08 LEGGINGS",
+        "brand": "Jockey",
+        "category": 133,
+        "price": 0,
+        "description": "* Soft elasticized waistband",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Hibiscus",
+            "Black Mel.",
+            "Denim Blue",
+            "Passion Red Mel.",
+            "Cream Mel."
+        ],
+        "images": [
+            "public/images/product/KIDS/105/product.png",
+            "public/images/product/KIDS/105/colors.png",
+            "public/images/product/KIDS/105/size.png"
+        ]
+    },
+    {
+        "_id": "UGO8P",
+        "name": "UGO8P LEGGINGS",
+        "brand": "Jockey",
+        "category": 133,
+        "price": 0,
+        "description": "* Soft elasticized waistband",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Passion Red Mel.",
+            "Denim Blue",
+            "Cream Mel.",
+            "Black"
+        ],
+        "images": [
+            "public/images/product/KIDS/106/product.png",
+            "public/images/product/KIDS/106/colors.png",
+            "public/images/product/KIDS/106/size.png"
+        ]
+    },
+    {
+        "_id": "UG07",
+        "name": "UG07 CAPRI",
+        "brand": "Jockey",
+        "category": 134,
+        "price": 0,
+        "description": "",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Hibiscus",
+            "Black",
+            "Denim Blue"
+        ],
+        "images": [
+            "public/images/product/KIDS/107/product.png",
+            "public/images/product/KIDS/107/colors.png",
+            "public/images/product/KIDS/107/size.png"
+        ]
+    },
+    {
+        "_id": "RGO1",
+        "name": "RGO1 T-SHIRT",
+        "brand": "Jockey",
+        "category": 128,
+        "price": 0,
+        "description": "* Relaxed fit",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Pale Banana",
+            "Coral Reef",
+            "Lavender",
+            "Wild Orchid"
+        ],
+        "images": [
+            "public/images/product/KIDS/109/product.png",
+            "public/images/product/KIDS/109/colors.png",
+            "public/images/product/KIDS/109/size.png"
+        ]
+    },
+    {
+        "_id": "RG03",
+        "name": "RG03 SHORTS",
+        "brand": "Jockey",
+        "category": 131,
+        "price": 0,
+        "description": "* Relaxed fit",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Wild Orchid",
+            "Lavender",
+            "Coral Reef",
+            "Pale Banana"
+        ],
+        "images": [
+            "public/images/product/KIDS/110/product.png",
+            "public/images/product/KIDS/110/colors.png",
+            "public/images/product/KIDS/110/size.png"
+        ]
+    },
+    {
+        "_id": "RGO5",
+        "name": "RGO5 SHORTS",
+        "brand": "Jockey",
+        "category": 131,
+        "price": 0,
+        "description": "* Soft elasticated waistband",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Poseidon",
+            "Cherry Jubliee",
+            "Coral Reef"
+        ],
+        "images": [
+            "public/images/product/KIDS/111/product.png",
+            "public/images/product/KIDS/111/colors.png",
+            "public/images/product/KIDS/111/size.png"
+        ]
+    },
+    {
+        "_id": "RG04",
+        "name": "RG04 Pyjama",
+        "brand": "Jockey",
+        "category": 132,
+        "price": 0,
+        "description": "* 100% Super Combed Cotton soft absorbent fabric\n* Relaxed Fit",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Wild Orchid",
+            "Lavender",
+            "Coral Reef",
+            "Pale Banana"
+        ],
+        "images": [
+            "public/images/product/KIDS/112/product.png",
+            "public/images/product/KIDS/112/colors.png",
+            "public/images/product/KIDS/112/size.png"
+        ]
+    },
+    {
+        "_id": "RG09",
+        "name": "RG09 SLEEP DRESS",
+        "brand": "Jockey",
+        "category": 128,
+        "price": 0,
+        "description": "* Relaxed fit",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+            "Wild Orchid",
+            "Cockatoo",
+            "Marina"
+        ],
+        "images": [
+            "public/images/product/KIDS/113/product.png",
+            "public/images/product/KIDS/113/colors.png",
+            "public/images/product/KIDS/113/size.png"
+        ]
+    },
+    {
+        "_id": "CG06",
+        "name": "CG06 T-SHIRT",
+        "brand": "Jockey",
+        "category": 128,
+        "price": 0,
+        "description": "",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12",
+            "XXL"
+        ],
+        "colors": [
+        ],
+        "images": [
+            "public/images/product/KIDS/115/product.png",
+            "public/images/product/KIDS/115/colors.png",
+            "public/images/product/KIDS/115/size.png"
+        ]
+    },
+    {
+        "_id": "CG02",
+        "name": "CG02 SHORTS",
+        "brand": "Jockey",
+        "category": 131,
+        "price": 0,
+        "description": "\u00ab Authentic Jockey Branding",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Black",
+            "Navy",
+            "Excallibur Grey",
+            "Birds Egg Green",
+            "Strawberry"
+        ],
+        "images": [
+            "public/images/product/KIDS/116/product.png",
+            "public/images/product/KIDS/116/colors.png",
+            "public/images/product/KIDS/116/size.png"
+        ]
+    },
+    {
+        "_id": "CG08",
+        "name": "CG08 TRACK PANTS",
+        "brand": "Jockey",
+        "category": 132,
+        "price": 0,
+        "description": "",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Mid Grey Mel",
+            "Beetle",
+            "Black Iris"
+        ],
+        "images": [
+            "public/images/product/KIDS/117/product.png",
+            "public/images/product/KIDS/117/colors.png",
+            "public/images/product/KIDS/117/size.png"
+        ]
+    },
+    {
+        "_id": "CG07",
+        "name": "CG07 LEGGINGS",
+        "brand": "Jockey",
+        "category": 133,
+        "price": 0,
+        "description": "",
+        "size": [
+            "5-6",
+            "7-8",
+            "9-10",
+            "11-12"
+        ],
+        "colors": [
+            "Mid Grey Mel",
+            "Beetle",
+            "Camellia Rose"
+        ],
+        "images": [
+            "public/images/product/KIDS/118/product.png",
+            "public/images/product/KIDS/118/colors.png",
+            "public/images/product/KIDS/118/size.png"
+        ]
+    },
+    {
+        "_id": "KTO1",
+        "name": "KTO1 LONG JOHN",
+        "brand": "Jockey",
+        "category": 135,
+        "price": 0,
+        "description": "\u00a2 Durable and soft, concealed waistband\n\u00a2 Label free for all day comfort",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "OFF WHITE",
+            "CHARCOAL MEL."
+        ],
+        "images": [
+            "public/images/product/KIDS/120/product.png",
+            "public/images/product/KIDS/120/colors.png"
+        ]
+    },
+    {
+        "_id": "KT02",
+        "name": "KT02 LONG SLEEVE",
+        "brand": "Jockey",
+        "category": 135,
+        "price": 0,
+        "description": "\u00a2 Durable and soft, concealed waistband\n\u00a2 Label free for all day comfort",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "OFF WHITE",
+            "CHARCOAL MEL."
+        ],
+        "images": [
+            "public/images/product/KIDS/121/product.png",
+            "public/images/product/KIDS/121/colors.png",
+            "public/images/product/KIDS/121/size.png"
+        ]
+    },
+    {
+        "_id": "KT03",
+        "name": "KT03 SHORT",
+        "brand": "Jockey",
+        "category": 135,
+        "price": 0,
+        "description": "\u00a2 Durable and soft, concealed waistband\n\u00a2 Label free for all day comfort",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "OFF WHITE",
+            "CHARCOAL MEL."
+        ],
+        "images": [
+            "public/images/product/KIDS/122/product.png",
+            "public/images/product/KIDS/122/colors.png",
+            "public/images/product/KIDS/122/size.png"
+        ]
+    }
+]

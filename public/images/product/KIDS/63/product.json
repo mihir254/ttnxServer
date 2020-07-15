@@ -1,0 +1,26 @@
+{
+    "_id": "CB03",
+    "name": "CB03 SHORTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich soft fabric\n\u00a2 Fun and quirky all over prints",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Black",
+        "Navy",
+        "Palace",
+        "Blue"
+    ],
+    "images": [
+        "public/images/product/KIDS/63/product.png",
+        "public/images/product/KIDS/63/colors.png",
+        "public/images/product/KIDS/63/size.png"
+    ]
+}

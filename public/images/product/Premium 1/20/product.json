@@ -1,0 +1,49 @@
+{
+    "_id": "FP24",
+    "name": "FP24 BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "* Super Combed Cotton Elastane Stretch fabric\n* Unique & youthful combo of Yarn Dyed stripes\n* Low rise fit\n* Double layered contoured pouch\n* Durable and soft waistband\n* Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "NAVY/",
+        "NAVY/",
+        "NAVY/",
+        "BILLIARD",
+        "GREEN",
+        "AUTUMN",
+        "GLORY",
+        "EMPIRE",
+        "YELLOW",
+        "\u00b0",
+        "BLACK/",
+        "BLACK/",
+        "SKY",
+        "DRIVER",
+        "WORLDLY",
+        "RED",
+        "This",
+        "product",
+        "is",
+        "sold",
+        "as",
+        "assorted",
+        "and",
+        "the",
+        "prints",
+        "rotate",
+        "every",
+        "season"
+    ],
+    "images": [
+        "public/images/product/Premium 1/20/product.png",
+        "public/images/product/Premium 1/20/colors.png",
+        "public/images/product/Premium 1/20/size.png"
+    ]
+}

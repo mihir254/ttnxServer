@@ -1,0 +1,36 @@
+{
+    "_id": "SP27",
+    "name": "SP 27 TRACK PANT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Cotton Plated Performance Fabric\n+ Moisture Control\n\u00a2 Stay Dry Technology\n\u00ab Stay Fresh Technology\n* Cross Pocket / back Pocket with Flap Closure\n\u00a2 Broad Waistband with Drawstring\n\u00ab Authentic Jockey\u00ae Branding With Reflective Sport Print",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "GRAPHITE",
+        "PERFORMANCE",
+        "NAVY",
+        "BLACK",
+        "GREY",
+        "NAVY",
+        "SNOW",
+        "FOREST",
+        "DARK",
+        "COOL",
+        "GREY",
+        "MEL.",
+        "GREY",
+        "MEL.",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/71/product.png",
+        "public/images/product/MEN_OUTER/71/colors.png",
+        "public/images/product/MEN_OUTER/71/size.png"
+    ]
+}

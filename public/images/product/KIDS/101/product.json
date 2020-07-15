@@ -1,0 +1,39 @@
+{
+    "_id": "UGO1",
+    "name": "UGO1 T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 Ribbed round neck prevents sagging.",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Passion",
+        "Hibiscus",
+        "Red",
+        "Mel.",
+        "Sky",
+        "Blue",
+        "Mel.",
+        "Indigo",
+        "Crush",
+        "Cream",
+        "Mel.",
+        "*",
+        "100%",
+        "Super",
+        "Combed",
+        "Cotton",
+        "fabric."
+    ],
+    "images": [
+        "public/images/product/KIDS/101/product.png",
+        "public/images/product/KIDS/101/colors.png",
+        "public/images/product/KIDS/101/size.png"
+    ]
+}

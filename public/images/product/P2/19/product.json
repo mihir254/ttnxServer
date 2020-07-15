@@ -1,0 +1,32 @@
+{
+    "_id": "US51",
+    "name": "US51 TRUNK",
+    "brand": "Jockey",
+    "category": 20,
+    "price": 0,
+    "description": "\u00a2 100% Super Combed Cotton Rib fabric\n\u00a2 Durable and Ultra Soft waistband\n* Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "RED",
+        "MEL.",
+        "GREY",
+        "MEL.",
+        "INK",
+        "BLUE",
+        "MEL.",
+        "LIGHT",
+        "DENIM",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/P2/19/product.png",
+        "public/images/product/P2/19/colors.png",
+        "public/images/product/P2/19/size.png"
+    ]
+}

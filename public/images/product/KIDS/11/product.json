@@ -1,0 +1,21 @@
+{
+    "_id": "UB12",
+    "name": "UB12 BRIEF",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton fabric\n\u00ab Authentic Jockey\u00ae USA Originals printed design\n* Double layered crotch panel\n* Durable and soft waist band",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [],
+    "images": [
+        "public/images/product/KIDS/11/product.png",
+        "public/images/product/KIDS/11/colors.png",
+        "public/images/product/KIDS/11/size.png"
+    ]
+}

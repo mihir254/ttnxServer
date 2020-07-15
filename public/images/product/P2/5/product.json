@@ -1,0 +1,35 @@
+{
+    "_id": "1010",
+    "name": "1010 BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "\u00a2 100% Super Combed Cotton fabric\n\u00a2 Durable and ultra soft waistband\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "'\u2014~0YV",
+        "White",
+        "Black",
+        "Grey",
+        "Mel.",
+        "Estate",
+        "Blue",
+        "Black",
+        "Mel.",
+        "1's",
+        "&",
+        "2's",
+        "pack",
+        "available."
+    ],
+    "images": [
+        "public/images/product/P2/5/product.png",
+        "public/images/product/P2/5/colors.png",
+        "public/images/product/P2/5/size.png"
+    ]
+}

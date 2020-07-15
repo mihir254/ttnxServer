@@ -1,0 +1,21 @@
+{
+    "_id": "7393",
+    "name": "7393   ",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "Ultra soft Modal\u00ae\n\u00a2 StayFresh technology",
+    "size": [
+        "ONE SIZE"
+    ],
+    "colors": [
+        "eas",
+        "re",
+        "Gun",
+        "Metal"
+    ],
+    "images": [
+        "public/images/product/Socks/4/product.png",
+        "public/images/product/Socks/4/colors.png"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "_id": "9510",
+    "name": "9510 TRACK PANT  ATHLEISURE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich Fabric\n* Slim Fit\n* Side Panel With Jockey\u00ae Sport Print\n\u00a2 Side Pocket With Zip\n* Contrast Waistband with Drawstring",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "NAVY",
+        "CHARCOAL",
+        "MEL.",
+        "GREY",
+        "MEL.",
+        "BLACK."
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/38/product.png",
+        "public/images/product/MEN_OUTER/38/colors.png",
+        "public/images/product/MEN_OUTER/38/size.png"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "_id": "MV12",
+    "name": "MV 12 JOGGER",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Slim Fit Jogger\n* Side Pockets with Zipper\n* Back Yoke styling\n* Elasticized waist band with external reflective draw cord\n\u00a2 Polyester Elastane Blended Fabric",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "NAVY",
+        "BLACK",
+        "GRINDLE"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/80/product.png",
+        "public/images/product/MEN_OUTER/80/colors.png",
+        "public/images/product/MEN_OUTER/80/size.png"
+    ]
+}

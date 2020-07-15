@@ -1,0 +1,30 @@
+{
+    "_id": "UB56",
+    "name": "UB56 T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton fabric\n\u00ab Americana Inspired print",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Black",
+        "Team",
+        "Red",
+        "Blue",
+        "Coral",
+        "Corn",
+        "Silk",
+        "White"
+    ],
+    "images": [
+        "public/images/product/KIDS/51/product.png",
+        "public/images/product/KIDS/51/colors.png",
+        "public/images/product/KIDS/51/size.png"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "_id": "MV02",
+    "name": "MV 02 T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Straight Fit Raglan Sleeve\n\u00a2 Graphic Print\n* Back Yoke Styling with Reflective Tape at centre back\n* Polyester Cotton Blend",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "GREEN",
+        "GLOW",
+        "WHITE",
+        "TEAM",
+        "RED",
+        "NAVY",
+        "BLACK"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/74/product.png",
+        "public/images/product/MEN_OUTER/74/colors.png",
+        "public/images/product/MEN_OUTER/74/size.png"
+    ]
+}

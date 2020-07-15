@@ -1,0 +1,28 @@
+{
+    "_id": "9928N",
+    "name": "9928 N TANK TOP  ATHLEISURE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich fabric\n* Deep neck line and armhole for extra comfort\n\u00a2 Sporty placement print\n\u00ab Authentic Jockey\u201d logo label detailling",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "NAVY",
+        "WHITE",
+        "ORANGE",
+        "RUST",
+        "GRAPHITE",
+        "PERFORMANCE",
+        "GREY"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/11/product.png",
+        "public/images/product/MEN_OUTER/11/colors.png",
+        "public/images/product/MEN_OUTER/11/size.png"
+    ]
+}

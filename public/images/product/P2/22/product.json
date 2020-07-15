@@ -1,0 +1,33 @@
+{
+    "_id": "US68",
+    "name": "US68 STRIPE TRUNK",
+    "brand": "Jockey",
+    "category": 20,
+    "price": 0,
+    "description": "\u00a2 Super Combed Cotton Elastane Stretch fabric\n* Durable and Ultra Soft waistband\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "This",
+        "product",
+        "is",
+        "sold",
+        "as",
+        "assorted",
+        "and",
+        "the",
+        "stripe",
+        "rotate",
+        "every",
+        "season"
+    ],
+    "images": [
+        "public/images/product/P2/22/product.png",
+        "public/images/product/P2/22/colors.png",
+        "public/images/product/P2/22/size.png"
+    ]
+}

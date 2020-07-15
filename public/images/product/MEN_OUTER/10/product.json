@@ -1,0 +1,30 @@
+{
+    "_id": "9928",
+    "name": "9928 TANK TOP  EISURE         ATH",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich Fabric\n\u00a2 Graphic Print\n\u00ab Authentic Jockey\u00ae Logo Label Detailling",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "NAVY",
+        "TEAM",
+        "RED",
+        "WHITE",
+        "BLACK.",
+        "NEON",
+        "BLUE",
+        "PACIFIC",
+        "GREEN"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/10/product.png",
+        "public/images/product/MEN_OUTER/10/colors.png",
+        "public/images/product/MEN_OUTER/10/size.png"
+    ]
+}

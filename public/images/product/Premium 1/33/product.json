@@ -1,0 +1,26 @@
+{
+    "_id": "SP55",
+    "name": "SP55 BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "* Micro Touch Nylon fabric\n* StayDRY Technology\n* StayFRESH Technology\n* Mesh inserts for increased moisture management\n* Durable and Ultra Soft waistband",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "PLATINUM",
+        "GREY",
+        "TRUE",
+        "NAVY"
+    ],
+    "images": [
+        "public/images/product/Premium 1/33/product.png",
+        "public/images/product/Premium 1/33/colors.png",
+        "public/images/product/Premium 1/33/size.png"
+    ]
+}

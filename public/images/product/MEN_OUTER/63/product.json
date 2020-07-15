@@ -1,0 +1,28 @@
+{
+    "_id": "IM04",
+    "name": "IM 04 LONG SLEEVE T-SHIRT  INTERNATIONAL COLLECTION",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Supima Cotton fabric\n* Straight Fit\n* Ribbed V-neck prevents sagging\n\u00a2 Authentic Jockey branding",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "GUNMETAL",
+        "TRUE",
+        "NAVY",
+        "BLUE",
+        "CORAL",
+        "WINETASTING"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/63/product.png",
+        "public/images/product/MEN_OUTER/63/colors.png",
+        "public/images/product/MEN_OUTER/63/size.png"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "_id": "US81",
+    "name": "US 81 CREW-NECK GRAPHIC TEE      \u2018>            a oe i= 7 ( . USA ORIGINALS <  USA ORIGINALS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich Fabric\n\u00a2 USA Originals Inspired Graphic Print\n\u00a2\u00ab USA Originals Signature Label on Sleeve Hem",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "MID",
+        "GREY",
+        "MEL.",
+        "F",
+        "CORNSILK",
+        "BLACK",
+        "\u00abee",
+        "ode",
+        "ECRU",
+        "CINNABAR",
+        "STELLAR",
+        "GREEN",
+        "SPRUCE"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/46/product.png",
+        "public/images/product/MEN_OUTER/46/colors.png",
+        "public/images/product/MEN_OUTER/46/size.png"
+    ]
+}

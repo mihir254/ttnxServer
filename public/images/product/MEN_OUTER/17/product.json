@@ -1,0 +1,49 @@
+{
+    "_id": "AM51",
+    "name": "AM 51 STRIPED V-NECK T-SHIRT  ATHLEISURE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "*\u00ab Premium Super Combed Cotton Rich single jersey fabric\n\u00a2 Regular fit\n* Ribbed V-neck to prevent sagging\n\u00ab Authentic Jockey\u00ae branding\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "GRAPHITE",
+        "/",
+        "DEEP",
+        "TANGO/",
+        "NAVY",
+        "/",
+        "BURNT",
+        "GOLD",
+        "/",
+        "MID",
+        "GREY",
+        "MEL.",
+        "/",
+        "BLACK",
+        "CHARCOAL",
+        "SHANGHAI",
+        "RED",
+        "MID",
+        "GREY",
+        "MEL.",
+        "NAVY",
+        "CEDAR",
+        "GREEN/",
+        "INSIGNIA",
+        "BLUE/",
+        "NAVY",
+        "BURNT",
+        "GOLD"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/17/product.png",
+        "public/images/product/MEN_OUTER/17/colors.png",
+        "public/images/product/MEN_OUTER/17/size.png"
+    ]
+}

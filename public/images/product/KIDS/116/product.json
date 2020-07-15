@@ -1,0 +1,37 @@
+{
+    "_id": "CG02",
+    "name": "CG02 SHORTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00ab Authentic Jockey Branding",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Pe",
+        "ee",
+        "Navy",
+        "Excalibur",
+        "Grey",
+        "Birds",
+        "Egg",
+        "Green",
+        "Strawberry",
+        "*",
+        "100%",
+        "Super",
+        "Combed",
+        "Cotton",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/116/product.png",
+        "public/images/product/KIDS/116/colors.png",
+        "public/images/product/KIDS/116/size.png"
+    ]
+}

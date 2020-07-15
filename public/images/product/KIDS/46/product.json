@@ -1,0 +1,31 @@
+{
+    "_id": "AB06",
+    "name": "AB06 JOGGER",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "*\u00ab Super Combed Cotton Rich fabric\n\u00ab Athletic inspired sporty print",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Grey",
+        "Snow",
+        "Blue",
+        "Snow",
+        "Mel.",
+        "Black",
+        "Snow",
+        "Mel.",
+        "Mel"
+    ],
+    "images": [
+        "public/images/product/KIDS/46/product.png",
+        "public/images/product/KIDS/46/colors.png",
+        "public/images/product/KIDS/46/size.png"
+    ]
+}

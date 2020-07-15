@@ -1,0 +1,38 @@
+{
+    "_id": "SPO2",
+    "name": "SPO2 BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "* Super Combed Cotton Stretch fabric\n* StayDRY Technology\n* StayFRESH Technology\n* Mesh inserts for increased moisture management\n* Durable and Ultra Soft waistband",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "PERFORMANCE",
+        "NAVY",
+        "COBALT",
+        "BLUE",
+        "CHARCOAL",
+        "MEL.",
+        "WHITE/",
+        "BLACK/",
+        "PERFORMANCE",
+        "PERFORMANCE",
+        "PERFORMANCE",
+        "NAVY/",
+        "GREEN",
+        "GREEN",
+        "PERFORMANCE",
+        "GREEN"
+    ],
+    "images": [
+        "public/images/product/Premium 1/31/product.png",
+        "public/images/product/Premium 1/31/colors.png",
+        "public/images/product/Premium 1/31/size.png"
+    ]
+}

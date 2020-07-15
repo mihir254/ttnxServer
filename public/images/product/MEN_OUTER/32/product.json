@@ -1,0 +1,27 @@
+{
+    "_id": "AM73",
+    "name": "AM 73 SHORTS  EISURE         ATH",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rib Fabric\n\u00a2 Durable broad waistband with flat drawstring\n\u00a2 Side pockets for added functionality",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "TRUE",
+        "BLACK",
+        "INSIGNIA",
+        "BLUE",
+        "MEL.",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/32/product.png",
+        "public/images/product/MEN_OUTER/32/colors.png",
+        "public/images/product/MEN_OUTER/32/size.png"
+    ]
+}

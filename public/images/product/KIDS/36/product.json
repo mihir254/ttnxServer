@@ -1,0 +1,27 @@
+{
+    "_id": "AB15",
+    "name": "AB15 SHORTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton fabric\n\u00ab Athletic inspired design",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Black",
+        "Deep",
+        "Grey",
+        "Navy",
+        "Slub"
+    ],
+    "images": [
+        "public/images/product/KIDS/36/product.png",
+        "public/images/product/KIDS/36/colors.png",
+        "public/images/product/KIDS/36/size.png"
+    ]
+}

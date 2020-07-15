@@ -1,0 +1,28 @@
+{
+    "_id": "SP56",
+    "name": "SP56 TRUNK",
+    "brand": "Jockey",
+    "category": 20,
+    "price": 0,
+    "description": "* Micro Touch Nylon fabric\n* StayDRY Technology\n* StayFRESH Technology\n* Mesh inserts for increased moisture management\n* Durable and Ultra Soft waistband",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "als",
+        "Wc",
+        "BLACK",
+        "PLATINUM",
+        "GREY",
+        "TRUE",
+        "NAVY"
+    ],
+    "images": [
+        "public/images/product/Premium 1/35/product.png",
+        "public/images/product/Premium 1/35/colors.png",
+        "public/images/product/Premium 1/35/size.png"
+    ]
+}

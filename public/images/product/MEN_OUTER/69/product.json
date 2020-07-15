@@ -1,0 +1,26 @@
+{
+    "_id": "SP26",
+    "name": "SP 26 SHORTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Cotton Plated Performance Fabric\n+ Moisture Control\n\u00a2 Stay Dry Technology\n\u00ab Stay Fresh Technology\n* Cross Pocket / back Pocket with Flap Closure\n\u00a2 Broad Waistband with Drawstring\n\u00ab Authentic Jockey\u00ae Branding with Reflective Sport Print",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "GRAPHITE",
+        "PERFORMANCE",
+        "NAVY",
+        "BLACK",
+        "GREY"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/69/product.png",
+        "public/images/product/MEN_OUTER/69/colors.png",
+        "public/images/product/MEN_OUTER/69/size.png"
+    ]
+}

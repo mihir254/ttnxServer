@@ -1,0 +1,25 @@
+{
+    "_id": "CB05",
+    "name": "CB05 TRACK PANT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "*\u00ab Super Combed Cotton Rich fabric\n* Cool oversized placement text",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Black",
+        "Cinnabar",
+        "Navy"
+    ],
+    "images": [
+        "public/images/product/KIDS/64/product.png",
+        "public/images/product/KIDS/64/colors.png",
+        "public/images/product/KIDS/64/size.png"
+    ]
+}

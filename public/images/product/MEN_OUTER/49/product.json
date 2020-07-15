@@ -1,0 +1,42 @@
+{
+    "_id": "",
+    "name": "",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton fabric\n\u00a2 USA originals signature embroidery on chest.",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "[",
+        "ee",
+        "NAVY",
+        "/",
+        "NAVY",
+        "/",
+        "WORDLY",
+        "RED",
+        "/",
+        "NAVY",
+        "/GREY",
+        "DEEP",
+        "RED",
+        "/",
+        "DEEP",
+        "RED",
+        "WHITE",
+        "WHITE",
+        "MEL.",
+        "GREY",
+        "MEL"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/49/product.png",
+        "public/images/product/MEN_OUTER/49/colors.png",
+        "public/images/product/MEN_OUTER/49/size.png"
+    ]
+}

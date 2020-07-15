@@ -1,0 +1,21 @@
+{
+    "_id": "MBO1",
+    "name": "MBO1 BRIEF",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton soft absorbent fabric\n* Double layer contoured pouch design\n\u00a2 Stylish and comfortable covered waistband",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [],
+    "images": [
+        "public/images/product/KIDS/5/product.png",
+        "public/images/product/KIDS/5/colors.png",
+        "public/images/product/KIDS/5/size.png"
+    ]
+}

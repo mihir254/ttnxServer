@@ -1,0 +1,30 @@
+{
+    "_id": "IC31",
+    "name": "IC31 BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "\u00a2 Pima Cotton Elastane fabric\n\u00a2 Durable and Ultra Soft waistband\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "WHITE",
+        "BLACK",
+        "TRUE",
+        "NAVY",
+        "GUNMETAL",
+        "POTENT",
+        "PURPLE",
+        "OCEAN",
+        "DEPTH"
+    ],
+    "images": [
+        "public/images/product/P2/32/product.png",
+        "public/images/product/P2/32/colors.png",
+        "public/images/product/P2/32/size.png"
+    ]
+}

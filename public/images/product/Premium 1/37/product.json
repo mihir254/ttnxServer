@@ -1,0 +1,20 @@
+{
+    "_id": "SP57",
+    "name": "SP57 BOXER BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "* Micro Touch Nylon fabric\n* StayDRY Technology\n* StayFRESH Technology\n* Mesh inserts for increased moisture management\n* Durable and Ultra Soft waistband",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [],
+    "images": [
+        "public/images/product/Premium 1/37/product.png",
+        "public/images/product/Premium 1/37/colors.png",
+        "public/images/product/Premium 1/37/size.png"
+    ]
+}

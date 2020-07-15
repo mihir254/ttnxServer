@@ -1,0 +1,33 @@
+{
+    "_id": "FP22",
+    "name": "FP22 BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "* Super Combed Cotton Elastane Stretch fabric\n* Durable and Ultra Soft neon waistband\n* Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "This",
+        "product",
+        "is",
+        "sold",
+        "as",
+        "assorted",
+        "and",
+        "the",
+        "prints",
+        "rotate",
+        "every",
+        "season"
+    ],
+    "images": [
+        "public/images/product/Premium 1/19/product.png",
+        "public/images/product/Premium 1/19/colors.png",
+        "public/images/product/Premium 1/19/size.png"
+    ]
+}

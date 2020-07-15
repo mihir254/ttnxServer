@@ -1,0 +1,52 @@
+{
+    "_id": "7001",
+    "name": "7001 FAT vier)",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Elastane body\n\u00ae StayFresh technology",
+    "size": [
+        "ONE SIZE"
+    ],
+    "colors": [
+        "Available",
+        "in",
+        "Assorted",
+        "Colours",
+        "Worldly",
+        "Red",
+        "/",
+        "El",
+        "hay",
+        "Zar,",
+        "Mid",
+        "Grey",
+        "Mel",
+        "Stripes",
+        "Navy",
+        "Heel",
+        "&",
+        "Tos",
+        "White",
+        "Bago",
+        "Navy",
+        "Mid",
+        "Grey",
+        "Mel.",
+        "/",
+        "Navy",
+        "Stipes:",
+        "Tos",
+        "&",
+        "Heel",
+        "Worldly",
+        "Red",
+        "Toe",
+        "&",
+        "Heel"
+    ],
+    "images": [
+        "public/images/product/Socks/22/product.png",
+        "public/images/product/Socks/22/colors.png"
+    ]
+}

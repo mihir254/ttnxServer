@@ -1,0 +1,27 @@
+{
+    "_id": "8823",
+    "name": "8823 MODERN UNDERSHIRT",
+    "brand": "Jockey",
+    "category": 30,
+    "price": 0,
+    "description": "\u00a2 100% Super Combed Cotton Rib fabric\n* Double reinforced shoulder strap seams\n\u00a2 Extended length to ease \u2018tucking in\u2019\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "White",
+        "1's",
+        "&",
+        "2's",
+        "pack",
+        "available"
+    ],
+    "images": [
+        "public/images/product/P2/1/product.png",
+        "public/images/product/P2/1/colors.png",
+        "public/images/product/P2/1/size.png"
+    ]
+}

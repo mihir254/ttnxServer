@@ -1,0 +1,31 @@
+{
+    "_id": "AM50",
+    "name": "AM 50 T-SHIRT  EISURE         ATH",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Combed Cotton Blend fabric\n* Comfort Fit\n* Ribbed V-neck prevents sagging\n\u00ab Authentic Jockey\u00ae logo label",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "NAVY",
+        "MAUVE",
+        "WINE",
+        "SEAPORT",
+        "TEAL",
+        "BURNT",
+        "GOLD",
+        "PACIFIC",
+        "GREEN"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/16/product.png",
+        "public/images/product/MEN_OUTER/16/colors.png",
+        "public/images/product/MEN_OUTER/16/size.png"
+    ]
+}

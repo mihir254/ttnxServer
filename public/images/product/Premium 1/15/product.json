@@ -1,0 +1,27 @@
+{
+    "_id": "FP04",
+    "name": "FP04 VEST",
+    "brand": "Jockey",
+    "category": 5,
+    "price": 0,
+    "description": "* Super combed cotton fabric\n* Authentic Jockey\u00ae branding label in neon colour",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "WHITE",
+        "BLACK",
+        "CHARCOAL",
+        "MEL.",
+        "GREY",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/Premium 1/15/product.png",
+        "public/images/product/Premium 1/15/colors.png",
+        "public/images/product/Premium 1/15/size.png"
+    ]
+}

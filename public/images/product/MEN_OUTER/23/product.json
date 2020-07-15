@@ -1,0 +1,35 @@
+{
+    "_id": "AM81",
+    "name": "AM 81 LONG SLEEVE ~ > HENLEY     ATHLEISURE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Rich fabric\n* Henley style button placket\n* Long sleeve Raglan styling\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "TRUE",
+        "BLACK",
+        "SHANGAI",
+        "RED",
+        "INSIGNIA",
+        "BLUE",
+        "MEL/",
+        "MEL/",
+        "MEL/",
+        "BLACK",
+        "SHANGAI",
+        "RED",
+        "INSIGNIA",
+        "BLUE"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/23/product.png",
+        "public/images/product/MEN_OUTER/23/colors.png",
+        "public/images/product/MEN_OUTER/23/size.png"
+    ]
+}

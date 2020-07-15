@@ -1,0 +1,44 @@
+{
+    "_id": "SPO5",
+    "name": "SPO5 BRIEF",
+    "brand": "Jockey",
+    "category": 15,
+    "price": 0,
+    "description": "* Super Combed Cotton Stretch fabric\n* StayDRY Technology\n* StayFRESH Technology\n* Mesh inserts for increased moisture management\n* Durable and Ultra Soft waistband",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "A",
+        "A",
+        "WHITE",
+        "BLACK",
+        "BLACK",
+        "PERFORMANCE",
+        "NAVY",
+        "CHARCOAL",
+        "MEL.",
+        "BODY-COBALT",
+        "BLUE",
+        "/",
+        "BASE",
+        "-",
+        "NAVY",
+        "/",
+        "BASE",
+        "-",
+        "BLACK",
+        "/BASE",
+        "-",
+        "COBALT",
+        "BLUE"
+    ],
+    "images": [
+        "public/images/product/Premium 1/32/product.png",
+        "public/images/product/Premium 1/32/colors.png",
+        "public/images/product/Premium 1/32/size.png"
+    ]
+}

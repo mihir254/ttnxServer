@@ -1,0 +1,27 @@
+{
+    "_id": "AB22",
+    "name": "AB22 SHORTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Super Combed Cotton fabric\n\u00a2 Jockey inspired HD print",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "Black",
+        "Ember",
+        "Glow",
+        "Palace",
+        "Blue"
+    ],
+    "images": [
+        "public/images/product/KIDS/38/product.png",
+        "public/images/product/KIDS/38/colors.png",
+        "public/images/product/KIDS/38/size.png"
+    ]
+}

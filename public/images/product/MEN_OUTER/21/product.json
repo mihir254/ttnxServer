@@ -1,0 +1,31 @@
+{
+    "_id": "AM53",
+    "name": "AM 53 LONG SLEEVE T-SHIRT      ATHLEISURE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Combed Cotton Blend fabric\n* Ribbed v-neck prevents sagging\n\u00ab Authentic Jockey\u00ae branding",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "NAVY",
+        "MAUVE",
+        "WINE",
+        "SEAPORT",
+        "TEAL",
+        "BURNT",
+        "GOLD",
+        "PACIFIC",
+        "GREEN"
+    ],
+    "images": [
+        "public/images/product/MEN_OUTER/21/product.png",
+        "public/images/product/MEN_OUTER/21/colors.png",
+        "public/images/product/MEN_OUTER/21/size.png"
+    ]
+}

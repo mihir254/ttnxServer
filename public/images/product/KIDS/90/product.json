@@ -1,0 +1,46 @@
+{
+    "_id": "AG20",
+    "name": "AG20 JACKET",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "",
+    "size": [
+        "5-6",
+        "7-8",
+        "9-10",
+        "11-12",
+        "XXL"
+    ],
+    "colors": [
+        "\u201cBn",
+        "=|",
+        "=",
+        "Ss",
+        "Ruby",
+        "Snow",
+        "Mel",
+        "Black",
+        "Snow",
+        "Mel",
+        "Imperial",
+        "Blue",
+        "Paradise",
+        "Tea\u2019",
+        "Snow",
+        "Mel",
+        "Hh:",
+        "*",
+        "Super",
+        "Combed",
+        "Cotton",
+        "Elastane",
+        "Stretch",
+        "fabric"
+    ],
+    "images": [
+        "public/images/product/KIDS/90/product.png",
+        "public/images/product/KIDS/90/colors.png",
+        "public/images/product/KIDS/90/size.png"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "_id": "9005P",
+    "name": "9005 P PRINTED BERMUDA",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Mercerized Super Combed Cotton Woven fabric\n* Side pockets\n* Concealed button placket with front fly opening\n\u00ab Authentic Jockey\u00ae logo label",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [],
+    "images": [
+        "public/images/product/MEN_OUTER/83/product.png",
+        "public/images/product/MEN_OUTER/83/colors.png",
+        "public/images/product/MEN_OUTER/83/size.png"
+    ]
+}
