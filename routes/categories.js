@@ -62,7 +62,7 @@ createFilter = (body) => {
 };
 
 // For getting products of catId and ancestors of catId
-router.get("/:catId/get-products", (req, res, next) => {
+router.get("/:catId/get-products/:pageNo", (req, res, next) => {
   console.log("object", req.params.catId);
   Category.find({ ancestors: req.params.catId })
     .distinct("_id")
@@ -77,11 +77,20 @@ router.get("/:catId/get-products", (req, res, next) => {
         return Product.find(filter);
       }
     })
-    .then((prods) => res.send(prods))
+    .then((prods) => {
+      start = (req.params.pageNo - 1) * 10;
+      end = req.params.pageNo * 10;
+      prods = prods.slice(start, end);
+      if (prods.length == 0) {
+        res.send({ end: true });
+      } else {
+        res.send(prods);
+      }
+    })
     .catch((err) => next(err));
 });
 
-router.post("/:catId/get-products", (req, res, next) => {
+router.post("/:catId/get-products/:pageNo", (req, res, next) => {
   console.log("object", req.params.catId);
   Category.find({ ancestors: req.params.catId })
     .distinct("_id")
@@ -96,7 +105,16 @@ router.post("/:catId/get-products", (req, res, next) => {
         return Product.find(filter);
       }
     })
-    .then((prods) => res.send(prods))
+    .then((prods) => {
+      start = (req.params.pageNo - 1) * 10;
+      end = req.params.pageNo * 10;
+      prods = prods.slice(start, end);
+      if (prods.length == 0) {
+        res.send({ end: true });
+      } else {
+        res.send(prods);
+      }
+    })
     .catch((err) => next(err));
 });
 
