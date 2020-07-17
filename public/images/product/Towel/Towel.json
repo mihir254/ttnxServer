@@ -1,0 +1,241 @@
+[
+    {
+        "_id": "T101",
+        "name": "T101 BATH TOWEL",
+        "brand": "Jockey",
+        "category": 57,
+        "price": 0,
+        "description": "\u00a2 100% Combed Cotton\n\u00a2 Durable and Soft\n* Co-ordinating pieces available in hand and face towels",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Burgundy",
+            "Camel",
+            "Chocolate",
+            "Coral",
+            "Mid Blue",
+            "Navy",
+            "Pearl White"
+        ],
+        "images": [
+            "public/images/product/Towel/4/product.png",
+            "public/images/product/Towel/4/colors.png"
+        ]
+    },
+    {
+        "_id": "T104",
+        "name": "T104 BATH TOWEL",
+        "brand": "Jockey",
+        "category": 57,
+        "price": 0,
+        "description": "\u00a2 100% Combed Cotton\n\u00a2 Durable and Soft\n* Co-ordinating pieces available in hand and face towels",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Mid Blue",
+            "Coral"
+        ],
+        "images": [
+            "public/images/product/Towel/5/product.png",
+            "public/images/product/Towel/5/colors.png"
+        ]
+    },
+    {
+        "_id": "T201",
+        "name": "T201 HAND TOWEL",
+        "brand": "Jockey",
+        "category": 58,
+        "price": 0,
+        "description": "\u00a2 100% Combed Cotton\n\u00a2 Durable and Soft\n* Co-ordinating pieces available in bath and face towels",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Burgundy",
+            "Camel",
+            "Chocolate",
+            "Coral",
+            "Mid Blue",
+            "Navy",
+            "Pearl White"
+        ],
+        "images": [
+            "public/images/product/Towel/6/product.png",
+            "public/images/product/Towel/6/colors.png"
+        ]
+    },
+    {
+        "_id": "T204",
+        "name": "T204 HAND TOWEL",
+        "brand": "Jockey",
+        "category": 58,
+        "price": 0,
+        "description": "\u00a2 100% Combed Cotton\n\u00a2 Durable and Soft\n\u00a2 Co-ordinating pieces available in bath towels",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Navy",
+            "Grey"
+        ],
+        "images": [
+            "public/images/product/Towel/7/product.png",
+            "public/images/product/Towel/7/colors.png"
+        ]
+    },
+    {
+        "_id": "T301",
+        "name": "T301 FACE TOWEL",
+        "brand": "Jockey",
+        "category": 59,
+        "price": 0,
+        "description": "\u00a2 100% Combed Cotton\n\u00a2 Durable and Soft\n\u00a2 Co-ordinating pieces available in hand and bath towels",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Burgundy",
+            "Camel",
+            "Chocolate",
+            "Coral",
+            "Mid Blue",
+            "Navy",
+            "Pearl White"
+        ],
+        "images": [
+            "public/images/product/Towel/8/product.png",
+            "public/images/product/Towel/8/colors.png"
+        ]
+    },
+    {
+        "_id": "T142",
+        "name": "T142 BATH TOWEL",
+        "brand": "Jockey",
+        "category": 57,
+        "price": 0,
+        "description": "\u00a2 100% Combed Cotton\n\u00ab Antimicrobial finish\n\u00a2 Co-ordinating pieces available in hand towels",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Cobalt",
+            "Ruby"
+        ],
+        "images": [
+            "public/images/product/Towel/10/product.png",
+            "public/images/product/Towel/10/colors.png"
+        ]
+    },
+    {
+        "_id": "T242",
+        "name": "T242 HAND TOWEL",
+        "brand": "Jockey",
+        "category": 58,
+        "price": 0,
+        "description": "\u00a2 100% Combed Cotton\n\u00ab Antimicrobial finish\n\u00a2 Co-ordinating pieces available in bath towels",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Cobalt",
+            "Ruby"
+        ],
+        "images": [
+            "public/images/product/Towel/11/product.png",
+            "public/images/product/Towel/11/colors.png"
+        ]
+    },
+    {
+        "_id": "T245",
+        "name": "T245 HAND TOWEL",
+        "brand": "Jockey",
+        "category": 58,
+        "price": 0,
+        "description": "\u00a2 100% Combed Cotton\n\u00a2 Antimicrobial finish",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Cobalt",
+            "Ruby"
+        ],
+        "images": [
+            "public/images/product/Towel/12/product.png",
+            "public/images/product/Towel/12/colors.png"
+        ]
+    },
+    {
+        "_id": "T122",
+        "name": "T122 BATH TOWEL",
+        "brand": "Jockey",
+        "category": 57,
+        "price": 0,
+        "description": "\u00a2 100% Combed Cotton\n* Co-ordinating pieces available in hand towels",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Blue Grindel"
+        ],
+        "images": [
+            "public/images/product/Towel/14/product.png",
+            "public/images/product/Towel/14/colors.png"
+        ]
+    },
+    {
+        "_id": "T123",
+        "name": "T123 BATH TOWEL",
+        "brand": "Jockey",
+        "category": 57,
+        "price": 0,
+        "description": "\u00a2 100% Combed Cotton\n* Co-ordinating pieces available in hand towels",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Red Grindel"
+        ],
+        "images": [
+            "public/images/product/Towel/15/product.png",
+            "public/images/product/Towel/15/colors.png"
+        ]
+    },
+    {
+        "_id": "T222",
+        "name": "T222 HAND TOWEL",
+        "brand": "Jockey",
+        "category": 58,
+        "price": 0,
+        "description": "\u00a2 100% Combed Cotton\n\u00a2 Co-ordinating pieces available in bath towels",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Blue Grindel"
+        ],
+        "images": [
+            "public/images/product/Towel/16/product.png",
+            "public/images/product/Towel/16/colors.png"
+        ]
+    },
+    {
+        "_id": "T223",
+        "name": "T223 HAND TOWEL",
+        "brand": "Jockey",
+        "category": 58,
+        "price": 0,
+        "description": "\u00a2 100% Combed Cotton\n\u00a2 Co-ordinating pieces available in bath towels",
+        "size": [
+            "ONE SIZE"
+        ],
+        "colors": [
+            "Red Grindel"
+        ],
+        "images": [
+            "public/images/product/Towel/17/product.png",
+            "public/images/product/Towel/17/colors.png"
+        ]
+    }
+]

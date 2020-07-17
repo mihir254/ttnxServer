@@ -1,0 +1,19 @@
+{
+    "_id": "T242",
+    "name": "T242 HAND TOWEL",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 100% Combed Cotton\n\u00ab Antimicrobial finish\n\u00a2 Co-ordinating pieces available in bath towels",
+    "size": [
+        "ONE SIZE"
+    ],
+    "colors": [
+        "Cobalt",
+        "Ruby"
+    ],
+    "images": [
+        "public/images/product/Towel/11/product.png",
+        "public/images/product/Towel/11/colors.png"
+    ]
+}

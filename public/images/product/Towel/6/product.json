@@ -1,0 +1,23 @@
+{
+    "_id": "T201",
+    "name": "T201 HAND TOWEL",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 100% Combed Cotton\n\u00a2 Durable and Soft\n* Co-ordinating pieces available in bath and face towels",
+    "size": [
+        "ONE SIZE"
+    ],
+    "colors": [
+        "Burgundy",
+        "Camel",
+        "Chocolate",
+        "Coral",
+        "Mid",
+        "Blue"
+    ],
+    "images": [
+        "public/images/product/Towel/6/product.png",
+        "public/images/product/Towel/6/colors.png"
+    ]
+}

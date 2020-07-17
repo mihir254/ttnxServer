@@ -1,0 +1,19 @@
+{
+    "_id": "T223",
+    "name": "T223 HAND TOWEL",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 100% Combed Cotton\n\u00a2 Co-ordinating pieces available in bath towels",
+    "size": [
+        "ONE SIZE"
+    ],
+    "colors": [
+        "Red",
+        "Grindel"
+    ],
+    "images": [
+        "public/images/product/Towel/17/product.png",
+        "public/images/product/Towel/17/colors.png"
+    ]
+}

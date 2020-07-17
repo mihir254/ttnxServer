@@ -1,0 +1,19 @@
+{
+    "_id": "T245",
+    "name": "T245 HAND TOWEL",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 100% Combed Cotton\n\u00a2 Antimicrobial finish",
+    "size": [
+        "ONE SIZE"
+    ],
+    "colors": [
+        "Cobalt",
+        "Ruby"
+    ],
+    "images": [
+        "public/images/product/Towel/12/product.png",
+        "public/images/product/Towel/12/colors.png"
+    ]
+}
