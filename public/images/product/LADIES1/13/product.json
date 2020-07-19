@@ -1,0 +1,26 @@
+{
+    "_id": "1529",
+    "name": "1529 SHORTIES",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Soft and smooth inner waistband\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "WHITE",
+        "CLASSIC",
+        "NAVY",
+        "BLACK",
+        "SKIN"
+    ],
+    "images": [
+        "public/images/product/LADIES1/13/product.png",
+        "public/images/product/LADIES1/13/colors.png",
+        "public/images/product/LADIES1/13/size.png"
+    ]
+}

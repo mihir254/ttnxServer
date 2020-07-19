@@ -1,0 +1,25 @@
+{
+    "_id": "6707",
+    "name": "6707 OPEN-BUST SLIP",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00bbss shaping technology provides all-day\ncomfort and contouring",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "\u00a2",
+        "Des",
+        "BLACK",
+        "SKIN"
+    ],
+    "images": [
+        "public/images/product/LADIES1/55/product.png",
+        "public/images/product/LADIES1/55/colors.png",
+        "public/images/product/LADIES1/55/size.png"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "MI03",
+    "name": "MI03 MEDIUM",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Perfect for medium impact workout\n*\u00ab Removeable padded cups for modesty\n\u00a2 Stylish Racer back design\n\u00a2 Label free for all day comfort",
+    "size": [],
+    "colors": [
+        "WINE",
+        "TASTING",
+        "BLACK"
+    ],
+    "images": [
+        "public/images/product/BRA/57/product.png",
+        "public/images/product/BRA/57/colors.png"
+    ]
+}

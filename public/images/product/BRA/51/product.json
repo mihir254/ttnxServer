@@ -1,0 +1,23 @@
+{
+    "_id": "1815",
+    "name": "1815 LACE BACK",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Soft and smooth stretch fabric adds to comfort\n\u00a2 Front open style\n\u00ab Plunge neck\n\u00a2 Interesting lace back\n\u00a2 Label free for all day comfort",
+    "size": [],
+    "colors": [
+        "SKIN",
+        "BLACK",
+        "PURPLE",
+        "PINK",
+        "WINE",
+        "NAVY",
+        "BLAZER",
+        "COSMOS"
+    ],
+    "images": [
+        "public/images/product/BRA/51/product.png",
+        "public/images/product/BRA/51/colors.png"
+    ]
+}

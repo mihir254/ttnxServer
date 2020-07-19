@@ -1,0 +1,32 @@
+{
+    "_id": "FE41",
+    "name": "FE41 MOULDED CUP",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super combed cotton lycra stretch fabric\n* Moulded fabric cups\n\u00a2 Wide front fabric strap for more support\n\u00a2 Soft and smooth adjustable straps\n* High coverage on centre front\n\u00a2 Label free for all day comfort",
+    "size": [],
+    "colors": [
+        "WHITE",
+        "BLACK",
+        "SKIN",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "DEEP",
+        "COBALT",
+        "HEATHER",
+        "ROSE",
+        "BEET",
+        "RED",
+        "PEACH",
+        "SKIN",
+        "MEL.",
+        "RUBY",
+        "BLOSSOM"
+    ],
+    "images": [
+        "public/images/product/BRA/44/product.png",
+        "public/images/product/BRA/44/colors.png"
+    ]
+}

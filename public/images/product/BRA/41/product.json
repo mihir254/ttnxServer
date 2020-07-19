@@ -1,0 +1,21 @@
+{
+    "_id": "FE23",
+    "name": "FE23 MEDIUM",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Elastane Stretch fabric\n* Padded cups give a smooth look under all clothing\n\u00a2 Wire free medium coverage bra\n* Soft and smooth detachable straps\n\u00a2 Label free for all day comfort",
+    "size": [],
+    "colors": [
+        "WHITE",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "BLACK",
+        "SKIN"
+    ],
+    "images": [
+        "public/images/product/BRA/41/product.png",
+        "public/images/product/BRA/41/colors.png"
+    ]
+}

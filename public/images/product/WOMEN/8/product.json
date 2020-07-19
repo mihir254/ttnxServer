@@ -1,0 +1,25 @@
+{
+    "_id": "",
+    "name": "",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "Perfect for medium impact workout\nCross over adjustable straps inside for extra support during workout\nHook ring for optional cross back",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "Wine",
+        "Tasting",
+        "Black"
+    ],
+    "images": [
+        "public/images/product/WOMEN/8/product.png",
+        "public/images/product/WOMEN/8/product1.png",
+        "public/images/product/WOMEN/8/product2.png",
+        "public/images/product/WOMEN/8/colors.png"
+    ]
+}

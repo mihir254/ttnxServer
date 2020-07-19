@@ -1,0 +1,32 @@
+{
+    "_id": "1487",
+    "name": "1487 CAMISOLE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 Super Combed Cotton Rib fabric\nind smooth self-fabric adjustable straps",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "WHITE",
+        "BLACK",
+        "SKIN",
+        "at",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "CANDY",
+        "PINK",
+        "BLUSH",
+        "PINK"
+    ],
+    "images": [
+        "public/images/product/LADIES1/5/product.png",
+        "public/images/product/LADIES1/5/colors.png",
+        "public/images/product/LADIES1/5/size.png"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "_id": "1535",
+    "name": "1535 TANK TOP",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 Super Combed Cotton Rib fabric\nthentic Jockey\u00ae contrast logo tab label",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "WHITE",
+        "BLACK",
+        "SKIN",
+        "RED",
+        "LOVE",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "PINK",
+        "LADY",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/LADIES1/10/product.png",
+        "public/images/product/LADIES1/10/colors.png",
+        "public/images/product/LADIES1/10/size.png"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "_id": "1721",
+    "name": "1721 CROSS OVER BRA",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super combed cotton lycra stretch fabric.\n* Soft and delicate lace for added feminity\n\u00a2 Soft and smooth adjustable straps\n* Soft padded moulded cup\n\u00a2 Label free for all day comfort",
+    "size": [],
+    "colors": [
+        "LAVENDER",
+        "PEACH",
+        "BLACK",
+        "SKIN",
+        "SCENT",
+        "BLOSSOM"
+    ],
+    "images": [
+        "public/images/product/BRA/24/product.png",
+        "public/images/product/BRA/24/colors.png"
+    ]
+}

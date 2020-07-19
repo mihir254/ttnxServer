@@ -1,0 +1,32 @@
+{
+    "_id": "1245",
+    "name": "1245 T-SHIRT BRA",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Stretch fabric\n\u00a2 Wired for additional support\n* Soft and smooth detachable straps\n\u00a2 Label free for all day comfort",
+    "size": [],
+    "colors": [
+        "WHITE",
+        "BEET",
+        "RED",
+        "PEACH",
+        "BLACK",
+        "SKIN",
+        "BLOSSOM",
+        "RUBY",
+        "HEATHER",
+        "ROSE",
+        "DEEP",
+        "COBALT",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "SKIN",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/BRA/31/product.png",
+        "public/images/product/BRA/31/colors.png"
+    ]
+}

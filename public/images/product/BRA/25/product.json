@@ -1,0 +1,20 @@
+{
+    "_id": "ES04",
+    "name": "ES04 SLEEP BRA",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Ultra soft elastic\n*\u00ab Removable pads for added comfort and modesty\n\u00a2 Label free for all day comfort",
+    "size": [],
+    "colors": [
+        "WHITE",
+        "CANDY",
+        "PINK",
+        "SKIN",
+        "BLACK"
+    ],
+    "images": [
+        "public/images/product/BRA/25/product.png",
+        "public/images/product/BRA/25/colors.png"
+    ]
+}

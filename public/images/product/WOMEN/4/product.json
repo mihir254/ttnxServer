@@ -1,0 +1,29 @@
+{
+    "_id": "",
+    "name": "",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "Lightweight stretch Tactel fabric\nScooped hem for added coverage\nTactel - 83%, Lycra - 17%\nAuthentic Jockey Branding with reflective spot print",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "Black",
+        "Purple",
+        "Mel.",
+        "Coral",
+        "Mel.",
+        "Black",
+        "Mel."
+    ],
+    "images": [
+        "public/images/product/WOMEN/4/product.png",
+        "public/images/product/WOMEN/4/product1.png",
+        "public/images/product/WOMEN/4/product2.png",
+        "public/images/product/WOMEN/4/colors.png"
+    ]
+}

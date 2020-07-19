@@ -1,0 +1,28 @@
+{
+    "_id": "3004",
+    "name": "3004 BOY LEG",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Satin-touch elastic waistband",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "IRIS",
+        "BLUE",
+        "PEACH",
+        "BLOSSOM",
+        "RUBY",
+        "TEAL"
+    ],
+    "images": [
+        "public/images/product/LADIES1/33/product.png",
+        "public/images/product/LADIES1/33/colors.png",
+        "public/images/product/LADIES1/33/size.png"
+    ]
+}

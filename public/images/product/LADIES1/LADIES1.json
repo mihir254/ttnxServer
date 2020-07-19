@@ -1,0 +1,1275 @@
+[
+    {
+        "_id": "1487",
+        "name": "1487 CAMISOLE",
+        "brand": "Jockey",
+        "category": 211,
+        "price": 239,
+        "description": "\u00a2 Super Combed Cotton Rib fabric\nind smooth self-fabric adjustable straps",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "SKIN",
+            "LT. GREY MEL.",
+            "CANDY PINK",
+            "BLUSH PINK"
+        ],
+        "images": [
+            "public/images/product/LADIES1/5/product.png",
+            "public/images/product/LADIES1/5/colors.png",
+            "public/images/product/LADIES1/5/size.png"
+        ]
+    },
+    {
+        "_id": "1488",
+        "name": "1488 LONG CAMISOLE",
+        "brand": "Jockey",
+        "category": 211,
+        "price": 329,
+        "description": "\u00a2 Super Combed Cotton fabric\n\u00a2 Longer side slits for comfort and ease\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "WHITE",
+            "SKIN"
+        ],
+        "images": [
+            "public/images/product/LADIES1/6/product.png",
+            "public/images/product/LADIES1/6/colors.png",
+            "public/images/product/LADIES1/6/size.png"
+        ]
+    },
+    {
+        "_id": "1410",
+        "name": "1410 BIKINI",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 389,
+        "description": "\u00a2 Super Combed Cotton fabric\n\u00a2 Soft inner waistband",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "RUBY",
+            "TEAL",
+            "ACAI",
+            "POPCORN",
+            "CANDY PINK",
+            "BEACH GLASS"
+        ],
+        "images": [
+            "public/images/product/LADIES1/7/product.png",
+            "public/images/product/LADIES1/7/colors.png",
+            "public/images/product/LADIES1/7/size.png"
+        ]
+    },
+    {
+        "_id": "1406",
+        "name": "1406 HIPSTER",
+        "brand": "Jockey",
+        "category": 208,
+        "price": 389,
+        "description": "\u00a2 Super Combed Cotton fabric\n\u00a2 Soft inner waistband",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "RUBY",
+            "TEAL",
+            "ACAI",
+            "POPCORN",
+            "CANDY PINK",
+            "BEACH GLASS"
+        ],
+        "images": [
+            "public/images/product/LADIES1/8/product.png",
+            "public/images/product/LADIES1/8/colors.png",
+            "public/images/product/LADIES1/8/size.png"
+        ]
+    },
+    {
+        "_id": "1535",
+        "name": "1535 TANK TOP",
+        "brand": "Jockey",
+        "category": 211,
+        "price": 269,
+        "description": "\u00a2 Super Combed Cotton Rib fabric\nthentic Jockey\u00ae contrast logo tab label",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "SKIN",
+            "RED LOVE",
+            "LT. GREY MEL.",
+            "PINK LADY MEL."
+        ],
+        "images": [
+            "public/images/product/LADIES1/10/product.png",
+            "public/images/product/LADIES1/10/colors.png",
+            "public/images/product/LADIES1/10/size.png"
+        ]
+    },
+    {
+        "_id": "1525",
+        "name": "1525 BIKINI",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 299,
+        "description": "\u00a2 Super Combed Cotton fabric\n\u00a2 Soft and smooth waistband",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "RED LOVE",
+            "TEAL",
+            "PERSIAN BLUE",
+            "POPCORN",
+            "CANDY PINK",
+            "BLUSH PINK"
+        ],
+        "images": [
+            "public/images/product/LADIES1/12/product.png",
+            "public/images/product/LADIES1/12/colors.png",
+            "public/images/product/LADIES1/12/size.png"
+        ]
+    },
+    {
+        "_id": "1523",
+        "name": "1523 HIPSTER",
+        "brand": "Jockey",
+        "category": 208,
+        "price": 299,
+        "description": "\u00a2 Super Combed Cotton fabric\n\u00a2 Soft and smooth waistband",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "RED LOVE",
+            "TEAL",
+            "PERSIAN BLUE",
+            "POPCORN",
+            "CANDY PINK",
+            "BLUSH PINK"
+        ],
+        "images": [
+            "public/images/product/LADIES1/12/product.png",
+            "public/images/product/LADIES1/12/colors.png",
+            "public/images/product/LADIES1/12/size.png"
+        ]
+    },
+    {
+        "_id": "1529",
+        "name": "1529 SHORTIES",
+        "brand": "Jockey",
+        "category": 210,
+        "price": 259,
+        "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Soft and smooth inner waistband\n\u00a2 Label free for all day comfort",
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "WHITE",
+            "CLASSIC NAVY",
+            "BLACK",
+            "SKIN"
+        ],
+        "images": [
+            "public/images/product/LADIES1/13/product.png",
+            "public/images/product/LADIES1/13/colors.png",
+            "public/images/product/LADIES1/13/size.png"
+        ]
+    },
+    {
+        "_id": "1635",
+        "name": "1635 BIKINI",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 329,
+        "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Soft waistband",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "BLACK",
+            "RED LOVE",
+            "BLUSH PINK",
+            "IRIS BLUE",
+            "TEAL",
+            "SKIN",
+            "CANDY PINK",
+            "POPCORN",
+            "FRENCH LILAC",
+            "ACAI",
+            "RUBY",
+            "PEACH BLOSSOM"
+        ],
+        "images": [
+            "public/images/product/LADIES1/15/product.png",
+            "public/images/product/LADIES1/15/colors.png",
+            "public/images/product/LADIES1/15/size.png"
+        ]
+    },
+    {
+        "_id": "1635P",
+        "name": "1635P BIKINI",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 349,
+        "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Soft waistband",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "AS AVAILABLE"
+        ],
+        "images": [
+            "public/images/product/LADIES1/16/product.png",
+            "public/images/product/LADIES1/16/colors.png",
+            "public/images/product/LADIES1/16/size.png"
+        ]
+    },
+    {
+        "_id": "1636",
+        "name": "1636 HIPSTER",
+        "brand": "Jockey",
+        "category": 208,
+        "price": 329,
+        "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Soft waistband",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "RED LOVE",
+            "BLACK",
+            "BLUSH PINK",
+            "SKIN",
+            "IRIS BLUE",
+            "FRENCH LILAC",
+            "TEAL",
+            "ACAI",
+            "RUBY",
+            "CANDY PINK",
+            "POPCORN",
+            "PEACH BLOSSOM"
+        ],
+        "images": [
+            "public/images/product/LADIES1/17/product.png",
+            "public/images/product/LADIES1/17/colors.png",
+            "public/images/product/LADIES1/17/size.png"
+        ]
+    },
+    {
+        "_id": "1636P",
+        "name": "1636P HIPSTER",
+        "brand": "Jockey",
+        "category": 208,
+        "price": 349,
+        "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Soft waist band elastic",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "AS AVAILABLE"
+        ],
+        "images": [
+            "public/images/product/LADIES1/18/product.png",
+            "public/images/product/LADIES1/18/colors.png",
+            "public/images/product/LADIES1/18/size.png"
+        ]
+    },
+    {
+        "_id": "FE10",
+        "name": "FE10 CAMISOLE",
+        "brand": "Jockey",
+        "category": 211,
+        "price": 299,
+        "description": "\u00a2 100% Super Combed Cotton fabric\nSoft and delicate lace trim at neckline\n\u00a2 Soft and smooth adjustable straps",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "PEACH BLOSSOM"
+        ],
+        "images": [
+            "public/images/product/LADIES1/20/product.png",
+            "public/images/product/LADIES1/20/colors.png",
+            "public/images/product/LADIES1/20/size.png"
+        ]
+    },
+    {
+        "_id": "FE27",
+        "name": "FE27 CAMISOLE",
+        "brand": "Jockey",
+        "category": 211,
+        "price": 279,
+        "description": "\u00a2 Super Combed Cotton Stretch fabric\n\u00a2 Soft bifold elastic on neck and strap\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "BLACK",
+            "WHITE",
+            "PEACH BLOSSOM",
+            "SKIN",
+            "CLASSIC NAVY"
+        ],
+        "images": [
+            "public/images/product/LADIES1/21/product.png",
+            "public/images/product/LADIES1/21/colors.png",
+            "public/images/product/LADIES1/21/size.png"
+        ]
+    },
+    {
+        "_id": "FE14",
+        "name": "FE14 BRAZILIAN",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 249,
+        "description": "\u00a2 Super Combed Cotton Stretch fabric\nSatin Touch signature elastic waistband\n\u00a2 Pretty stretch lace detailing at back",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "PEACH BLOSSOM",
+            "RUBY",
+            "CLASSIC NAVY",
+            "SKIN"
+        ],
+        "images": [
+            "public/images/product/LADIES1/22/product.png",
+            "public/images/product/LADIES1/22/colors.png",
+            "public/images/product/LADIES1/22/size.png"
+        ]
+    },
+    {
+        "_id": "SS02",
+        "name": "SS02 BIKINI",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 189,
+        "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Low Rise fit",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "WHITE",
+            "SKIN",
+            "LT. GREY MEL.",
+            "TEAL",
+            "PEACH BLOSSOM",
+            "RUBY",
+            "IRIS BLUE",
+            "BEET RED",
+            "SKIN MEL.",
+            "DEEP COBALT",
+            "HEATHER ROSE"
+        ],
+        "images": [
+            "public/images/product/LADIES1/23/product.png",
+            "public/images/product/LADIES1/23/colors.png",
+            "public/images/product/LADIES1/23/size.png"
+        ]
+    },
+    {
+        "_id": "SS02P",
+        "name": "SS02P BIKINI",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 209,
+        "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Low rise fit",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "AS AVAILABLE"
+        ],
+        "images": [
+            "public/images/product/LADIES1/24/product.png",
+            "public/images/product/LADIES1/24/colors.png",
+            "public/images/product/LADIES1/24/size.png"
+        ]
+    },
+    {
+        "_id": "3002",
+        "name": "3002 BIKINI",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 199,
+        "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Satin-touch elastic waistband",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "IRIS BLUE",
+            "PEACH BLOSSOM",
+            "RUBY",
+            "TEAL"
+        ],
+        "images": [
+            "public/images/product/LADIES1/25/product.png",
+            "public/images/product/LADIES1/25/colors.png",
+            "public/images/product/LADIES1/25/size.png"
+        ]
+    },
+    {
+        "_id": "3002P",
+        "name": "3002P BIKINI",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 219,
+        "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Satin-touch elastic waistband",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "AS AVAILABLE"
+        ],
+        "images": [
+            "public/images/product/LADIES1/26/product.png",
+            "public/images/product/LADIES1/26/colors.png",
+            "public/images/product/LADIES1/26/size.png"
+        ]
+    },
+    {
+        "_id": "3005",
+        "name": "3005 BIKINI",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 549,
+        "description": "\u00a2 Super Combed Cotton Stretch fabric\nSatin-touch signature elastic waistband\n* Good back coverage",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "PEACH BLOSSOM",
+            "RUBY",
+            "BLACK",
+            "BEET RED",
+            "TEAL"
+        ],
+        "images": [
+            "public/images/product/LADIES1/27/product.png",
+            "public/images/product/LADIES1/27/colors.png",
+            "public/images/product/LADIES1/27/size.png"
+        ]
+    },
+    {
+        "_id": "3001",
+        "name": "3001 HIPSTER",
+        "brand": "Jockey",
+        "category": 208,
+        "price": 199,
+        "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Satin-touch elastic waistband",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "IRIS BLUE",
+            "PEACH BLOSSOM",
+            "RUBY",
+            "TEAL"
+        ],
+        "images": [
+            "public/images/product/LADIES1/28/product.png",
+            "public/images/product/LADIES1/28/colors.png",
+            "public/images/product/LADIES1/28/size.png"
+        ]
+    },
+    {
+        "_id": "3001P",
+        "name": "3001P HIPSTER",
+        "brand": "Jockey",
+        "category": 208,
+        "price": 219,
+        "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Satin-touch elastic waistband",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "AS AVAILABLE"
+        ],
+        "images": [
+            "public/images/product/LADIES1/29/product.png",
+            "public/images/product/LADIES1/29/colors.png",
+            "public/images/product/LADIES1/29/size.png"
+        ]
+    },
+    {
+        "_id": "3006",
+        "name": "3006 HIPSTER",
+        "brand": "Jockey",
+        "category": 208,
+        "price": 549,
+        "description": "\u00a2 Super Combed Cotton Stretch fabric\nSatin-touch signature elastic waistband\ner side seams give additional coverage\n* Good back coverage",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "PEACH BLOSSOM",
+            "RUBY",
+            "BLACK",
+            "BEET RED",
+            "TEAL"
+        ],
+        "images": [
+            "public/images/product/LADIES1/30/product.png",
+            "public/images/product/LADIES1/30/colors.png",
+            "public/images/product/LADIES1/30/size.png"
+        ]
+    },
+    {
+        "_id": "SS04",
+        "name": "SS04 BOY LEG",
+        "brand": "Jockey",
+        "category": 209,
+        "price": 199,
+        "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Ultra-Soft waistband\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "WHITE",
+            "SKIN",
+            "LT. GREY MEL.",
+            "TEAL",
+            "PEACH BLOSSOM",
+            "RUBY",
+            "IRIS BLUE",
+            "SKIN MEL.",
+            "BEET RED",
+            "DEEP COBALT",
+            "HEATHER ROSE"
+        ],
+        "images": [
+            "public/images/product/LADIES1/31/product.png",
+            "public/images/product/LADIES1/31/colors.png",
+            "public/images/product/LADIES1/31/size.png"
+        ]
+    },
+    {
+        "_id": "SSO4P",
+        "name": "SSO4P BOY LEG",
+        "brand": "Jockey",
+        "category": 209,
+        "price": 219,
+        "description": "Combed Cotton Elastane Stretch fabric\n\u00a2UltraSoft waistband\n* Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "AS AVAILABLE"
+        ],
+        "images": [
+            "public/images/product/LADIES1/32/product.png",
+            "public/images/product/LADIES1/32/colors.png",
+            "public/images/product/LADIES1/32/size.png"
+        ]
+    },
+    {
+        "_id": "3004",
+        "name": "3004 BOY LEG",
+        "brand": "Jockey",
+        "category": 209,
+        "price": 209,
+        "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Satin-touch elastic waistband",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "IRIS BLUE",
+            "PEACH BLOSSOM",
+            "RUBY",
+            "TEAL"
+        ],
+        "images": [
+            "public/images/product/LADIES1/33/product.png",
+            "public/images/product/LADIES1/33/colors.png",
+            "public/images/product/LADIES1/33/size.png"
+        ]
+    },
+    {
+        "_id": "3004P",
+        "name": "3004P BOY LEG",
+        "brand": "Jockey",
+        "category": 209,
+        "price": 229,
+        "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Satin-touch elastic waistband",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "AS AVAILABLE"
+        ],
+        "images": [
+            "public/images/product/LADIES1/34/product.png",
+            "public/images/product/LADIES1/34/colors.png",
+            "public/images/product/LADIES1/34/size.png"
+        ]
+    },
+    {
+        "_id": "SWO1",
+        "name": "SWO1 BIKINI",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 309,
+        "description": "\u00a2 Super Combed Cotton fabric\nyncealed waistband for added comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "CHARCOAL MEL.",
+            "LAVENDER SCENT MEL.",
+            "CLASSIC NAVY",
+            "PURPLE POTION",
+            "RED LOVE",
+            "BLUSH PINK",
+            "TILE BLUE",
+            "COCKATOO",
+            "AMBER LIGHT"
+        ],
+        "images": [
+            "public/images/product/LADIES1/36/product.png",
+            "public/images/product/LADIES1/36/colors.png",
+            "public/images/product/LADIES1/36/size.png"
+        ]
+    },
+    {
+        "_id": "SWO1P",
+        "name": "SWO1P BIKINI",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 339,
+        "description": "\u00a2 Super Combed Cotton fabric\nancealed waistband for added comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "COCKATOO",
+            "AMBER LIGHT",
+            "RUBY",
+            "BLUSH PINK",
+            "RED LOVE",
+            "BLUSH PINK",
+            "RUBY",
+            "COCKATOO",
+            "CLASSIC NAVY",
+            "PURPLE POTION"
+        ],
+        "images": [
+            "public/images/product/LADIES1/37/product.png",
+            "public/images/product/LADIES1/37/colors.png",
+            "public/images/product/LADIES1/37/size.png"
+        ]
+    },
+    {
+        "_id": "1806",
+        "name": "1806 BIKINI",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 219,
+        "description": "\u00a2 Ultra Soft Modal Stretch fabric\nnooth and flat elastic grip and comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "SKIN",
+            "PEACH BLOSSOM",
+            "RUBY",
+            "PINK WINE",
+            "NAVY BLAZER"
+        ],
+        "images": [
+            "public/images/product/LADIES1/38/product.png",
+            "public/images/product/LADIES1/38/colors.png",
+            "public/images/product/LADIES1/38/size.png"
+        ]
+    },
+    {
+        "_id": "SW02",
+        "name": "SW02 HIPSTER",
+        "brand": "Jockey",
+        "category": 208,
+        "price": 309,
+        "description": "\u00a2 Super Combed Cotton fabric\nancealed waistband for added comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "CHARCOAL MEL.",
+            "LAVENDER SCENT MEL.",
+            "CLASSIC NAVY",
+            "PURPLE POTION",
+            "RED LOVE",
+            "BLUSH PINK",
+            "RUBY",
+            "TILE BLUE",
+            "COCKATOO",
+            "AMBER LIGHT"
+        ],
+        "images": [
+            "public/images/product/LADIES1/39/product.png",
+            "public/images/product/LADIES1/39/colors.png",
+            "public/images/product/LADIES1/39/size.png"
+        ]
+    },
+    {
+        "_id": "SW02P",
+        "name": "SW02P HIPSTER",
+        "brand": "Jockey",
+        "category": 208,
+        "price": 339,
+        "description": "\u00a2 Super Combed Cotton fabric\nsncealed waistband for added comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "COCKATOO",
+            "AMBER LIGHT",
+            "RUBY",
+            "BLUSH PINK",
+            "RED LOVE",
+            "BLUSH PINK",
+            "RUBY",
+            "COCKATOO",
+            "CLASSIC NAVY",
+            "PURPLE POTION"
+        ],
+        "images": [
+            "public/images/product/LADIES1/40/product.png",
+            "public/images/product/LADIES1/40/colors.png",
+            "public/images/product/LADIES1/40/size.png"
+        ]
+    },
+    {
+        "_id": "1807",
+        "name": "1807 HIPSTER",
+        "brand": "Jockey",
+        "category": 208,
+        "price": 219,
+        "description": "\u00a2 Ultra Soft Modal Stretch fabric\nnooth and flat elastic grip and comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "SKIN",
+            "PEACH BLOSSOM",
+            "RUBY",
+            "PINK WINE",
+            "NAVY BLAZER"
+        ],
+        "images": [
+            "public/images/product/LADIES1/41/product.png",
+            "public/images/product/LADIES1/41/colors.png",
+            "public/images/product/LADIES1/41/size.png"
+        ]
+    },
+    {
+        "_id": "1809",
+        "name": "1809 FULL BRIEF",
+        "brand": "Jockey",
+        "category": 209,
+        "price": 219,
+        "description": "\u00a2 Ultra Soft Modal Stretch fabric\nnooth and flat elastic grip and comfort\n\u00a2 Full Brief with good back coverage",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "SKIN",
+            "PEACH BLOSSOM",
+            "RUBY",
+            "PINK WINE",
+            "NAVY BLAZER"
+        ],
+        "images": [
+            "public/images/product/LADIES1/42/product.png",
+            "public/images/product/LADIES1/42/colors.png",
+            "public/images/product/LADIES1/42/size.png"
+        ]
+    },
+    {
+        "_id": "1805",
+        "name": "1805 CAMISOLE",
+        "brand": "Jockey",
+        "category": 211,
+        "price": 349,
+        "description": "* Modal Elastane Stretch fabric\n\u00a2 Adjustable straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "SKIN",
+            "PEACH BLOSSOM",
+            "PINK WINE",
+            "NAVY BLAZER"
+        ],
+        "images": [
+            "public/images/product/LADIES1/44/product.png",
+            "public/images/product/LADIES1/44/colors.png",
+            "public/images/product/LADIES1/44/size.png"
+        ]
+    },
+    {
+        "_id": "1803",
+        "name": "1803 BIKINI",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 219,
+        "description": "\u00a2 Modal Elastane Stretch fabric",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "SKIN",
+            "PEACH BLOSSOM",
+            "RUBY",
+            "LAVENDER SCENT MEL.",
+            "IRIS BLUE",
+            "PINK WINE"
+        ],
+        "images": [
+            "public/images/product/LADIES1/45/product.png",
+            "public/images/product/LADIES1/45/colors.png",
+            "public/images/product/LADIES1/45/size.png"
+        ]
+    },
+    {
+        "_id": "1802",
+        "name": "1802 HIPSTER",
+        "brand": "Jockey",
+        "category": 208,
+        "price": 219,
+        "description": "\u00a2 Modal Elastane Stretch fabric",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "SKIN",
+            "PEACH BLOSSOM",
+            "RUBY",
+            "LAVENDER SCENT MEL.",
+            "NAVY BLAZER",
+            "PINK WINE"
+        ],
+        "images": [
+            "public/images/product/LADIES1/46/product.png",
+            "public/images/product/LADIES1/46/colors.png",
+            "public/images/product/LADIES1/46/size.png"
+        ]
+    },
+    {
+        "_id": "UL52",
+        "name": "UL52 BIKINI",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 199,
+        "description": "Combed Cotton Elastane Stretch fabric\n* UltraSoft elastic waistband",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "HIBISCUS RED",
+            "PASSION RED MEL.",
+            "BLUE MEL.",
+            "CREAM MEL."
+        ],
+        "images": [
+            "public/images/product/LADIES1/48/product.png",
+            "public/images/product/LADIES1/48/colors.png",
+            "public/images/product/LADIES1/48/size.png"
+        ]
+    },
+    {
+        "_id": "UL53",
+        "name": "UL53 GIRLSHORT",
+        "brand": "Jockey",
+        "category": 210,
+        "price": 209,
+        "description": "Combed Cotton Elastane Stretch fabric\n* UltraSoft elastic waistband",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "HIBISCUS RED",
+            "PASSION RED MEL.",
+            "BLUE MEL.",
+            "CREAM MEL."
+        ],
+        "images": [
+            "public/images/product/LADIES1/49/product.png",
+            "public/images/product/LADIES1/49/colors.png",
+            "public/images/product/LADIES1/49/size.png"
+        ]
+    },
+    {
+        "_id": "UL55",
+        "name": "UL55 BIKINI",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 189,
+        "description": "Combed Cotton Elastane Stretch fabric\n* UltraSoft elastic waistband",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "SKY BLUE MEL.",
+            "PASSION RED MEL.",
+            "HIBISCUS",
+            "BLUE DEPTH"
+        ],
+        "images": [
+            "public/images/product/LADIES1/50/product.png",
+            "public/images/product/LADIES1/50/colors.png",
+            "public/images/product/LADIES1/50/size.png"
+        ]
+    },
+    {
+        "_id": "UL56",
+        "name": "UL56 GIRLSHORT",
+        "brand": "Jockey",
+        "category": 210,
+        "price": 199,
+        "description": "Combed Cotton Elastane Stretch fabric\n* UltraSoft elastic waistband",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "SKY BLUE MEL.",
+            "PASSION RED MEL.",
+            "HIBISCUS",
+            "BLUE DEPTH"
+        ],
+        "images": [
+            "public/images/product/LADIES1/51/product.png",
+            "public/images/product/LADIES1/51/colors.png",
+            "public/images/product/LADIES1/51/size.png"
+        ]
+    },
+    {
+        "_id": "6705",
+        "name": "6705 CAMISOLE",
+        "brand": "Jockey",
+        "category": 211,
+        "price": 1049,
+        "description": "Seamless shaping technology provides\nall-day comfort and contouring",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "SKIN"
+        ],
+        "images": [
+            "public/images/product/LADIES1/53/product.png",
+            "public/images/product/LADIES1/53/colors.png",
+            "public/images/product/LADIES1/53/size.png"
+        ]
+    },
+    {
+        "_id": "6706",
+        "name": "6706 TANK",
+        "brand": "Jockey",
+        "category": 211,
+        "price": 1199,
+        "description": "Seamless shaping technology provides\nall-day comfort and contouring",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "SKIN"
+        ],
+        "images": [
+            "public/images/product/LADIES1/54/product.png",
+            "public/images/product/LADIES1/54/colors.png",
+            "public/images/product/LADIES1/54/size.png"
+        ]
+    },
+    {
+        "_id": "6707",
+        "name": "6707 OPEN-BUST SLIP",
+        "brand": "Jockey",
+        "category": 211,
+        "price": 1299,
+        "description": "\u00bbss shaping technology provides all-day\ncomfort and contouring",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "SKIN"
+        ],
+        "images": [
+            "public/images/product/LADIES1/55/product.png",
+            "public/images/product/LADIES1/55/colors.png",
+            "public/images/product/LADIES1/55/size.png"
+        ]
+    },
+    {
+        "_id": "6702",
+        "name": "6702 BIKINI",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 899,
+        "description": "Seamless shaping technology provides\nall-day comfort and contouring",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "SKIN"
+        ],
+        "images": [
+            "public/images/product/LADIES1/56/product.png",
+            "public/images/product/LADIES1/56/colors.png",
+            "public/images/product/LADIES1/56/size.png"
+        ]
+    },
+    {
+        "_id": "6703",
+        "name": "6703 SHORTS",
+        "brand": "Jockey",
+        "category": 210,
+        "price": 999,
+        "description": "Seamless shaping technology provides\nall-day comfort and contouring",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "SKIN",
+            "LILAS"
+        ],
+        "images": [
+            "public/images/product/LADIES1/57/product.png",
+            "public/images/product/LADIES1/57/colors.png",
+            "public/images/product/LADIES1/57/size.png"
+        ]
+    },
+    {
+        "_id": "6704",
+        "name": "6704 HIGH-WAIST BIKINI",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 999,
+        "description": "Seamless shaping technology provides\nall-day comfort and contouring",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "SKIN",
+            "LILAS"
+        ],
+        "images": [
+            "public/images/product/LADIES1/58/product.png",
+            "public/images/product/LADIES1/58/colors.png",
+            "public/images/product/LADIES1/58/size.png"
+        ]
+    },
+    {
+        "_id": "6708",
+        "name": "6708 HIGH-WAIST BIKINI",
+        "brand": "Jockey",
+        "category": 207,
+        "price": 1049,
+        "description": "Seamless shaping technology provides\nall-day comfort and contouring",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "SKIN"
+        ],
+        "images": [
+            "public/images/product/LADIES1/59/product.png",
+            "public/images/product/LADIES1/59/colors.png",
+            "public/images/product/LADIES1/59/size.png"
+        ]
+    }
+]

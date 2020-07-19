@@ -1,0 +1,23 @@
+{
+    "_id": "6708",
+    "name": "6708 HIGH-WAIST BIKINI",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "Seamless shaping technology provides\nall-day comfort and contouring",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "SKIN"
+    ],
+    "images": [
+        "public/images/product/LADIES1/59/product.png",
+        "public/images/product/LADIES1/59/colors.png",
+        "public/images/product/LADIES1/59/size.png"
+    ]
+}

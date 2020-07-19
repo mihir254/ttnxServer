@@ -1,0 +1,24 @@
+{
+    "_id": "1381",
+    "name": "1381 ACTIVE BRAZ",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Elastane Stretch fabric\n* Racer back Styling\n* Soft moulded seamless cups\n* Soft bottom band elastic\n\u00a2 Label free for all day comfort",
+    "size": [],
+    "colors": [
+        "WHITE",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "RUBY",
+        "BLACK",
+        "SKIN",
+        "PURPLE",
+        "GLORY"
+    ],
+    "images": [
+        "public/images/product/BRA/15/product.png",
+        "public/images/product/BRA/15/colors.png"
+    ]
+}

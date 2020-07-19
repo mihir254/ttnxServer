@@ -1,0 +1,28 @@
+{
+    "_id": "1250",
+    "name": "1250 SHAPER BRA",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "*\u00ab Super Combed Cotton Elastane stretch fabric\n* Contured shaper panel for added support\n\u00a2 Soft and smooth adjustable straps\n+ Wire free comfort\n\u00a2 Label free for all day comfort",
+    "size": [],
+    "colors": [
+        "WHITE",
+        "RED",
+        "LOVE",
+        "VINTAGE",
+        "BLACK",
+        "SKIN",
+        "BORDEAUX",
+        "CANDY",
+        "PINK",
+        "BLUSH",
+        "PINK",
+        "ESTATE",
+        "BLUE"
+    ],
+    "images": [
+        "public/images/product/BRA/21/product.png",
+        "public/images/product/BRA/21/colors.png"
+    ]
+}
