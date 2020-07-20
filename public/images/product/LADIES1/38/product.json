@@ -1,0 +1,28 @@
+{
+    "_id": "1806",
+    "name": "1806 BIKINI",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 Ultra Soft Modal Stretch fabric\nnooth and flat elastic grip and comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "PEACH",
+        "BLOSSOM",
+        "RUBY",
+        "PINK",
+        "WINE",
+        "NAVY",
+        "BLAZER"
+    ],
+    "images": [
+        "public/images/product/LADIES1/38/product.png",
+        "public/images/product/LADIES1/38/colors.png",
+        "public/images/product/LADIES1/38/size.png"
+    ]
+}

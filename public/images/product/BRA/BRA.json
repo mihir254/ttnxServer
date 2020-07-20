@@ -1,0 +1,1318 @@
+[
+    {
+        "_id": "1376",
+        "name": "1376 ACTIVE BRA",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n\u00a2 Racer back styling\n* Soft bottom band elastic\n* Soft and light padding\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "WHITE",
+            "LT. GREY MEL.",
+            "NAVY BLAZER",
+            "BLACK",
+            "SKIN",
+            "PURPLE GLORY",
+            "RUBY"
+        ],
+        "images": [
+            "public/images/product/BRA/10/product.png",
+            "public/images/product/BRA/10/colors.png"
+        ]
+    },
+    {
+        "_id": "1376P",
+        "name": "1376P ACTIVE BRA",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n* Slip-on bra with soft moulded seamless cups\n* Modern styling with wider straps\n* Double layered cups & soft elastic band elastic\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "BLACK",
+            "IMPERIAL BLUE",
+            "TEAL"
+        ],
+        "images": [
+            "public/images/product/BRA/11/product.png",
+            "public/images/product/BRA/11/colors.png"
+        ]
+    },
+    {
+        "_id": "1378",
+        "name": "1378 ACTIVE BRA",
+        "brand": "Jockey",
+        "category": 205,
+        "price": 0,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n* Soft moulded seamless cups\n* Soft bottom band elastic\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL" 
+        ],
+        "colors": [
+            "WHITE",
+            "LT. GREY MEL.",
+            "DESERT FLOWER MEL.",
+            "BLACK",
+            "SKIN",
+            "MEL.",
+            "PURPLE GLORY",
+            "RUBY"
+        ],
+        "images": [
+            "public/images/product/BRA/12/product.png",
+            "public/images/product/BRA/12/colors.png"
+        ]
+    },
+    {
+        "_id": "1380",
+        "name": "1380 ACTIVE BRA",
+        "brand": "Jockey",
+        "category": 205,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Elastane stretch fabric\n\u00a2 Racer back styling\n* Double layered front panel with removable foam pads\n* Soft bottom band elastic\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "TEAL",
+            "LT. GREY MEL.",
+            "DESERT FLOWER",
+            "PURPLE GLORY" ,
+            "RUBY"
+        ],
+        "images": [
+            "public/images/product/BRA/13/product.png",
+            "public/images/product/BRA/13/colors.png"
+        ]
+    },
+    {
+        "_id": "1380P",
+        "name": "1380P ACTIVE BRA",
+        "brand": "Jockey",
+        "category": 205,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Elastane stretch fabric\n\u00a2 Racer back styling with wider armholes\n* Double layered front panel with removable foam pads\n* Soft bottom band elastic\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "IMPERIAL BLUE",
+            "BLACK",
+            "RUBY"
+        ],
+        "images": [
+            "public/images/product/BRA/14/product.png",
+            "public/images/product/BRA/14/colors.png"
+        ]
+    },
+    {
+        "_id": "1381",
+        "name": "1381 ACTIVE BRAZ",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n* Racer back Styling\n* Soft moulded seamless cups\n* Soft bottom band elastic\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "WHITE",
+            "LT. GREY MEL.",
+            "RUBY",
+            "BLACK",
+            "SKIN",
+            "PURPLE GLORY"
+        ],
+        "images": [
+            "public/images/product/BRA/15/product.png",
+            "public/images/product/BRA/15/colors.png"
+        ]
+    },
+    {
+        "_id": "1381P",
+        "name": "1381P ACTIVE BRA",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n* Racer back with soft moulded seamless cups\n\u00a2 double layered cups & soft bottom band elastic\n\u00a2 Label free for all day comfort\n\u00a2 Authentic Jockey\u00ae branding with reflective swirl",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "IMPERIAL BLUE",
+            "IMPERIAL BLUE",
+            "RUBY",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/BRA/16/product.png",
+            "public/images/product/BRA/16/colors.png"
+        ]
+    },
+    {
+        "_id": "1382P",
+        "name": "1382P ACTIVE BRA",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "* Super combed cotton elastane stretch fabric\n\u00ab Authentic Jockey swirl logo\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "BLACK",
+            "IMPERIAL BLUE",
+            "TEAL"
+        ],
+        "images": [
+            "public/images/product/BRA/17/product.png",
+            "public/images/product/BRA/17/colors.png"
+        ]
+    },
+    {
+        "_id": "1385P",
+        "name": "1385P ACTIVE BRA",
+        "brand": "Jockey",
+        "category": 205,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Elastane stretch fabric\n\u00a2 Racer back with light & soft foam padding\n* Modern styling with wider armholes and soft bottom band elastic\n* Soft cushioned hook, eye & wide straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "IMPERIAL BLUE",
+            "IMPERIAL BLUE",
+            "RUBY",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/BRA/18/product.png",
+            "public/images/product/BRA/18/colors.png"
+        ]
+    },
+    {
+        "_id": "1242",
+        "name": "1242 CROSS OVER BRA",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n\u00a2 Soft and smooth adjustable straps\n+ Wire free comfort\n\u00a2 Label free for all day comfort",
+        "size": [
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B",
+            "38C",
+            "40B"
+        ],
+        "colors": [
+            "WHITE",
+            "RED LOVE",
+            "BLUSH PINK",
+            "BLACK",
+            "SKIN",
+            "ESTATE BLUE",
+            "CANDY PINK",
+            "VINTAGE BORDEAUX"
+        ],
+        "images": [
+            "public/images/product/BRA/20/product.png",
+            "public/images/product/BRA/20/colors.png"
+        ]
+    },
+    {
+        "_id": "1250",
+        "name": "1250 SHAPER BRA",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Elastane stretch fabric\n* Contured shaper panel for added support\n\u00a2 Soft and smooth adjustable straps\n+ Wire free comfort\n\u00a2 Label free for all day comfort",
+        "size": [
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "34D",
+            "36B",
+            "36C",
+            "38B",
+            "38C",
+            "38D"
+        ],
+        "colors": [
+            "WHITE",
+            "RED LOVE",
+            "VINTAGE BORDEAUX",
+            "BLACK",
+            "CANDY PINK",
+            "BLUSH PINK",
+            "ESTATE BLUE"
+        ],
+        "images": [
+            "public/images/product/BRA/21/product.png",
+            "public/images/product/BRA/21/colors.png"
+        ]
+    },
+    {
+        "_id": "1581",
+        "name": "1581 BEGINNER'S BRA",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Elastane stretch fabric\n* Soft and smooth bottom band\n\u00a2 Soft and smooth adjustable straps\n+ Wire free comfort\n\u00a2 Label free for all day comfort",
+        "size": [
+            "30B",
+            "32B",
+            "34B"
+        ],
+        "colors": [
+            "WHITE",
+            "RED LOVE",
+            "BLUSH PINK",
+            "BLACK",
+            "SKIN",
+            "CANDY PINK"
+        ],
+        "images": [
+            "public/images/product/BRA/22/product.png",
+            "public/images/product/BRA/22/colors.png"
+        ]
+    },
+    {
+        "_id": "1615",
+        "name": "1615 SLIM FIT BRA",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Elastane stretch fabric\n\u00a2 Soft and smooth adjustable straps\n+ Wire free comfort\n\u00a2 Label free for all day comfort",
+        "size": [
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B",
+            "38C",
+            "40B"
+        ],
+        "colors": [
+            "WHITE",
+            "RED LOVE",
+            "BLUSH PINK",
+            "BLACK",
+            "SKIN",
+            "ESTATE BLUE",
+            "CANDY PINK",
+            "VINTAGE BORDEAUX"
+        ],
+        "images": [
+            "public/images/product/BRA/23/product.png",
+            "public/images/product/BRA/23/colors.png"
+        ]
+    },
+    {
+        "_id": "1721",
+        "name": "1721 CROSS OVER BRA",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "* Super combed cotton lycra stretch fabric.\n* Soft and delicate lace for added feminity\n\u00a2 Soft and smooth adjustable straps\n* Soft padded moulded cup\n\u00a2 Label free for all day comfort",
+        "size": [
+            "30B",
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B"
+        ],
+        "colors": [
+            "WHITE",
+            "RED LOVE",
+            "BLUSH PINK",
+            "BLACK",
+            "SKIN",
+            "CANDY PINK"
+        ],
+        "images": [
+            "public/images/product/BRA/24/product.png",
+            "public/images/product/BRA/24/colors.png"
+        ]
+    },
+    {
+        "_id": "ES04",
+        "name": "ES04 SLEEP BRA",
+        "brand": "Jockey",
+        "category": 205,
+        "price": 0,
+        "description": "* Ultra soft elastic\n*\u00ab Removable pads for added comfort and modesty\n\u00a2 Label free for all day comfort",
+        "size": [
+            "30B",
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B"
+        ],
+        "colors": [
+            "WHITE",
+            "CANDY PINK",
+            "SKIN",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/BRA/25/product.png",
+            "public/images/product/BRA/25/colors.png"
+        ]
+    },
+    {
+        "_id": "ES13X",
+        "name": "ES13X FIRM SUPPORT BRA",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "Combed Cotton combined with Cotton Elastane Stretch fabric\nSuper soft stretch back panel for added comfort\nSoft and smooth adjustable straps\nLabel free for all day comfort",
+        "size": [
+            "34D",
+            "34DD",
+            "36D",
+            "36DD",
+            "38D",
+            "38DD",
+            "40B",
+            "40C",
+            "40D",
+            "40DD",
+            "42B",
+            "42C",
+            "42D"
+        ],
+        "colors": [
+            "WHITE",
+            "CANDY PINK",
+            "BLUSH PINK",
+            "BLACK",
+            "SKIN"
+        ],
+        "images": [
+            "public/images/product/BRA/26/product.png",
+            "public/images/product/BRA/26/colors.png"
+        ]
+    },
+    {
+        "_id": "ES14X",
+        "name": "ES14X FRAMED CUP BRA",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "* Combed Cotton combined with Cotton Elastane Stretch fabric\n\u00a2 Super soft stretch back panel for added comfort\n* Elegent lace detail for added feminity\n\u00a2 Soft and smooth adjustable straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "34D",
+            "34DD",
+            "36D",
+            "36DD",
+            "38D",
+            "38DD",
+            "40B",
+            "40C",
+            "40D",
+            "40DD",
+            "42B",
+            "42C",
+            "42D"
+        ],
+        "colors": [
+            "WHITE",
+            "CANDY PINK",
+            "BLUSH PINK",
+            "BLACK",
+            "SKIN"
+        ],
+        "images": [
+            "public/images/product/BRA/27/product.png",
+            "public/images/product/BRA/27/colors.png"
+        ]
+    },
+    {
+        "_id": "ES19X",
+        "name": "ES19X CROSSOVER",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "* Super combed cotton stretch fabric\n* Cups are reinforced for maximum support and comfort\n\u00a2 Super soft stretch back panel for added comfort\n\u00a2 Soft and smooth adjustable straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "34D",
+            "34DD",
+            "36D",
+            "36DD",
+            "38D",
+            "38DD",
+            "40B",
+            "40C",
+            "40D",
+            "40DD",
+            "42B",
+            "42C",
+            "42D"
+        ],
+        "colors": [
+            "WHITE",
+            "CANDY PINK",
+            "BLUSH PINK",
+            "BLACK",
+            "SKIN"
+        ],
+        "images": [
+            "public/images/product/BRA/28/product.png",
+            "public/images/product/BRA/28/colors.png"
+        ]
+    },
+    {
+        "_id": "ES07",
+        "name": "ES07 NURSING BRA",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "* 100% Super combed cotton fabric\n* Double layer fabric on cups\n\u00a2 Soft inner layer\n\u00a2 Clasp for easy access while feeding your baby\n\u00a2 Soft and smooth adjustable straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "34D",
+            "34DD",
+            "36D",
+            "36DD",
+            "38D",
+            "38DD",
+            "40B",
+            "40C",
+            "40D",
+            "40DD",
+            "42B",
+            "42C",
+            "42D"
+        ],
+        "colors": [
+            "WHITE",
+            "CANDY PINK",
+            "SKIN"
+        ],
+        "images": [
+            "public/images/product/BRA/29/product.png",
+            "public/images/product/BRA/29/colors.png"
+        ]
+    },
+    {
+        "_id": "1245",
+        "name": "1245 T-SHIRT BRA",
+        "brand": "Jockey",
+        "category": 204,
+        "price": 0,
+        "description": "* Super Combed Cotton Stretch fabric\n\u00a2 Wired for additional support\n* Soft and smooth detachable straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B"
+        ],
+        "colors": [
+            "WHITE",
+            "BEET RED",
+            "PEACH BLOSSOM",
+            "BLACK",
+            "SKIN",
+            "RUBY",
+            "HEATHER ROSE",
+            "DEEP COBALT",
+            "LT. GREY MEL.",
+            "SKIN MEL."
+        ],
+        "images": [
+            "public/images/product/BRA/31/product.png",
+            "public/images/product/BRA/31/colors.png"
+        ]
+    },
+    {
+        "_id": "1245P",
+        "name": "1245P T-SHIRT BRA",
+        "brand": "Jockey",
+        "category": 204,
+        "price": 0,
+        "description": "* Super Combed Cotton Elastane printed Stretch fabric\n\u00a2 Wired for additional support\n* Soft and smooth detachable straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B"
+        ],
+        "colors": [
+            "DEEP COBALT",
+            "HEATHER ROSE",
+            "PEACH BLOSSOM",
+            "BLACK",
+            "RUBY"
+        ],
+        "images": [
+            "public/images/product/BRA/32/product.png",
+            "public/images/product/BRA/32/colors.png"
+        ]
+    },
+    {
+        "_id": "1722",
+        "name": "1722 SHAPER BRA",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Lycra Stretch fabric\n* \u2018Secret Shaper\u2019 panel on the sides of the cup\n+ Wire free comfort\n\u00a2 Soft and smooth adjustable straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "30B",
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B",
+            "38C"
+        ],
+        "colors": [
+            "WHITE",
+            "BEET RED",
+            "PEACH BLOSSOM",
+            "BLACK",
+            "SKIN",
+            "RUBY",
+            "HEATHER ROSE",
+            "DEEP COBALT",
+            "LT. GREY MEL.",
+            "IRIS BLUE",
+            "TEAL"
+        ],
+        "images": [
+            "public/images/product/BRA/33/product.png",
+            "public/images/product/BRA/33/colors.png"
+        ]
+    },
+    {
+        "_id": "1723",
+        "name": "1723 WIREFREE T-SHIRT BRA",
+        "brand": "Jockey",
+        "category": 205,
+        "price": 0,
+        "description": " Super Combed Cotton Elastane stretch fabric\n* Wire free comfort\n\u00a2 Soft and smooth adjustable straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "30B",
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B",
+            "38C"
+        ],
+        "colors": [
+            "WHITE",
+            "BEET RED",
+            "PEACH BLOSSOM",
+            "BLACK",
+            "SKIN",
+            "RUBY",
+            "HEATHER ROSE",
+            "DEEP COBALT",
+            "LT. GREY MEL.",
+            "IRIS BLUE",
+            "TEAL",
+            "SKIN MEL."
+        ],
+        "images": [
+            "public/images/product/BRA/34/product.png",
+            "public/images/product/BRA/34/colors.png"
+        ]
+    },
+    {
+        "_id": "1723P",
+        "name": "1723P WIREFREE T-SHIRT",
+        "brand": "Jockey",
+        "category": 205,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Elastane stretch fabric\n* wire free comfort\n\u00a2 Soft and smooth adjustable straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "30B",
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B"
+        ],
+        "colors": [
+            "DEEP COBALT",
+            "HEATHER ROSE",
+            "PEACH BLOSSOM",
+            "BLACK",
+            "IRIS BLUE"
+        ],
+        "images": [
+            "public/images/product/BRA/35/product.png",
+            "public/images/product/BRA/35/colors.png"
+        ]
+    },
+    {
+        "_id": "SS12",
+        "name": "SS12 CAMI BRA",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "y ey\nTEAL SKIN MEL.\n* Super Combed Cotton Elastane Stretch fabric\n* Double layered cups\n\u00a2 Soft and smooth adjustable straps\n* Wire free comfort\n\u00a2 Label free for all day comfort",
+        "size": [
+            "30B",
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B",
+            "38C"
+        ],
+        "colors": [
+            "WHITE",
+            "BEET RED",
+            "PEACH BLOSSOM",
+            "BLACK",
+            "SKIN",
+            "RUBY",
+            "HEATHER ROSE",
+            "DEEP COBALT",
+            "LT. GREY MEL.",
+            "IRIS BLUE",
+            "TEAL",
+            "SKIN MEL."
+        ],
+        "images": [
+            "public/images/product/BRA/36/product.png",
+            "public/images/product/BRA/36/colors.png"
+        ]
+    },
+    {
+        "_id": "3101",
+        "name": "3101 PLUNGE BRA",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n+ Wire free comfort\n\u00a2 Soft and smooth adjustable straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "30B",
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "SKIN",
+            "IRIS BLUE",
+            "BLACK",
+            "RUBY",
+            "LT. GREY MEL."
+        ],
+        "images": [
+            "public/images/product/BRA/37/product.png",
+            "public/images/product/BRA/37/colors.png"
+        ]
+    },
+    {
+        "_id": "FE34",
+        "name": "FE34 T-SHIRT BRA",
+        "brand": "Jockey",
+        "category": 205,
+        "price": 0,
+        "description": "* Super combed cotton lycra stretch fabric.\n* Soft and delicate lace for added feminity\n\u00a2 Soft and smooth adjustable straps\n* Soft padded moulded cup\n\u00a2 Label free for all day comfort",
+        "size": [
+            "30B",
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B",
+            "38C"
+        ],
+        "colors": [
+            "LAVENDER SCENT",
+            "PEACH BLOSSOM",
+            "BLACK",
+            "SKIN"
+        ],
+        "images": [
+            "public/images/product/BRA/38/product.png",
+            "public/images/product/BRA/38/colors.png"
+        ]
+    },
+    {
+        "_id": "FE35",
+        "name": "FE35 T-SHIRT BRA",
+        "brand": "Jockey",
+        "category": 205,
+        "price": 0,
+        "description": "* Super combed cotton lycra stretch fabric.\n\u00a2 Wide fabric strap in front for added support.\n\u00a2 Soft and smooth adjustable straps\n* Soft padded moulded cup\n\u00a2 Label free for all day comfort",
+        "size": [
+            "32B",
+            "32C",
+            "32D",
+            "34B",
+            "34C",
+            "34D",
+            "36B",
+            "36C",
+            "36D",
+            "38B",
+            "38C",
+            "38D",
+            "40B"
+        ],
+        "colors": [
+            "LAVENDER SCENT",
+            "PEACH BLOSSOM",
+            "BLACK",
+            "SKIN"
+        ],
+        "images": [
+            "public/images/product/BRA/39/product.png",
+            "public/images/product/BRA/39/colors.png"
+        ]
+    },
+    {
+        "_id": "FE40",
+        "name": "FE40 FULL COVERAGE BRA",
+        "brand": "Jockey",
+        "category": 205,
+        "price": 0,
+        "description": "* Super combed cotton lycra stretch fabric\n* Cross over style for added support\n\u00a2 Soft and smooth adjustable straps\n* Soft padded moulded cup\n\u00a2 Label free for all day comfort",
+        "size": [
+            "30B",
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B"
+        ],
+        "colors": [
+            "LAVENDER SCENT",
+            "PEACH BLOSSOM",
+            "BLACK",
+            "SKIN"
+        ],
+        "images": [
+            "public/images/product/BRA/40/product.png",
+            "public/images/product/BRA/40/colors.png"
+        ]
+    },
+    {
+        "_id": "FE23",
+        "name": "FE23 MEDIUM COVERAGE BRA",
+        "brand": "Jockey",
+        "category": 205,
+        "price": 0,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n* Padded cups give a smooth look under all clothing\n\u00a2 Wire free medium coverage bra\n* Soft and smooth detachable straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "30B",
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B"
+        ],
+        "colors": [
+            "WHITE",
+            "LT. GREY MEL.",
+            "BLACK",
+            "SKIN"
+        ],
+        "images": [
+            "public/images/product/BRA/41/product.png",
+            "public/images/product/BRA/41/colors.png"
+        ]
+    },
+    {
+        "_id": "FE25",
+        "name": "FE25 T-SHIRT BRA",
+        "brand": "Jockey",
+        "category": 205,
+        "price": 0,
+        "description": "* Super combed cotton lycra stretch fabric\n\u00a2 Full Coverage padded cup\n\u00a2 Soft and smooth adjustable straps\n\u00a2 Multiway strap options\n* Delicate lace trim on the cup\n\u00a2 Label free for all day comfort",
+        "size": [
+            "30B",
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B",
+            "38C"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "SKIN",
+            "LT. GREY MEL",
+            "DEEP COBALT",
+            "HEATHER ROSE",
+            "BEET RED"
+        ],
+        "images": [
+            "public/images/product/BRA/42/product.png",
+            "public/images/product/BRA/42/colors.png"
+        ]
+    },
+    {
+        "_id": "FE38",
+        "name": "FE38 T-SHIRT BRA",
+        "brand": "Jockey",
+        "category": 204,
+        "price": 0,
+        "description": "*\u00ab Super Combed Cotton Lycra Stretch fabric\n\u00a2 Full Coverage cup, for added support and shape\n\u00a2 Soft and smooth adjustable straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "32B",
+            "32C",
+            "32D",
+            "34B",
+            "34C",
+            "34D",
+            "36B",
+            "36C",
+            "38B",
+            "38C",
+            "40B"
+        ],
+        "colors": [
+            "SKIN",
+            "BLACK",
+            "LAVENDER SCENT",
+            "PEACH BLOSSOM"
+        ],
+        "images": [
+            "public/images/product/BRA/43/product.png",
+            "public/images/product/BRA/43/colors.png"
+        ]
+    },
+    {
+        "_id": "FE41",
+        "name": "FE41 MOULDED CUP FIRM SUPPORT BRA",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "* Super combed cotton lycra stretch fabric\n* Moulded fabric cups\n\u00a2 Wide front fabric strap for more support\n\u00a2 Soft and smooth adjustable straps\n* High coverage on centre front\n\u00a2 Label free for all day comfort",
+        "size": [
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "34D",
+            "36B",
+            "36C",
+            "36D",
+            "38B",
+            "38C",
+            "38D"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "SKIN",
+            "LT. GREY MEL.",
+            "DEEP COBALT",
+            "HEATHER ROSE",
+            "BEET RED",
+            "PEACH BLOSSOM",
+            "SKIN MEL.",
+            "RUBY"
+        ],
+        "images": [
+            "public/images/product/BRA/44/product.png",
+            "public/images/product/BRA/44/colors.png"
+        ]
+    },
+    {
+        "_id": "FE43",
+        "name": "FE43 T-SHIRT BRA",
+        "brand": "Jockey",
+        "category": 204,
+        "price": 0,
+        "description": "\u00a2 Spacer cup for breathability and no show of apex.\n\u00a2 Inner sling for added side support\n* Super soft lace\n\u00a2 Soft and smooth adjustable straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B"
+        ],
+        "colors": [
+            "WHITE",
+            "BLACK",
+            "SKIN"
+        ],
+        "images": [
+            "public/images/product/BRA/45/product.png",
+            "public/images/product/BRA/45/colors.png"
+        ]
+    },
+    {
+        "_id": "UL50",
+        "name": "UL50 T-SHIRT BRA",
+        "brand": "Jockey",
+        "category": 204,
+        "price": 0,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n\u00a2 Wired for additional support\n* Soft and smooth detachable straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B"
+        ],
+        "colors": [
+            "BLUE MEL.",
+            "CREAM MEL.",
+            "RED MEL.",
+            "HIBISCUS RED"
+        ],
+        "images": [
+            "public/images/product/BRA/47/product.png",
+            "public/images/product/BRA/47/colors.png"
+        ]
+    },
+    {
+        "_id": "UL51",
+        "name": "UL51 NON-WIRED T-SHIRT BRA",
+        "brand": "Jockey",
+        "category": 205,
+        "price": 0,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n* Soft and smooth detachable straps\n\u00a2 Label free for all day comfort\n+ Wired free comfort",
+        "size": [
+            "30B",
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B"
+        ],
+        "colors": [
+            "BLUE MEL.",
+            "CREAM MEL.",
+            "RED MEL.",
+            "HIBISCUS RED"
+        ],
+        "images": [
+            "public/images/product/BRA/48/product.png",
+            "public/images/product/BRA/48/colors.png"
+        ]
+    },
+    {
+        "_id": "UL54",
+        "name": "UL54 SHAPER BRA",
+        "brand": "Jockey",
+        "category": 203,
+        "price": 0,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n* \u2018Secret Shaper\u2019 panel on the sides of the cup\n+ Wirefree comfort\n* Soft and smooth detachable straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "30B",
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B"
+        ],
+        "colors": [
+            "BLUE MEL.",
+            "CREAM MEL.",
+            "PASSION RED MEL.",
+            "HIBISCUS RED"
+        ],
+        "images": [
+            "public/images/product/BRA/49/product.png",
+            "public/images/product/BRA/49/colors.png"
+        ]
+    },
+    {
+        "_id": "1815",
+        "name": "1815 LACE BACK FRONT OPENING BRA",
+        "brand": "Jockey",
+        "category": 204,
+        "price": 0,
+        "description": "* Soft and smooth stretch fabric adds to comfort\n\u00a2 Front open style\n\u00ab Plunge neck\n\u00a2 Interesting lace back\n\u00a2 Label free for all day comfort",
+        "size": [
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B"
+        ],
+        "colors": [
+            "SKIN",
+            "BLACK",
+            "PURPLE COSMOS",
+            "PINK WINE",
+            "NAVY BLAZER"
+        ],
+        "images": [
+            "public/images/product/BRA/51/product.png",
+            "public/images/product/BRA/51/colors.png"
+        ]
+    },
+    {
+        "_id": "1816",
+        "name": "1816 NON-WIRED T-SHIRT BRA",
+        "brand": "Jockey",
+        "category": 205,
+        "price": 0,
+        "description": "* Soft and smooth stretch fabric adds to comfort\n\u00a2 Full Coverage cup\n+ Wire free comfort\n* Delicate lace for added feminity\n* Soft and smooth detachable straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "30B",
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B",
+            "38C"
+        ],
+        "colors": [
+            "SKIN",
+            "BLACK",
+            "PURPLE COSMOS",
+            "PINK WINE",
+            "NAVY BLAZER"
+        ],
+        "images": [
+            "public/images/product/BRA/52/product.png",
+            "public/images/product/BRA/52/colors.png"
+        ]
+    },
+    {
+        "_id": "1817",
+        "name": "1817 WIRED T-SHIRT BRA",
+        "brand": "Jockey",
+        "category": 204,
+        "price": 0,
+        "description": "* Soft and smooth stretch fabric adds to comfort\n\u00a2 Full coverage cup\n* Delicate lace for added feminity\n* Soft and smooth jacquard bottom elastic\n* Soft and smooth detachable straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B",
+            "38C"
+        ],
+        "colors": [
+            "SKIN",
+            "BLACK",
+            "PURPLE COSMOS",
+            "PINK WINE",
+            "NAVY BLAZER"
+        ],
+        "images": [
+            "public/images/product/BRA/53/product.png",
+            "public/images/product/BRA/53/colors.png"
+        ]
+    },
+    {
+        "_id": "1830",
+        "name": "1830 EVERYDAY BRA",
+        "brand": "Jockey",
+        "category": 204,
+        "price": 0,
+        "description": "* Full coverage moulded soft cup bra\n\u00a2 Spacer cup for breathability and no show of apex\n\u00a2 Inner sling for added side support\n* Super soft lace\n\u00a2 Soft and smooth adjustable straps\n\u00a2 Label free for all day comfort",
+        "size": [
+            "32B",
+            "32C",
+            "34B",
+            "34C",
+            "36B",
+            "36C",
+            "38B",
+            "38C"
+        ],
+        "colors": [
+            "SKIN",
+            "BLACK",
+            "PURPLE COSMOS",
+            "PINK WINE",
+            "NAVY BLAZER"
+        ],
+        "images": [
+            "public/images/product/BRA/54/product.png",
+            "public/images/product/BRA/54/colors.png"
+        ]
+    },
+    {
+        "_id": "MIO1P",
+        "name": "MIO1P MEDIUM IMPACT BRA",
+        "brand": "Jockey",
+        "category": 205,
+        "price": 0,
+        "description": "* Perfect for medium impact workout\n\u00a2 Padded cups for extra support\n* Cross over constructed cups inside for extra support during workout\n* High coverage bra\n* Hook ring for optional cross back",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "SKIN",
+            "PEACH BLOSSOM",
+            "LAVENDER SCENT",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/BRA/56/product.png",
+            "public/images/product/BRA/56/colors.png"
+        ]
+    },
+    {
+        "_id": "MI03",
+        "name": "MI03 MEDIUM IMPACT BRA",
+        "brand": "Jockey",
+        "category": 205,
+        "price": 0,
+        "description": "* Perfect for medium impact workout\n*\u00ab Removeable padded cups for modesty\n\u00a2 Stylish Racer back design\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "WINE TASTING",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/BRA/57/product.png",
+            "public/images/product/BRA/57/colors.png"
+        ]
+    },
+    {
+        "_id": "MI02P",
+        "name": "MI02P MEDIUM IMPACT BRA",
+        "brand": "Jockey",
+        "category": 205,
+        "price": 0,
+        "description": "* Super combed cotton lycra stretch fabric.\n* Soft and delicate lace for added feminity\n\u00a2 Soft and smooth adjustable straps\n* Soft padded moulded cup\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "SKIN",
+            "PEACH BLOSSOM",
+            "LAVENDER SCENT",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/BRA/58/product.png",
+            "public/images/product/BRA/58/colors.png"
+        ]
+    },
+    {
+        "_id": "MI04",
+        "name": "MI04 MEDIUM IMPACT BRA",
+        "brand": "Jockey",
+        "category": 205,
+        "price": 0,
+        "description": "*Perfect for medium impact workout\n* Padded cups for modesty\n*Cross over adjustable straps inside for extra support during workout\n* Hook ring for optional cross back\n*Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "WINE TASTING",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/BRA/59/product.png",
+            "public/images/product/BRA/59/colors.png"
+        ]
+    }
+]

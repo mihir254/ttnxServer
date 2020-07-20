@@ -1,0 +1,33 @@
+{
+    "_id": "1636P",
+    "name": "1636P HIPSTER",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Soft waist band elastic",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "This",
+        "product",
+        "is",
+        "sold",
+        "as",
+        "assorted",
+        "and",
+        "the",
+        "prints",
+        "rotate",
+        "every",
+        "season"
+    ],
+    "images": [
+        "public/images/product/LADIES1/18/product.png",
+        "public/images/product/LADIES1/18/colors.png",
+        "public/images/product/LADIES1/18/size.png"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "_id": "RX21",
+    "name": "RX21 T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Ultra-soft Micro Modal Cotton fabric\n* Modern long sleeve tee with high-low styling\n* Side slits for added comfort and ease\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "ECRU",
+        "MEL.",
+        "OLD",
+        "ROSE",
+        "PEACH",
+        "PURPLE",
+        "WINE",
+        "CLASSIC",
+        "NAVY",
+        "BLOSSOM",
+        "BLACK"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/42/product.png",
+        "public/images/product/WOMEN_OUTER/42/colors.png"
+    ]
+}

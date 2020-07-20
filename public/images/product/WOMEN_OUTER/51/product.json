@@ -1,0 +1,30 @@
+{
+    "_id": "UL02",
+    "name": "UL02 CREW-NECK",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Elastane Stretch fabric\n\u00ab Authentic USA Originals\u00ae branding",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "he",
+        "site",
+        "HIBISCUS",
+        "BLACK",
+        "INDIGO",
+        "CRUSH",
+        "CREAM",
+        "MEL.",
+        "RED",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/51/product.png",
+        "public/images/product/WOMEN_OUTER/51/colors.png"
+    ]
+}

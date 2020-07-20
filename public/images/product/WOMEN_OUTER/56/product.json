@@ -1,0 +1,48 @@
+{
+    "_id": "UL15",
+    "name": "UL15 LONG SLEEVE HENLEY",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "CAYENNE",
+        "MEL.",
+        "GOLDEN",
+        "ROD",
+        "CHERRY",
+        "BLACK",
+        "MEL.",
+        "IMPERIAL",
+        "BLUE",
+        "MEL.",
+        "JUBILEE",
+        "MEL.",
+        "MEL.",
+        "*",
+        "Combed",
+        "Cotton",
+        "Rich",
+        "Stretch",
+        "fabric",
+        "*",
+        "Comfort",
+        "fit",
+        "e",
+        "Atithantic",
+        "Inclav\u00ae",
+        "lann",
+        "tah",
+        "lahal"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/56/product.png",
+        "public/images/product/WOMEN_OUTER/56/colors.png"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "_id": "UL04",
+    "name": "UL04 CREW NECK",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Cotton Slub Elastane Stretch fabric\n\u00ab Authentic USA Originals\u00ae branding",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "LT.",
+        "GREY",
+        "MEL.",
+        "PASSION",
+        "RED",
+        "CREAM",
+        "MEL.",
+        "BLACK",
+        "SKY",
+        "BLUE",
+        "MEL.",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/52/product.png",
+        "public/images/product/WOMEN_OUTER/52/colors.png"
+    ]
+}

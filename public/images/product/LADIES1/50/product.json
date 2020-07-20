@@ -1,0 +1,32 @@
+{
+    "_id": "UL55",
+    "name": "UL55 BIKINI",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "Combed Cotton Elastane Stretch fabric\n* UltraSoft elastic waistband",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "YS",
+        "Ww",
+        "SKY",
+        "BLUE",
+        "MELANGE",
+        "PASSION",
+        "RED",
+        "MELANGE",
+        "HIBISCUS",
+        "BLUE",
+        "DEPTH"
+    ],
+    "images": [
+        "public/images/product/LADIES1/50/product.png",
+        "public/images/product/LADIES1/50/colors.png",
+        "public/images/product/LADIES1/50/size.png"
+    ]
+}

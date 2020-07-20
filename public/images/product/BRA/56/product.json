@@ -1,0 +1,21 @@
+{
+    "_id": "MIO1P",
+    "name": "MIO1P MEDIUM",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Perfect for medium impact workout\n\u00a2 Padded cups for extra support\n* Cross over constructed cups inside for extra support during workout\n* High coverage bra\n* Hook ring for optional cross back",
+    "size": [],
+    "colors": [
+        "SKIN",
+        "PEACH",
+        "LAVENDER",
+        "BLACK",
+        "BLOSSOM",
+        "SCENT"
+    ],
+    "images": [
+        "public/images/product/BRA/56/product.png",
+        "public/images/product/BRA/56/colors.png"
+    ]
+}

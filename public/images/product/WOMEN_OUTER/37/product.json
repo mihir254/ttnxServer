@@ -1,0 +1,33 @@
+{
+    "_id": "IW01",
+    "name": "IW01 T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super combed Supima Cotton Stretch fabric\n\u00a2 Label free for all day comfort\n* Genuine Jockey comfort, \\{t and quality",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "TRUE",
+        "NAVY",
+        "DUBARRY",
+        "PAISLEY",
+        "BANANA",
+        "PINK",
+        "LADY",
+        "PURPLE",
+        "CREAM",
+        "MEL.",
+        "BLUE",
+        "TINT",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/37/product.png",
+        "public/images/product/WOMEN_OUTER/37/colors.png"
+    ]
+}

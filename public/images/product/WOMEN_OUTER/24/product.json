@@ -1,0 +1,34 @@
+{
+    "_id": "AW23",
+    "name": "AW23 SHORTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "*\u00ab Super combed cotton Rich Fabric\n* Convenient side pockets\n\u00a2 Label free for all day comfort\n\u00ab Authentic Jockey\u00ae logo",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "INK",
+        "BLUE",
+        "MEL.",
+        "JESTER",
+        "RED",
+        "BLACK",
+        "CHARCOAL",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "MEL.",
+        "IBIS",
+        "ROSE",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/24/product.png",
+        "public/images/product/WOMEN_OUTER/24/colors.png"
+    ]
+}

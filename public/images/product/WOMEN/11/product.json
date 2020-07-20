@@ -1,0 +1,26 @@
+{
+    "_id": "",
+    "name": "",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "Slim fit to support active lifestyle\nSoft elastic waistband\nLabel free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "Wine",
+        "Tasting",
+        "Poseidon",
+        "Black"
+    ],
+    "images": [
+        "public/images/product/WOMEN/11/product.png",
+        "public/images/product/WOMEN/11/product1.png",
+        "public/images/product/WOMEN/11/product2.png",
+        "public/images/product/WOMEN/11/colors.png"
+    ]
+}

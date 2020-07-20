@@ -1,0 +1,27 @@
+{
+    "_id": "1378",
+    "name": "1378 ACTIVE BRA",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Elastane Stretch fabric\n* Soft moulded seamless cups\n* Soft bottom band elastic\n\u00a2 Label free for all day comfort",
+    "size": [],
+    "colors": [
+        "WHITE",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "DESERT",
+        "FLOWER",
+        "BLACK",
+        "SKIN",
+        "MEL.",
+        "PURPLE",
+        "RUBY",
+        "GLORY"
+    ],
+    "images": [
+        "public/images/product/BRA/12/product.png",
+        "public/images/product/BRA/12/colors.png"
+    ]
+}

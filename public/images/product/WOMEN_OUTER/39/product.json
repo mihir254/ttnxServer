@@ -1,0 +1,30 @@
+{
+    "_id": "RX13",
+    "name": "RX13 3/4TH SLEEVE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Micro Modal\u00ae Super Combed Cotton Stretch fabric\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "LAVENDER",
+        "IRIS",
+        "BLUE",
+        "PEACH",
+        "PURPLE",
+        "WINE",
+        "CLASSIC",
+        "NAVY",
+        "SCENT",
+        "BLOSSOM"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/39/product.png",
+        "public/images/product/WOMEN_OUTER/39/colors.png"
+    ]
+}

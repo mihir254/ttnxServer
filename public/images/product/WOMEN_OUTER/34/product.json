@@ -1,0 +1,38 @@
+{
+    "_id": "1301",
+    "name": "1301 LOUNGE PANTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Stretch fabric\n\u00a2 Soft elasticized waistband with flat drawstring\n\u00a2 Label free for all day comfort\n* Authentic Jockey\u00ae logo embroidery",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "IMPERIAL",
+        "WINE",
+        "TASTING",
+        "DEEP",
+        "IRON",
+        "BLACK",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "BLUE",
+        "VINTAGE",
+        "IBIS",
+        "ROSE",
+        "MEL.",
+        "CHARCOAL",
+        "DENIM",
+        "MEL.",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/34/product.png",
+        "public/images/product/WOMEN_OUTER/34/colors.png"
+    ]
+}

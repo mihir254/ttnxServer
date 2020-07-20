@@ -1,0 +1,30 @@
+{
+    "_id": "AW10La",
+    "name": "AW10La V-NECK is",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Cotton Rich fabric\n\u00a2 V neck with self fabric styling\n\u00a2 Authentic Jockey\u201d logo tab label",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "TEAL",
+        "SHANGHAI",
+        "RED",
+        "PURPLE",
+        "GLORY",
+        "PEACH",
+        "IMPERIAL",
+        "BLUE",
+        "BLOSSOM",
+        "BLACK"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/18/product.png",
+        "public/images/product/WOMEN_OUTER/18/colors.png"
+    ]
+}

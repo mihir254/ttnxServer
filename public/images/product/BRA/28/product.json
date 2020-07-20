@@ -1,0 +1,22 @@
+{
+    "_id": "ES19X",
+    "name": "ES19X CROSSOVER",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super combed cotton stretch fabric\n* Cups are reinforced for maximum support and comfort\n\u00a2 Super soft stretch back panel for added comfort\n\u00a2 Soft and smooth adjustable straps\n\u00a2 Label free for all day comfort",
+    "size": [],
+    "colors": [
+        "WHITE",
+        "CANDY",
+        "PINK",
+        "BLUSH",
+        "PINK",
+        "BLACK",
+        "SKIN"
+    ],
+    "images": [
+        "public/images/product/BRA/28/product.png",
+        "public/images/product/BRA/28/colors.png"
+    ]
+}

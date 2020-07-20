@@ -1,0 +1,36 @@
+{
+    "_id": "UL08",
+    "name": "UL08 FULL ZIP",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Stretch Soft Terry fabric\n* Convenient pockets\n\u00ab Authentic USA Originals\u00ae branding",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "MEL.",
+        "PASSION",
+        "RED",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "CREAM",
+        "MEL.",
+        "DENIM",
+        "BLUE",
+        "MEL.",
+        "MEL.",
+        "RUST",
+        "RED",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/58/product.png",
+        "public/images/product/WOMEN_OUTER/58/colors.png"
+    ]
+}

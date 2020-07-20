@@ -1,0 +1,35 @@
+{
+    "_id": "AA01",
+    "name": "AA01 YOGA PANT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Stretch fabric\n\u00a2 Soft elasticized waistband with flat drawstring\n* Side pocket on right side with zip fastening\n* Authentic Jockey\u00ae logo embroidery",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "RUBY",
+        "PINK",
+        "IMPERIAL",
+        "BLUE",
+        "BLACK",
+        "MARL",
+        "WINE",
+        "TASTING",
+        "TEAL",
+        "MARL",
+        "MARL",
+        "PURPLE",
+        "GLORY",
+        "BLACK",
+        "MARL"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/35/product.png",
+        "public/images/product/WOMEN_OUTER/35/colors.png"
+    ]
+}

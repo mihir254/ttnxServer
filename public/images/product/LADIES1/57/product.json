@@ -1,0 +1,20 @@
+{
+    "_id": "6703",
+    "name": "6703 SHORTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "Seamless shaping technology provides\nall-day comfort and contouring",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [],
+    "images": [
+        "public/images/product/LADIES1/57/product.png",
+        "public/images/product/LADIES1/57/colors.png",
+        "public/images/product/LADIES1/57/size.png"
+    ]
+}

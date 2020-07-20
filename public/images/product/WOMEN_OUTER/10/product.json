@@ -1,0 +1,32 @@
+{
+    "_id": "1335",
+    "name": "1335 TANK TOP",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Stretch fabric\n\u00a2 Authentic Jockey\u201d logo tab label",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLUSH",
+        "PINK",
+        "RUBY",
+        "MEDIEVAL",
+        "BLACK",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "BLUE",
+        "MEL.",
+        "BANANA",
+        "CREAM"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/10/product.png",
+        "public/images/product/WOMEN_OUTER/10/colors.png"
+    ]
+}

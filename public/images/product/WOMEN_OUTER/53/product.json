@@ -1,0 +1,35 @@
+{
+    "_id": "UL03",
+    "name": "UL03 SHORT SLEEVE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Elastane Stretch fabric\n\u00ab Authentic USA Originals\u00ae branding",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "SKY",
+        "BLUE",
+        "MEL.",
+        "PASSION",
+        "RED",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "CREAM",
+        "MEL.",
+        "INDIGO",
+        "CRUSH",
+        "MEL.",
+        "BLACK",
+        "HIBISCUS"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/53/product.png",
+        "public/images/product/WOMEN_OUTER/53/colors.png"
+    ]
+}

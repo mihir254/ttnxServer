@@ -1,0 +1,35 @@
+{
+    "_id": "1361",
+    "name": "1361 GRAPHIC",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Stretch fabric\n\u00a2 Ribbed round-neck prevents sagging\n\u00a2 Authentic Jockey\u201d logo tab label",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BANANA",
+        "DUBARRY",
+        "PINK",
+        "LADY",
+        "PAISLEY",
+        "BLUE",
+        "TINT",
+        "CREAM",
+        "MEL.",
+        "PURPLE",
+        "MAL.",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "BLACK"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/13/product.png",
+        "public/images/product/WOMEN_OUTER/13/colors.png"
+    ]
+}

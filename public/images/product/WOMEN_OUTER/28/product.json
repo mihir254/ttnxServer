@@ -1,0 +1,32 @@
+{
+    "_id": "1300P",
+    "name": "1300P SPORTS CAPRI",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Stretch fabric\n\u00a2 Soft elasticized waistband with flat drawstring\n\u00a2 Label free for all day comfort\n* Authentic Jockey\u00ae logo embroidery",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "i",
+        "i",
+        "CHARCOAL",
+        "LT.",
+        "GREY",
+        "IBIS",
+        "ROSE",
+        "WINE",
+        "TASTING",
+        "BLACK",
+        "VINTAGE",
+        "DENIM"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/28/product.png",
+        "public/images/product/WOMEN_OUTER/28/colors.png"
+    ]
+}

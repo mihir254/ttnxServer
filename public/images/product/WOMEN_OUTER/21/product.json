@@ -1,0 +1,37 @@
+{
+    "_id": "AW14",
+    "name": "AW14 T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Viscose Stretch fabric\n\u00a2 Label free for all day comfort\n\u00a2 Authentic Jockey\u201d logo tab label",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "a",
+        "f=",
+        "BLACK",
+        "SNOW",
+        "GREY",
+        "SNOW",
+        "RUBY",
+        "SNOW",
+        "IMPERIAL",
+        "BLUE",
+        "TEAL",
+        "SNOW",
+        "MEL.",
+        "MEL.",
+        "MEL.",
+        "MEL.",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/21/product.png",
+        "public/images/product/WOMEN_OUTER/21/colors.png"
+    ]
+}

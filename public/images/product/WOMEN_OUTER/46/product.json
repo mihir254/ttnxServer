@@ -1,0 +1,26 @@
+{
+    "_id": "RX08",
+    "name": "RX08 CUFFED KNITTED",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Cotton Modal printed fabric\n* Slim fit\n* Elasticated \u2018easy fit\u2019 waistband with drawstring\n\u00ab Authentic Jockey\u00ae embroidered swirl logo\n\u00a2 Suitable for sleep and loungewear",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "PURPLE",
+        "WINE",
+        "DEEP",
+        "IRON",
+        "CLASSIC",
+        "NAVY"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/46/product.png",
+        "public/images/product/WOMEN_OUTER/46/colors.png"
+    ]
+}

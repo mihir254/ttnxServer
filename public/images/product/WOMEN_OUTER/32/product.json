@@ -1,0 +1,36 @@
+{
+    "_id": "AW12",
+    "name": "AW12 CUFFED",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Polycotton Pleated Interlock fabric\n* Slim fit\n* Cuffed hem for added styling\n\u00a2 Label free for all day comfort\n\u00ab Authentic Jockey\u00ae logo",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "IMPERIAL",
+        "BLACK",
+        "SNOW",
+        "GREY",
+        "SNOW",
+        "INK",
+        "BLUE",
+        "MEL.",
+        "WINE",
+        "TASTING",
+        "BLUE",
+        "MEL.",
+        "MEL.",
+        "SNOW",
+        "MEL.",
+        "BEETLE"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/32/product.png",
+        "public/images/product/WOMEN_OUTER/32/colors.png"
+    ]
+}

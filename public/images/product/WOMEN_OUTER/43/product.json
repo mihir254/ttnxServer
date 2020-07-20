@@ -1,0 +1,26 @@
+{
+    "_id": "RX25",
+    "name": "RX25 ",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Micro Modal\u00ae Super Combed Cotton fabric\n\u00abAuthentic Jockey\u00ae logo branding\n*Label free for all day comfort\n*Suitable for sleep and loungewear",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "LT",
+        "GREY",
+        "MEL.",
+        "BLUSH",
+        "INFINITY",
+        "BLUE"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/43/product.png",
+        "public/images/product/WOMEN_OUTER/43/colors.png"
+    ]
+}

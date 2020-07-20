@@ -1,0 +1,32 @@
+{
+    "_id": "1723",
+    "name": "1723 WIREFREE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "TEAL SKIN MEL.\n\u00a2 Super Combed Cotton Elastane stretch fabric\n* Wire free comfort\n\u00a2 Soft and smooth adjustable straps\n\u00a2 Label free for all day comfort",
+    "size": [],
+    "colors": [
+        "WHITE",
+        "BEET",
+        "RED",
+        "PEACH",
+        "BLACK",
+        "SKIN",
+        "BLOSSOM",
+        "RUBY",
+        "HEATHER",
+        "ROSE",
+        "DEEP",
+        "COBALT",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "IRIS",
+        "BLUE"
+    ],
+    "images": [
+        "public/images/product/BRA/34/product.png",
+        "public/images/product/BRA/34/colors.png"
+    ]
+}

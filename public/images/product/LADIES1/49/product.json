@@ -1,0 +1,31 @@
+{
+    "_id": "UL53",
+    "name": "UL53 GIRLSHORT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "Combed Cotton Elastane Stretch fabric\n* UltraSoft elastic waistband",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "14S",
+        "HIBISCUS",
+        "RED",
+        "PASSION",
+        "RED",
+        "MEL.",
+        "BLUE",
+        "MEL.",
+        "CREAM",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/LADIES1/49/product.png",
+        "public/images/product/LADIES1/49/colors.png",
+        "public/images/product/LADIES1/49/size.png"
+    ]
+}

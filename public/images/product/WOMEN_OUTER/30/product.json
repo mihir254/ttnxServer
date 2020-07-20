@@ -1,0 +1,28 @@
+{
+    "_id": "AW02",
+    "name": "AW02 CUFFED",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Pleated Interlock fabric\n* Slim fit\n* Cuffed hem for added styling\n\u00ab Authentic Jockey\u00ae branding",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "IMPERIAL",
+        "BLACK",
+        "SNOW",
+        "GREY",
+        "SNOW",
+        "BLUE",
+        "MEL.",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/30/product.png",
+        "public/images/product/WOMEN_OUTER/30/colors.png"
+    ]
+}

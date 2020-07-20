@@ -1,0 +1,29 @@
+{
+    "_id": "RX16",
+    "name": "RX16 SHORTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* 100% Modal printed woven fabric\n\u00a2 Elasticated \u2018easy fit\u2019 waistband with bow detail\n\u00ab Authentic Jockey\u00ae embroidered swirl logo",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "LAVENDER",
+        "IRIS",
+        "BLUE",
+        "PURPLE",
+        "WINE",
+        "CLASSIC",
+        "NAVY",
+        "SCENT",
+        "BLOSSOM"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/44/product.png",
+        "public/images/product/WOMEN_OUTER/44/colors.png"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "_id": "1807",
+    "name": "1807 HIPSTER",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 Ultra Soft Modal Stretch fabric\nnooth and flat elastic grip and comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "PEACH",
+        "BLOSSOM",
+        "NAVY",
+        "BLAZER",
+        "BLACK",
+        "RUBY",
+        "PINK",
+        "WINE"
+    ],
+    "images": [
+        "public/images/product/LADIES1/41/product.png",
+        "public/images/product/LADIES1/41/colors.png",
+        "public/images/product/LADIES1/41/size.png"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "_id": "RX06",
+    "name": "RX06 PYJAMA PANT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "*\u00ab Super Combed Cotton fabric\n* Convienient side pockets\n\u00a2 Elasticated waistband with drawstring\n\u00ab Authentic Jockey\u00ae embroidered swirl logo",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "CLASSIC",
+        "NAVY",
+        "LAVENDER",
+        "BANANA",
+        "SCENT",
+        "CREAM",
+        "EH",
+        "38",
+        "OLD",
+        "ROSE",
+        "IRIS",
+        "BLUE",
+        "RUBY"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/48/product.png",
+        "public/images/product/WOMEN_OUTER/48/colors.png"
+    ]
+}

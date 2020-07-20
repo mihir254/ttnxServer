@@ -1,0 +1,42 @@
+{
+    "_id": "1359",
+    "name": "1359 V-NECK T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "ERE EEE eS ee\nBANANA BLUSH PINK REDWOOD BEETLE IMPERIAL BLUE\nCREAM\n* Super Combed Cotton Stretch fabric\n\u00a2 Authentic Jockey\u201d logo tab label",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "CYBER",
+        "GRAPE",
+        "TEAL",
+        "MEL.",
+        "BLUE",
+        "TINT",
+        "MEL.",
+        "PINK",
+        "LADY",
+        "MEL",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "MEL.",
+        "BLACK",
+        "RUBY",
+        "JESTER",
+        "RED",
+        "MEDIVAL",
+        "BLUE",
+        "WHITE",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/19/product.png",
+        "public/images/product/WOMEN_OUTER/19/colors.png"
+    ]
+}

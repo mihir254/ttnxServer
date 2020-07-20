@@ -1,0 +1,23 @@
+{
+    "_id": "1817",
+    "name": "1817 WIRED T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Soft and smooth stretch fabric adds to comfort\n\u00a2 Full coverage cup\n* Delicate lace for added feminity\n* Soft and smooth jacquard bottom elastic\n* Soft and smooth detachable straps\n\u00a2 Label free for all day comfort",
+    "size": [],
+    "colors": [
+        "SKIN",
+        "BLACK",
+        "PURPLE",
+        "PINK",
+        "WINE",
+        "NAVY",
+        "BLAZER",
+        "COSMOS"
+    ],
+    "images": [
+        "public/images/product/BRA/53/product.png",
+        "public/images/product/BRA/53/colors.png"
+    ]
+}

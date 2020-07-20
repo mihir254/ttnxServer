@@ -1,0 +1,50 @@
+{
+    "_id": "1523",
+    "name": "1523 HIPSTER",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 Super Combed Cotton fabric\n\u00a2 Soft and smooth waistband",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "ONLY",
+        "2\u2019S",
+        "PACK",
+        "AVAILABLE",
+        "DARK",
+        "SOLID",
+        "ASSORTMENT",
+        ":",
+        "RED",
+        "LOVE",
+        "LIGHT",
+        "SOLID",
+        "ASSORTMENT",
+        ":",
+        "WH",
+        "POPCORN",
+        "CANDY",
+        "PINK",
+        "DARK",
+        "PRINT",
+        "ASSORTMENT",
+        ":",
+        "LIGHT",
+        "PRINTS",
+        "ASSORTI",
+        "PERSIAN",
+        "BLUE",
+        "BLUSH",
+        "PINK"
+    ],
+    "images": [
+        "public/images/product/LADIES1/12/product.png",
+        "public/images/product/LADIES1/12/colors.png",
+        "public/images/product/LADIES1/12/size.png"
+    ]
+}

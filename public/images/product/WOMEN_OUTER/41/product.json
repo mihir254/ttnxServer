@@ -1,0 +1,35 @@
+{
+    "_id": "RX12",
+    "name": "RX12 V-NECK",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Micro Modal\u00ae Super Combed Cotton fabric\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "ECRU",
+        "MEL.",
+        "OLD",
+        "ROSE",
+        "PEACH",
+        "PURPLE",
+        "WINE",
+        "CLASSIC",
+        "NAVY",
+        "BLOSSOM",
+        "BLACK",
+        "LAVENDER",
+        "IRIS",
+        "BLUE",
+        "SCENT"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/41/product.png",
+        "public/images/product/WOMEN_OUTER/41/colors.png"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "_id": "SSO4P",
+    "name": "SSO4P BOY LEG",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "Combed Cotton Elastane Stretch fabric\n\u00a2UltraSoft waistband\n* Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "Shee",
+        "pee",
+        "Posen",
+        "penetra",
+        "foe",
+        "ee",
+        "See",
+        "ey",
+        "See"
+    ],
+    "images": [
+        "public/images/product/LADIES1/32/product.png",
+        "public/images/product/LADIES1/32/colors.png",
+        "public/images/product/LADIES1/32/size.png"
+    ]
+}

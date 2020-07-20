@@ -1,0 +1,34 @@
+{
+    "_id": "1805",
+    "name": "1805 CAMISOLE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Modal Elastane Stretch fabric\n\u00a2 Adjustable straps\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "JA",
+        "a",
+        "m",
+        "WHITE",
+        "BLACK",
+        "SKIN",
+        "PEACH",
+        "BLOSSOM",
+        "us",
+        "PINK",
+        "WINE",
+        "NAVY",
+        "BLAZER"
+    ],
+    "images": [
+        "public/images/product/LADIES1/44/product.png",
+        "public/images/product/LADIES1/44/colors.png",
+        "public/images/product/LADIES1/44/size.png"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "_id": "1323",
+    "name": "1323 CUFFED",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Stretch Terry fabric\n* Slim fit\n* Side pockets\n\u00a2 Ribbed Cuff bottom for better grip and comfort\n\u00ab Authentic Jockey\u00ae logo",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "IMPERIAL",
+        "WINE",
+        "TASTING",
+        "BLACK",
+        "CHARCOAL",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "BLUE",
+        "MEL.",
+        "IBIS",
+        "ROSE",
+        "MEL.",
+        "INK",
+        "BLUE",
+        "MEL.",
+        "BEETLE"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/31/product.png",
+        "public/images/product/WOMEN_OUTER/31/colors.png"
+    ]
+}

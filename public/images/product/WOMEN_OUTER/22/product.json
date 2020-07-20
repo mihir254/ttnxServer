@@ -1,0 +1,30 @@
+{
+    "_id": "AW30",
+    "name": "AW30 HOODIE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Superfine Cotton fabric\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "INK",
+        "BLUE",
+        "MEL.",
+        "BLUSH",
+        "PINK",
+        "CREAM",
+        "MEL.",
+        "WINE",
+        "TASTING"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/22/product.png",
+        "public/images/product/WOMEN_OUTER/22/colors.png"
+    ]
+}

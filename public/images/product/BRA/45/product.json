@@ -1,0 +1,18 @@
+{
+    "_id": "FE43",
+    "name": "FE43 T-SHIRT BRA",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 Spacer cup for breathability and no show of apex.\n\u00a2 Inner sling for added side support\n* Super soft lace\n\u00a2 Soft and smooth adjustable straps\n\u00a2 Label free for all day comfort",
+    "size": [],
+    "colors": [
+        "WHITE",
+        "BLACK",
+        "SKIN"
+    ],
+    "images": [
+        "public/images/product/BRA/45/product.png",
+        "public/images/product/BRA/45/colors.png"
+    ]
+}

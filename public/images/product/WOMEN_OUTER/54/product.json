@@ -1,0 +1,34 @@
+{
+    "_id": "UL09",
+    "name": "UL09 LONG SLEEVE 4",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Elastane Stretch fabric\n\u00ab Authentic USA Originals\u00ae branding",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "SA!",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "PASSION",
+        "RED",
+        "CREAM",
+        "MEL.",
+        "BLACK",
+        "SKY",
+        "BLUE",
+        "M",
+        "MEL.",
+        "HIBISCUS"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/54/product.png",
+        "public/images/product/WOMEN_OUTER/54/colors.png"
+    ]
+}

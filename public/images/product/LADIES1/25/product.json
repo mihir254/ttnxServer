@@ -1,0 +1,28 @@
+{
+    "_id": "3002",
+    "name": "3002 BIKINI",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Satin-touch elastic waistband",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "IRIS",
+        "BLUE",
+        "PEACH",
+        "BLOSSOM",
+        "RUBY",
+        "TEAL"
+    ],
+    "images": [
+        "public/images/product/LADIES1/25/product.png",
+        "public/images/product/LADIES1/25/colors.png",
+        "public/images/product/LADIES1/25/size.png"
+    ]
+}

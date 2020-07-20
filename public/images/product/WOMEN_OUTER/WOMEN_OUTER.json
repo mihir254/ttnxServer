@@ -1,0 +1,1259 @@
+[
+    {
+        "_id": "1335",
+        "name": "1335 TANK TOP",
+        "brand": "Jockey",
+        "category": 211,
+        "price": 349,
+        "description": "* Super Combed Cotton Stretch fabric\n\u00a2 Authentic Jockey\u201d logo tab label",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLUSH PINK",
+            "RUBY",
+            "MEDIEVAL BLACK",
+            "BLACK",
+            "LT. GREY MEL.",
+            "BANANA CREAM"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/10/product.png",
+            "public/images/product/WOMEN_OUTER/10/colors.png"
+        ]
+    },
+    {
+        "_id": "1467",
+        "name": "1467 RACER BACK TANK TOP",
+        "brand": "Jockey",
+        "category": 211,
+        "price": 249,
+        "description": "UR aE\nBANANA CYBER GRAPE\nCREAM MEL.\n*\u00ab Super Combed Cotton fabric\n\u00a2 Racerback styling\n\u00a2 Authentic Jockey\u201d logo tab label",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "IMPERIAL BLUE",
+            "BLACK",
+            "RUBY",
+            "PURPLE GLORY",
+            "LT. GREY MEL.",
+            "TEAL",
+            "CHARCOAL MEL.",
+            "JESTER RED",
+            "BLUSH PINK",
+            "WHITE",
+            "BANANA CREAM",
+            "CYBER GRAPHITE"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/11/product.png",
+            "public/images/product/WOMEN_OUTER/11/colors.png"
+        ]
+    },
+    {
+        "_id": "1515",
+        "name": "1515 CREW NECK T-SHIRT",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 459,
+        "description": "OI EOE ee\nBANANA BLUSH PINK REDWOOD BEETLE IMPERIAL BLUE\nCREAM\n* Super Combed Cotton Stretch fabric\n\u00a2 Authentic Jockey\u201d logo tab label",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "CYBER GRAPHITE",
+            "TEAL",
+            "BLUE",
+            "PINK",
+            "LT. GREY MEL.",
+            "BLACK",
+            "RUBY",
+            "JESTER RED",
+            "MEDIEVAL BLACK",
+            "WHITE",
+            "BANANA CREAM",
+            "BLUSH PINK",
+            "REDWOOD",
+            "BEETLE",
+            "IMPERIAL BLUE"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/12/product.png",
+            "public/images/product/WOMEN_OUTER/12/colors.png"
+        ]
+    },
+    {
+        "_id": "1361",
+        "name": "1361 GRAPHIC T-SHIRT",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 499,
+        "description": "* Super Combed Cotton Stretch fabric\n\u00a2 Ribbed round-neck prevents sagging\n\u00a2 Authentic Jockey\u201d logo tab label",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "BANANA CREAM",
+            "DUBARRY",
+            "PINK LADY",
+            "PAISLEY",
+            "BLUE",
+            "TINT",
+            "CREAM",
+            "MEL.",
+            "PURPLE",
+            "MAL.",
+            "LT.",
+            "GREY",
+            "MEL.",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/13/product.png",
+            "public/images/product/WOMEN_OUTER/13/colors.png"
+        ]
+    },
+    {
+        "_id": "AW27",
+        "name": "AW27 T-SHIRT",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 499,
+        "description": "",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "CAYENNE",
+            "GOLDEN ROD",
+            "CHERRY",
+            "BLACK",
+            "IMPERIAL BLUE"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/14/product.png",
+            "public/images/product/WOMEN_OUTER/14/colors.png"
+        ]
+    },
+    {
+        "_id": "AW15",
+        "name": "AW15 T-SHIRT",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 599,
+        "description": "",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "CAYENNE",
+            "GOLDEN ROD",
+            "CHERRY",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/15/product.png",
+            "public/images/product/WOMEN_OUTER/15/colors.png"
+        ]
+    },
+    {
+        "_id": "AW13",
+        "name": "AW13 T-SHIRT",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 529,
+        "description": "",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "PURPLE WINE",
+            "BANANA CREAM",
+            "TEAL",
+            "LAVENDER SCENT",
+            "CLASSIC NAVY"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/16/product.png",
+            "public/images/product/WOMEN_OUTER/16/colors.png"
+        ]
+    },
+    {
+        "_id": "AW22",
+        "name": "AW22 T-SHIRT",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 289,
+        "description": "",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "OLD CLOUD GREEN",
+            "GOLDEN ROD",
+            "MAUVEWOOD PURPLE",
+            "PEACH BLOSSOM",
+            "CLASSIC NAVY"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/17/product.png",
+            "public/images/product/WOMEN_OUTER/17/colors.png"
+        ]
+    },
+    {
+        "_id": "AW10",
+        "name": "AW10 V-NECK T-SHIRT",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 529,
+        "description": "* Cotton Rich fabric\n\u00a2 V neck with self fabric styling\n\u00a2 Authentic Jockey\u201d logo tab label",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "TEAL",
+            "SHANGHAI RED",
+            "PURPLE GLORY",
+            "PEACH BLOSSOM",
+            "IMPERIAL BLUE",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/18/product.png",
+            "public/images/product/WOMEN_OUTER/18/colors.png"
+        ]
+    },
+    {
+        "_id": "1359",
+        "name": "1359 V-NECK T-SHIRT",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 459,
+        "description": "ERE EEE eS ee\nBANANA BLUSH PINK REDWOOD BEETLE IMPERIAL BLUE\nCREAM\n* Super Combed Cotton Stretch fabric\n\u00a2 Authentic Jockey\u201d logo tab label",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "CYBER GRAPHITE",
+            "TEAL",
+            "BLUE",
+            "PINK LADY",
+            "LT. GREY MEL.",
+            "BLACK",
+            "RUBY",
+            "JESTER RED",
+            "MEDIEVAL BLACK",
+            "WHITE",
+            "BANANA CREAM",
+            "BLUSH PINK",
+            "REDWOOD",
+            "BEETLE",
+            "IMPERIAL BLUE"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/19/product.png",
+            "public/images/product/WOMEN_OUTER/19/colors.png"
+        ]
+    },
+    {
+        "_id": "1360",
+        "name": "1360 STRIPED 3/4TH SLEEVE T-SHIRT",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 649,
+        "description": "* Super Combed Cotton Stretch fabric\n\u00ab Authentic Jockey\u00ae tab label",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "ROUGE RED",
+            "PAISLEY PURPLE",
+            "BANANA CREAM",
+            "JESTER RED",
+            "PARADISE TEAL",
+            "PINK LADY"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/20/product.png",
+            "public/images/product/WOMEN_OUTER/20/colors.png"
+        ]
+    },
+    {
+        "_id": "AW14",
+        "name": "AW14 T-SHIRT",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 799,
+        "description": "* Viscose Stretch fabric\n\u00a2 Label free for all day comfort\n\u00a2 Authentic Jockey\u201d logo tab label",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+           "BLACK SNOW",
+           "GREY SNOW",
+           "RUBY SNOW",
+           "IMPERIAL BLUE",
+           "TEAL SNOW"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/21/product.png",
+            "public/images/product/WOMEN_OUTER/21/colors.png"
+        ]
+    },
+    {
+        "_id": "AW30",
+        "name": "AW30 HOODIE",
+        "brand": "Jockey",
+        "category": 217,
+        "price": 1589,
+        "description": "* Superfine Cotton fabric\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "INK BLUE MEL.",
+            "BLUSH PINK",
+            "CREAM MEL.",
+            "WINE TASTING"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/22/product.png",
+            "public/images/product/WOMEN_OUTER/22/colors.png"
+        ]
+    },
+    {
+        "_id": "1392",
+        "name": "1392 SHORTS",
+        "brand": "Jockey",
+        "category": 218,
+        "price": 699,
+        "description": "*\u00ab Super Combed Cotton Terry fabric\n* Straight fit\n* Soft elasticized waistband\n\u00a2 Label free for all day comfort\n\u00ab Authentic Jockey\u201d brandingl",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "IMPERIAL BLUE/TEAL",
+            "BLACK/RUBY",
+            "CHARCOAL MEL./RUBY",
+            "LT. GREY MEL./CORAL"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/23/product.png",
+            "public/images/product/WOMEN_OUTER/23/colors.png"
+        ]
+    },
+    {
+        "_id": "AW23",
+        "name": "AW23 SHORTS",
+        "brand": "Jockey",
+        "category": 218,
+        "price": 599,
+        "description": "*\u00ab Super combed cotton Rich Fabric\n* Convenient side pockets\n\u00a2 Label free for all day comfort\n\u00ab Authentic Jockey\u00ae logo",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "INK BLUE MEL.",
+            "JESTER RED",
+            "BLACK",
+            "CHARCOAL MEL.",
+            "LT. GREY MEL.",
+            "IBIS ROSE MEL."
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/24/product.png",
+            "public/images/product/WOMEN_OUTER/24/colors.png"
+        ]
+    },
+    {
+        "_id": "1300",
+        "name": "1300 CAPRI",
+        "brand": "Jockey",
+        "category": 219,
+        "price": 669,
+        "description": "* Super Combed Cotton Stretch fabric\n\u00a2 Soft elasticized waistband with flat drawstring\n\u00a2 Label free for all day comfort\n* Authentic Jockey\u00ae logo embroidery",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "IMPERIAL BLUE",
+            "WINE TASTING",
+            "DEEP IRON",
+            "BLACK",
+            "LT. GREY MEL.",
+            "VINTAGE DENIM",
+            "IBIS ROSE MEL.",
+            "CHARCOAL MEL.",
+            "NAVY BLAZER"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/25/product.png",
+            "public/images/product/WOMEN_OUTER/25/colors.png"
+        ]
+    },
+    {
+        "_id": "1390",
+        "name": "1390 CAPRI",
+        "brand": "Jockey",
+        "category": 219,
+        "price": 699,
+        "description": "* Super Combed Cotton Stretch fabric\n\u00a2 Soft elasticized waistband with flat drawstring\n* Curved back yoke and double angled back pockets\n\u00a2 Label free for all day comfort\n\u00ab Authentic Jockey\u201d contrast logo embroidery",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "IMPERIAL BLUE/TEAL",
+            "BLACK/PURPLE GLORY",
+            "BLACK/RUBY",
+            "CHARCOAL MEL./RUBY",
+            "LT. GREY MEL./CORAL"
+
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/26/product.png",
+            "public/images/product/WOMEN_OUTER/26/colors.png"
+        ]
+    },
+    {
+        "_id": "1391",
+        "name": "1391 SPORTS CAPRI",
+        "brand": "Jockey",
+        "category": 219,
+        "price": 799,
+        "description": "* Super Combed Cotton Stretch fabric\n\u00a2 Label free for all day comfort\n\u00ab Authentic Jockey\u201d contrast logo embroidery",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "IMPERIAL BLUE",
+            "BLACK",
+            "RUBY",
+            "PURPLE GLORY",
+            "LT. GREY MEL.",
+            "TEAL"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/27/product.png",
+            "public/images/product/WOMEN_OUTER/27/colors.png"
+        ]
+    },
+    {
+        "_id": "1300P",
+        "name": "1300P SPORTS CAPRI",
+        "brand": "Jockey",
+        "category": 219,
+        "price": 749,
+        "description": "* Super Combed Cotton Stretch fabric\n\u00a2 Soft elasticized waistband with flat drawstring\n\u00a2 Label free for all day comfort\n* Authentic Jockey\u00ae logo embroidery",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "CHARCOAL",
+            "LT. GREY MEL.",
+            "IBIS ROSE MEL.",
+            "WINE TASTING",
+            "BLACK",
+            "VINTAGE DENIM"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/28/product.png",
+            "public/images/product/WOMEN_OUTER/28/colors.png"
+        ]
+    },
+    {
+        "_id": "1391P",
+        "name": "1391P SPORTS CAPRI",
+        "brand": "Jockey",
+        "category": 219,
+        "price": 799,
+        "description": "* Super Combed Cotton Stretch fabric\n\u00a2 Label free for all day comfort\n\u00ab Authentic Jockey\u201d contrast logo embroidery",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK MARL",
+            "IMPERIAL BLUE",
+            "TEAL MARL",
+            "RUBY MARL",
+            "WINE TASTING"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/29/product.png",
+            "public/images/product/WOMEN_OUTER/29/colors.png"
+        ]
+    },
+    {
+        "_id": "AW02",
+        "name": "AW02 CUFFED CAPRI",
+        "brand": "Jockey",
+        "category": 219,
+        "price": 849,
+        "description": "* Pleated Interlock fabric\n* Slim fit\n* Cuffed hem for added styling\n\u00ab Authentic Jockey\u00ae branding",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "IMPERIAL BLUE",
+            "BLACK SNOW",
+            "GREY SNOW"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/30/product.png",
+            "public/images/product/WOMEN_OUTER/30/colors.png"
+        ]
+    },
+    {
+        "_id": "1323",
+        "name": "1323 CUFFED TRACK PANT",
+        "brand": "Jockey",
+        "category": 220,
+        "price": 1049,
+        "description": "* Super Combed Cotton Stretch Terry fabric\n* Slim fit\n* Side pockets\n\u00a2 Ribbed Cuff bottom for better grip and comfort\n\u00ab Authentic Jockey\u00ae logo",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "IMPERIAL BLUE",
+            "WINE TASTING",
+            "BLACK",
+            "CHARCOAL MEL.",
+            "LT. GREY MEL.",
+            "IBIS ROSE MEL.",
+            "INK BLUE MEL.",
+            "BEETLE"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/31/product.png",
+            "public/images/product/WOMEN_OUTER/31/colors.png"
+        ]
+    },
+    {
+        "_id": "AW12",
+        "name": "AW12 CUFFED TRACKS",
+        "brand": "Jockey",
+        "category": 219,
+        "price": 1049,
+        "description": "* Polycotton Pleated Interlock fabric\n* Slim fit\n* Cuffed hem for added styling\n\u00a2 Label free for all day comfort\n\u00ab Authentic Jockey\u00ae logo",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "IMPERIAL BLUE",
+            "BLACK SNOW",
+            "GREY SNOW",
+            "INK BLUE MEL.",
+            "WINE TASTING",
+            "BEETLE"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/32/product.png",
+            "public/images/product/WOMEN_OUTER/32/colors.png"
+        ]
+    },
+    {
+        "_id": "1305",
+        "name": "1305 TRACK PANT",
+        "brand": "Jockey",
+        "category": 219,
+        "price": 799,
+        "description": "* Super Combed Cotton-Rich fabric\n* Side Pockets\n\u00a2 Label free for all day comfort\n\u00ab Authentic Jockey\u201d contrast logo embroidery",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "IMPERIAL BLUE",
+            "ROSE",
+            "BLACK",
+            "CHARCOAL MEL.",
+            "LT. GREY MEL.",
+            "VINTAGE DENIM"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/33/product.png",
+            "public/images/product/WOMEN_OUTER/33/colors.png"
+        ]
+    },
+    {
+        "_id": "1301",
+        "name": "1301 LOUNGE PANTS",
+        "brand": "Jockey",
+        "category": 220,
+        "price": 749,
+        "description": "* Super Combed Cotton Stretch fabric\n\u00a2 Soft elasticized waistband with flat drawstring\n\u00a2 Label free for all day comfort\n* Authentic Jockey\u00ae logo embroidery",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "IMPERIAL BLUE",
+            "WINE TASTING",
+            "DEEP IRON",
+            "BLACK",
+            "LT. GREY MEL.",
+            "VINTAGE DENIM",
+            "IBIS ROSE MEL.",
+            "CHARCOAL MEL."
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/34/product.png",
+            "public/images/product/WOMEN_OUTER/34/colors.png"
+        ]
+    },
+    {
+        "_id": "AA01",
+        "name": "AA01 YOGA PANT",
+        "brand": "Jockey",
+        "category": 220,
+        "price": 899,
+        "description": "* Super Combed Cotton Stretch fabric\n\u00a2 Soft elasticized waistband with flat drawstring\n* Side pocket on right side with zip fastening\n* Authentic Jockey\u00ae logo embroidery",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "RUBY MARL",
+            "IMPERIAL BLUE",
+            "BLACK MARL",
+            "WINE TASTING",
+            "TEAL",
+            "PURPLE GLORY",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/35/product.png",
+            "public/images/product/WOMEN_OUTER/35/colors.png"
+        ]
+    },
+    {
+        "_id": "IW01",
+        "name": "IW01 T-SHIRT",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 699,
+        "description": "* Super combed Supima Cotton Stretch fabric\n\u00a2 Label free for all day comfort\n* Genuine Jockey comfort, \\{t and quality",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "TRUE NAVY",
+            "DUBARRY",
+            "PAISLEY PURPLE",
+            "BANANA CREAM",
+            "PINK LADY",
+            "BLUE TINT"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/37/product.png",
+            "public/images/product/WOMEN_OUTER/37/colors.png"
+        ]
+    },
+    {
+        "_id": "RX13",
+        "name": "RX13 3/4TH SLEEVE T-SHIRT",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 699,
+        "description": "* Micro Modal\u00ae Super Combed Cotton Stretch fabric\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "LAVENDER SCENT",
+            "IRIS BLUE",
+            "PEACH BLOSSOM",
+            "PURPLE WINE",
+            "CLASSIC NAVY"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/39/product.png",
+            "public/images/product/WOMEN_OUTER/39/colors.png"
+        ]
+    },
+    {
+        "_id": "RX10",
+        "name": "RX10 SHORTS",
+        "brand": "Jockey",
+        "category": 218,
+        "price": 599,
+        "description": "",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "PEACH BLOSSOM",
+            "IRIS BLUE",
+            "CLASSIC NAVY",
+            "PURPLE WINE",
+            "LAVENDER SCENT"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/40/product.png",
+            "public/images/product/WOMEN_OUTER/40/colors.png"
+        ]
+    },
+    {
+        "_id": "RX12",
+        "name": "RX12 V-NECK T-SHIRT",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 459,
+        "description": "* Micro Modal\u00ae Super Combed Cotton fabric\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "ECRU MEL.",
+            "OLD ROSE",
+            "PEACH BLOSSOM",
+            "PURPLE WINE",
+            "CLASSIC NAVY",
+            "BLACK",
+            "LAVENDER SCENT",
+            "IRIS BLUE"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/41/product.png",
+            "public/images/product/WOMEN_OUTER/41/colors.png"
+        ]
+    },
+    {
+        "_id": "RX21",
+        "name": "RX21 T-SHIRT",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 599,
+        "description": "* Ultra-soft Micro Modal Cotton fabric\n* Modern long sleeve tee with high-low styling\n* Side slits for added comfort and ease\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "ECRU MEL.",
+            "OLD ROSE",
+            "PEACH BLOSSOM",
+            "PURPLE WINE",
+            "CLASSIC NAVY",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/42/product.png",
+            "public/images/product/WOMEN_OUTER/42/colors.png"
+        ]
+    },
+    {
+        "_id": "RX25",
+        "name": "RX25 SLEEP DRESS",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 799,
+        "description": "* Micro Modal\u00ae Super Combed Cotton fabric\n\u00abAuthentic Jockey\u00ae logo branding\n*Label free for all day comfort\n*Suitable for sleep and loungewear",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "LT. GREY MEL.",
+            "BLUSH",
+            "BLUE"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/43/product.png",
+            "public/images/product/WOMEN_OUTER/43/colors.png"
+        ]
+    },
+    {
+        "_id": "RX16",
+        "name": "RX16 SHORTS",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 499,
+        "description": "* 100% Modal printed woven fabric\n\u00a2 Elasticated \u2018easy fit\u2019 waistband with bow detail\n\u00ab Authentic Jockey\u00ae embroidered swirl logo",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "LAVENDER SCENT",
+            "PEACH BLOSSOM",
+            "IRIS BLUE",
+            "PURPLE WINE",
+            "CLASSIC NAVY"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/44/product.png",
+            "public/images/product/WOMEN_OUTER/44/colors.png"
+        ]
+    },
+    {
+        "_id": "RX15",
+        "name": "RX15 BOXER SHORTS",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 479,
+        "description": "",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "LAVENDER SCENT",
+            "BANANA CREAM",
+            "OLD ROSE",
+            "RUBY",
+            "IRIS BLUE",
+            "CLASSIC NAVY"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/45/product.png",
+            "public/images/product/WOMEN_OUTER/45/colors.png"
+        ]
+    },
+    {
+        "_id": "RX08",
+        "name": "RX08 CUFFED KNITTED CAPRI",
+        "brand": "Jockey",
+        "category": 219,
+        "price": 849,
+        "description": "* Cotton Modal printed fabric\n* Slim fit\n* Elasticated \u2018easy fit\u2019 waistband with drawstring\n\u00ab Authentic Jockey\u00ae embroidered swirl logo\n\u00a2 Suitable for sleep and loungewear",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "PURPLE WINE",
+            "DEEP IRON",
+            "CLASSIC NAVY"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/46/product.png",
+            "public/images/product/WOMEN_OUTER/46/colors.png"
+        ]
+    },
+    {
+        "_id": "RX02",
+        "name": "RX02 PYJAMA PANT",
+        "brand": "Jockey",
+        "category": 220,
+        "price": 899,
+        "description": "* Modal printed fabric\n* Convienient side pockets\n\u00a2 Elasticated waistband with drawstring\n\u00ab Authentic Jockey\u00ae embroidered swirl logo",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "LAVENDER SCENT",
+            "PEACH BLOSSOM",
+            "IRIS BLUE",
+            "PURPLE WINE",
+            "CLASSIC NAVY"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/47/product.png",
+            "public/images/product/WOMEN_OUTER/47/colors.png"
+        ]
+    },
+    {
+        "_id": "RX06",
+        "name": "RX06 PYJAMA PANT",
+        "brand": "Jockey",
+        "category": 220,
+        "price": 849,
+        "description": "*\u00ab Super Combed Cotton fabric\n* Convienient side pockets\n\u00a2 Elasticated waistband with drawstring\n\u00ab Authentic Jockey\u00ae embroidered swirl logo",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "CLASSIC NAVY",
+            "LAVENDER SCENT",
+            "BANANA CREAM",
+            "IRIS BLUE",
+            "RUBY",
+            "OLD ROSE"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/48/product.png",
+            "public/images/product/WOMEN_OUTER/48/colors.png"
+        ]
+    },
+    {
+        "_id": "RX09",
+        "name": "RX09 PYJAMA PANT",
+        "brand": "Jockey",
+        "category": 220,
+        "price": 899,
+        "description": "* Micro Modal\u00ae Super Combed Cotton fabric\n\u00a2 Side pockets with lace\n\u00a2 Elasticated waistband with drawstring\n\u00a2 Label free for all day comfort",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "PEACH BLOSSOM",
+            "IRIS BLUE",
+            "CLASSIC NAVY",
+            "PURPLE WINE",
+            "LAVENDER SCENT",
+            "OLD ROSE",
+            "BLACK"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/49/product.png",
+            "public/images/product/WOMEN_OUTER/49/colors.png"
+        ]
+    },
+    {
+        "_id": "UL02",
+        "name": "UL02 CREW-NECK GRAPHIC T-SHIRT",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 499,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n\u00ab Authentic USA Originals\u00ae branding",
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "WHITE",
+            "HIBISCUS",
+            "BLACK",
+            "INDIGO CRUSH",
+            "CREAM MEL.",
+            "RED MEL."
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/51/product.png",
+            "public/images/product/WOMEN_OUTER/51/colors.png"
+        ]
+    },
+    {
+        "_id": "UL04",
+        "name": "UL04 CREW NECK T-SHIRT",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 449,
+        "description": "* Cotton Slub Elastane Stretch fabric\n\u00ab Authentic USA Originals\u00ae branding",
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "LT. GREY MEL.",
+            "PASSION RED",
+            "CREAM MEL.",
+            "BLACK",
+            "SKY BLUE MEL."
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/52/product.png",
+            "public/images/product/WOMEN_OUTER/52/colors.png"
+        ]
+    },
+    {
+        "_id": "UL03",
+        "name": "UL03 SHORT SLEEVE HENLEY",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 499,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n\u00ab Authentic USA Originals\u00ae branding",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "SKY BLUE MEL.",
+            "PASSION RED",
+            "LT. GREY MEL.",
+            "CREAM MEL.",
+            "INDIGO CRUSH",
+            "BLACK",
+            "HIBISCUS"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/53/product.png",
+            "public/images/product/WOMEN_OUTER/53/colors.png"
+        ]
+    },
+    {
+        "_id": "UL09",
+        "name": "UL09 LONG SLEEVE PRINTED T-SHIRT",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 549,
+        "description": "* Super Combed Cotton Elastane Stretch fabric\n\u00ab Authentic USA Originals\u00ae branding",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "LT. GREY MEL.",
+            "PASSION RED",
+            "CREAM MEL.",
+            "BLACK",
+            "SKY BLUE MEL.",
+            "HIBISCUS"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/54/product.png",
+            "public/images/product/WOMEN_OUTER/54/colors.png"
+        ]
+    },
+    {
+        "_id": "UL10",
+        "name": "UL10 3/4TH SLEEVE POLO",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 799,
+        "description": "* Super Combed Cotton Stretch fabric\n* Slim fit\n\u00a2 USA inspired embroidery on chest",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "HIBISCUS",
+            "INDIGO CRUSH",
+            "LT. GREY MEL."
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/55/product.png",
+            "public/images/product/WOMEN_OUTER/55/colors.png"
+        ]
+    },
+    {
+        "_id": "UL15",
+        "name": "UL15 LONG SLEEVE HENLEY",
+        "brand": "Jockey",
+        "category": 216,
+        "price": 699,
+        "description": "",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "SKY BLUE MEL.",
+            "PASSION RED",
+            "LT. GREY MEL.",
+            "CREAM MEL.",
+            "INDIGO CRUSH",
+            "BLACK",
+            "HIBISCUS"
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/56/product.png",
+            "public/images/product/WOMEN_OUTER/56/colors.png"
+        ]
+    },
+    {
+        "_id": "UL11",
+        "name": "UL11 SWEATSHIRT",
+        "brand": "Jockey",
+        "category": 217,
+        "price": 999,
+        "description": "* Super Combed Cotton Stretch Terry fabric\n\u00ab Authentic USA Originals\u00ae branding",
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "PASSION RED",
+            "LT. GREY MEL.",
+            "CREAM MEL.",
+            "DENIM BLUE",
+            "RUST RED MEL."
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/57/product.png",
+            "public/images/product/WOMEN_OUTER/57/colors.png"
+        ]
+    },
+    {
+        "_id": "UL08",
+        "name": "UL08 FULL ZIP JACKET",
+        "brand": "Jockey",
+        "category": 217,
+        "price": 1499,
+        "description": "* Super Combed Cotton Stretch Soft Terry fabric\n* Convenient pockets\n\u00ab Authentic USA Originals\u00ae branding",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "PASSION RED",
+            "LT. GREY MEL.",
+            "CREAM MEL.",
+            "DENIM BLUE",
+            "RUST RED MEL."
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/58/product.png",
+            "public/images/product/WOMEN_OUTER/58/colors.png"
+        ]
+    },
+    {
+        "_id": "UL07",
+        "name": "UL07 SLIM FIT LONG PANT",
+        "brand": "Jockey",
+        "category": 220,
+        "price": 999,
+        "description": "",
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "colors": [
+            "BLACK",
+            "PASSION RED",
+            "LT. GREY MEL.",
+            "DENIM BLUE",
+            "RUST RED MEL."
+        ],
+        "images": [
+            "public/images/product/WOMEN_OUTER/59/product.png",
+            "public/images/product/WOMEN_OUTER/59/colors.png"
+        ]
+    }
+]

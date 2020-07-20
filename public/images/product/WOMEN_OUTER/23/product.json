@@ -1,0 +1,43 @@
+{
+    "_id": "1392",
+    "name": "1392 SHORTS",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "*\u00ab Super Combed Cotton Terry fabric\n* Straight fit\n* Soft elasticized waistband\n\u00a2 Label free for all day comfort\n\u00ab Authentic Jockey\u201d brandingl",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "|",
+        "|",
+        "Rae",
+        "|",
+        "=",
+        "J",
+        "=",
+        "IMPERIAL",
+        "BLUE",
+        "BLACK",
+        "/",
+        "RUBY",
+        "CHARCOAL",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "/",
+        "/",
+        "TEAL",
+        "MEL.",
+        "/",
+        "RUBY",
+        "CORAL"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/23/product.png",
+        "public/images/product/WOMEN_OUTER/23/colors.png"
+    ]
+}

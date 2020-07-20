@@ -1,0 +1,30 @@
+{
+    "_id": "RX02",
+    "name": "RX02 PYJAMA PANT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Modal printed fabric\n* Convienient side pockets\n\u00a2 Elasticated waistband with drawstring\n\u00ab Authentic Jockey\u00ae embroidered swirl logo",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "LAVENDER",
+        "PEACH",
+        "IRIS",
+        "BLUE",
+        "PURPLE",
+        "WINE",
+        "CLASSIC",
+        "NAVY",
+        "SCENT",
+        "BLOSSOM"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/47/product.png",
+        "public/images/product/WOMEN_OUTER/47/colors.png"
+    ]
+}

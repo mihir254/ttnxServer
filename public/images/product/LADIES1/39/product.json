@@ -1,0 +1,41 @@
+{
+    "_id": "SW02",
+    "name": "SW02 HIPSTER",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 Super Combed Cotton fabric\nancealed waistband for added comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "CHARCOAL",
+        "MEL.",
+        "PURPLE",
+        "POTION",
+        "RUBY",
+        "<",
+        "AMBER",
+        "LIGHT",
+        "LAVENDER",
+        "SCENT",
+        "MEL.",
+        "RED",
+        "LOVE",
+        "TILE",
+        "BLUE",
+        "CLASSIC",
+        "NAVY",
+        "BLUSH",
+        "PINK",
+        "COCKATOO"
+    ],
+    "images": [
+        "public/images/product/LADIES1/39/product.png",
+        "public/images/product/LADIES1/39/colors.png",
+        "public/images/product/LADIES1/39/size.png"
+    ]
+}

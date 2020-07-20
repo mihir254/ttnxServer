@@ -1,0 +1,33 @@
+{
+    "_id": "1360",
+    "name": "1360 STRIPED 3/4TH",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Stretch fabric\n\u00ab Authentic Jockey\u00ae tab label",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "ROUGE",
+        "RED",
+        "PINK",
+        "LADY",
+        "MEL.",
+        "PAISLEY",
+        "PURPLE",
+        "BANANA",
+        "CREAM",
+        "JESTER",
+        "RED",
+        "PARADISE",
+        "TEAL"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/20/product.png",
+        "public/images/product/WOMEN_OUTER/20/colors.png"
+    ]
+}

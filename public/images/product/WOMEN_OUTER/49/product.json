@@ -1,0 +1,34 @@
+{
+    "_id": "RX09",
+    "name": "RX09 ",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Micro Modal\u00ae Super Combed Cotton fabric\n\u00a2 Side pockets with lace\n\u00a2 Elasticated waistband with drawstring\n\u00a2 Label free for all day comfort",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "Ses",
+        "PEACH",
+        "CLASSIC",
+        "NAVY",
+        "PURPLE",
+        "WINE",
+        "LAVENDER",
+        "BLOSSOMS",
+        "SCENT",
+        "EET!",
+        "|",
+        "OLD",
+        "ROSE",
+        "BLACK"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/49/product.png",
+        "public/images/product/WOMEN_OUTER/49/colors.png"
+    ]
+}

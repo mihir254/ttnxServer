@@ -1,0 +1,24 @@
+{
+    "_id": "1723P",
+    "name": "1723P WIREFREE T-SHIRT",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "*\u00ab Super Combed Cotton Elastane stretch fabric\n* wire free comfort\n\u00a2 Soft and smooth adjustable straps\n\u00a2 Label free for all day comfort",
+    "size": [],
+    "colors": [
+        "DEEP",
+        "COBALT",
+        "HEATHER",
+        "ROSE",
+        "PEACH",
+        "BLACK",
+        "BLOSSOM",
+        "IRIS",
+        "BLUE"
+    ],
+    "images": [
+        "public/images/product/BRA/35/product.png",
+        "public/images/product/BRA/35/colors.png"
+    ]
+}

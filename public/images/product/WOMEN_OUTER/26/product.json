@@ -1,0 +1,40 @@
+{
+    "_id": "1390",
+    "name": "1390 CAPRI",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Stretch fabric\n\u00a2 Soft elasticized waistband with flat drawstring\n* Curved back yoke and double angled back pockets\n\u00a2 Label free for all day comfort\n\u00ab Authentic Jockey\u201d contrast logo embroidery",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "IMPERIAL",
+        "BLUE",
+        "BLACK",
+        "/",
+        "BLACK",
+        "/",
+        "RUBY",
+        "CHARCOAL",
+        "LT.",
+        "GREY",
+        "MEL.",
+        "/",
+        "/",
+        "TEAL",
+        "PURPLE",
+        "GLORY",
+        "MEL.",
+        "/",
+        "RUBY",
+        "CORAL"
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/26/product.png",
+        "public/images/product/WOMEN_OUTER/26/colors.png"
+    ]
+}

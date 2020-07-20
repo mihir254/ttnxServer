@@ -1,0 +1,42 @@
+{
+    "_id": "1635",
+    "name": "1635 BIKINI",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "Combed Cotton Elastane Stretch fabric\n\u00a2 Soft waistband",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "RED",
+        "LOVE",
+        "BLUSH",
+        "PINK",
+        "IRIS",
+        "BLUE",
+        "TEAL",
+        "SKI",
+        "y",
+        "NX",
+        "YI",
+        "CANDY",
+        "PINK",
+        "POPCORN",
+        "FRENCH",
+        "LILAC",
+        "ACAI",
+        "RUBY",
+        "PEACH",
+        "BLOSSOM"
+    ],
+    "images": [
+        "public/images/product/LADIES1/15/product.png",
+        "public/images/product/LADIES1/15/colors.png",
+        "public/images/product/LADIES1/15/size.png"
+    ]
+}

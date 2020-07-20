@@ -1,0 +1,40 @@
+{
+    "_id": "1803",
+    "name": "1803 BIKINI",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 Modal Elastane Stretch fabric",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "SI",
+        "WHITE",
+        "PEACH",
+        "BLOSSOM",
+        "S",
+        "q",
+        "IRIS",
+        "BLUE",
+        "BLACK",
+        "RUBY",
+        "NAVY",
+        "BLAZER",
+        "<\\",
+        "SKIN",
+        "LAVENDER",
+        "SCENT",
+        "<|",
+        "PINK",
+        "WINE"
+    ],
+    "images": [
+        "public/images/product/LADIES1/45/product.png",
+        "public/images/product/LADIES1/45/colors.png",
+        "public/images/product/LADIES1/45/size.png"
+    ]
+}

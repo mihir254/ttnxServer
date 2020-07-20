@@ -1,0 +1,46 @@
+{
+    "_id": "1406",
+    "name": "1406 HIPSTER",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "\u00a2 Super Combed Cotton fabric\n\u00a2 Soft inner waistband",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "ONLY",
+        "3\u2019S",
+        "PACK",
+        "AVAILABLE",
+        "LIGHT",
+        "PRINTS",
+        "ASSORTI",
+        "DARK",
+        "SOLID",
+        "ASSORTMENT:",
+        "RUBY",
+        "LIGHT",
+        "SOLID",
+        "ASSORTMENT:",
+        "POPCORN",
+        "CANDY",
+        "PINK",
+        "BEACH",
+        "GLASS",
+        "DARK",
+        "PRINT",
+        "ASSORTMENT:",
+        "LIGHT",
+        "PRINT",
+        "ASSORTMENT:"
+    ],
+    "images": [
+        "public/images/product/LADIES1/8/product.png",
+        "public/images/product/LADIES1/8/colors.png",
+        "public/images/product/LADIES1/8/size.png"
+    ]
+}

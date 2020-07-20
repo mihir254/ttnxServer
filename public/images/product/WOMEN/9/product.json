@@ -1,0 +1,37 @@
+{
+    "_id": "",
+    "name": "",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "Standard fit for a relaxed, easy feel during work outs\nHigh Neck line and curved hem provides comfortable coverage\nThe racer back design allows a natural range of motion.\n100% Polyester fabric",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "FE",
+        "rape",
+        "Black",
+        "Zebra",
+        "Poseidon",
+        "Wine",
+        "Tasting",
+        "Coral",
+        "Bright",
+        "le",
+        "Zebra",
+        "Zebra",
+        "Zebra",
+        "Zebra",
+        "Zest"
+    ],
+    "images": [
+        "public/images/product/WOMEN/9/product.png",
+        "public/images/product/WOMEN/9/product1.png",
+        "public/images/product/WOMEN/9/product2.png",
+        "public/images/product/WOMEN/9/colors.png"
+    ]
+}

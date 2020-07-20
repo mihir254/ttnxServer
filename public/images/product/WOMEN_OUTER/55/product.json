@@ -1,0 +1,27 @@
+{
+    "_id": "UL10",
+    "name": "UL10 3/4\u2122 SLEEVE",
+    "brand": "Jockey",
+    "category": 0,
+    "price": 0,
+    "description": "* Super Combed Cotton Stretch fabric\n* Slim fit\n\u00a2 USA inspired embroidery on chest",
+    "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "BLACK",
+        "HIBISCUS",
+        "INDIGO",
+        "CRUSH",
+        "LT.",
+        "GREY",
+        "MEL."
+    ],
+    "images": [
+        "public/images/product/WOMEN_OUTER/55/product.png",
+        "public/images/product/WOMEN_OUTER/55/colors.png"
+    ]
+}
