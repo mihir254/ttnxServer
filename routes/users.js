@@ -93,11 +93,11 @@ router.post("/verify-email", (req, res, next) => {
 });
 
 router.post("/verify-user", (req, res, next) => {
-  console.log(req.body);
+  //console.log(req.body);
   Verification.findOne({ email: req.body.email, otpToken: req.body.otp })
     .then((verification) => {
       if (verification) {
-        console.log("hi");
+        //console.log("hi");
         res.send({ success: true });
       } else {
         res.send({ success: false });

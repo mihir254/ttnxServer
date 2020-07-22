@@ -121,23 +121,24 @@ router.get("/order/:orderId", (req, res, next) => {
     .catch((err) => next(err));
 });
 
-router.put("/order/:orderId",(req,res,next) => {
-  Order.findByIdAndUpdate(req.params.orderId,
-    { $set : {status : req.body.status}},
-    { safe: true, upsert:true, new:true})
+router.put("/order/:orderId", (req, res, next) => {
+  Order.findByIdAndUpdate(
+    req.params.orderId,
+    { $set: { status: req.body.status } },
+    { safe: true, upsert: true, new: true }
+  )
     .populate("contents.product")
     .then((order) => {
       res.send(order);
     })
     .catch((err) => next(err));
-})
+});
 
-router.delete("/order/:orderId",(req,res,next) => {
-  Order.findByIdAndDelete(req.params.orderId)
-  .then((order)=>{
-    res.send({"success":true})
-  })
-})
+router.delete("/order/:orderId", (req, res, next) => {
+  Order.findByIdAndDelete(req.params.orderId).then((order) => {
+    res.send({ success: true });
+  });
+});
 
 router.post("/cart/placeOrder", (req, res, next) => {
   let conents = [];
@@ -163,28 +164,36 @@ router.post("/cart/placeOrder", (req, res, next) => {
         method: req.body.method,
         transactionid: 123,
       },
-      address:req.user.address,
-      contact:req.user.contact,
-      deliveryCharge : req.user.cartTotal>1000? 0 : 50
+      address: req.user.address,
+      contact: req.user.contact,
+      deliveryCharge: req.user.cartTotal > 1000 ? 0 : 50,
     })
-    .then((order) => {
-      console.log(order);
-      User.findById(req.user._id)
-      .then((user) => {
-        user.orders.splice(0,0,order._id); //add to orders
-        user.points += user.cartTotal*10/100
-        user.points = user.points.toFixed()
-        user.cart = []; //clear cart
-        user.cartTotal = 0;
-        return User.populate(user,{ path: "orders", populate: { path: "contents.product" }})
-      })
-      .then((user) => {
-        res.send({orders:user.orders,cart:user.cart,cartTotal:user.cartTotal,points:user.points})
-        user.save()
+      .then((order) => {
+        // console.log(order);
+        User.findById(req.user._id)
+          .then((user) => {
+            user.orders.splice(0, 0, order._id); //add to orders
+            user.points += (user.cartTotal * 10) / 100;
+            user.points = user.points.toFixed();
+            user.cart = []; //clear cart
+            user.cartTotal = 0;
+            return User.populate(user, {
+              path: "orders",
+              populate: { path: "contents.product" },
+            });
+          })
+          .then((user) => {
+            res.send({
+              orders: user.orders,
+              cart: user.cart,
+              cartTotal: user.cartTotal,
+              points: user.points,
+            });
+            user.save();
+          })
+          .catch((err) => next(err));
       })
       .catch((err) => next(err));
-    })
-    .catch((err) => next(err));
   });
 });
 

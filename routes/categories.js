@@ -63,14 +63,14 @@ createFilter = (body) => {
 
 // For getting products of catId and ancestors of catId
 router.get("/:catId/get-products/:pageNo", (req, res, next) => {
-  console.log("object", req.params.catId);
+  // console.log("object", req.params.catId);
   Category.find({ ancestors: req.params.catId })
     .distinct("_id")
     .then((cats) => {
       cats.push(Number(req.params.catId));
       filter = createFilter(req.body);
       filter.category = { $in: cats };
-      console.log(req.body);
+      // console.log(req.body);
       if (req.body.sort === "Price") {
         return Product.find(filter).sort({ price: req.body.order });
       } else {
@@ -91,14 +91,14 @@ router.get("/:catId/get-products/:pageNo", (req, res, next) => {
 });
 
 router.post("/:catId/get-products/:pageNo", (req, res, next) => {
-  console.log("object", req.params.catId);
+  // console.log("object", req.params.catId);
   Category.find({ ancestors: req.params.catId })
     .distinct("_id")
     .then((cats) => {
       cats.push(Number(req.params.catId));
       filter = createFilter(req.body);
       filter.category = { $in: cats };
-      console.log(req.body);
+      // console.log(req.body);
       if (req.body.sort === "Price") {
         return Product.find(filter).sort({ price: req.body.order });
       } else {
