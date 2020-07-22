@@ -118,4 +118,27 @@ router.post("/:catId/get-products/:pageNo", (req, res, next) => {
     .catch((err) => next(err));
 });
 
+router.get("/popular", (req, res, next) => {
+  Product.find({
+    _id: {
+      $in: [
+        "FP03",
+        "9510",
+        "UB52",
+        "1376",
+        "1515",
+        "T101",
+        "3912",
+        "1323",
+        "UB03",
+        "CG02",
+      ],
+    },
+  })
+    .then((prods) => {
+      res.send(prods);
+    })
+    .catch((err) => next(err));
+});
+
 module.exports = router;
