@@ -12,7 +12,7 @@ var fs = require("fs");
 
 const Category = require("../models/category");
 const Counter = require("../models/counter");
-
+const wakeUp = require("../utils/keepAwake");
 /**
  * Get port from environment and store in Express.
  */
@@ -46,16 +46,16 @@ server.listen(port, () => {
     .catch((err) => console.log(err));
   Counter.findOne({ name: "orderId" })
     .then((counter) => {
-      if(counter == null){
-        Counter.create({ name:"orderId", count:1000 })
+      if (counter == null) {
+        Counter.create({ name: "orderId", count: 1000 })
           .then((newCounter) => console.log("OrderId Counter Created"))
           .catch((err) => console.log(err));
-      }
-      else{
+      } else {
         console.log("OrderId Counter Existing");
       }
     })
     .catch((err) => console.log(err));
+  wakeUp("https://tiptop-nx.herokuapp.com/");
 });
 server.on("error", onError);
 server.on("listening", onListening);
