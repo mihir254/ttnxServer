@@ -41,12 +41,12 @@ router
       .populate("contents.product")
       .then((order) => {
         res.send(order);
-        if (order.status == "Delivered") {
-          User.findOne({ email: order.user }).then((user) => {
-            user.points =
-              parseInt(user.points) + parseInt((order.amount / 10).toFixed());
+        if(order.status == "Delivered"){
+          User.findOne({email:order.user})
+          .then((user) => {
+            user.points = parseInt(user.points) + parseInt((order.amount/10).toFixed());
             user.save();
-          });
+          })
         }
       })
       .catch((err) => next(err));
@@ -128,27 +128,25 @@ router
       .catch((err) => next(err));
   });
 
-router
-  .route("/user/points")
-  .post((req, res, next) => {
-    User.findOne({ email: req.body.email })
-      .then((user) => {
-        res.send(user);
-      })
-      .catch((err) => next(err));
+router.route("/user/points")
+  .post((req,res,next) => {
+    const pattern = new RegExp(req.body.email);
+    User.findOne({email : {$regex: pattern,$options:"si"}})
+    .then((user) => {
+      res.send(user);
+    })
+    .catch((err) => next(err));
   })
-  .put((req, res, next) => {
-    User.findOneAndUpdate(
-      { email: req.body.email },
+  .put((req,res,next) => {
+    User.findOneAndUpdate({email : req.body.email},
       {
-        $inc: { points: -req.body.pointsUsed },
+        $inc : {points : -req.body.pointsUsed}
       },
-      { safe: true, upsert: true, new: true }
-    )
-      .then((user) => {
-        res.send(user);
-      })
-      .catch((err) => next(err));
-  });
+      { safe: true, upsert: true, new: true })
+    .then((user) => {
+      res.send(user);
+    })
+    .catch((err) => next(err));
+  })
 
 module.exports = router;
